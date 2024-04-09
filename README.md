@@ -51,3 +51,9 @@ Board Repair Specialist @ Teradyne Philippines Ltd
 - OPEX Analytics
 - Revenue Analytics
 - Worldwide Headcount Expense Report
+
+### Power Automate Projects
+- Auto Reply for GBS-Finance Power BI Reports Access Request
+
+### Power Apps Projects
+- Revenue Analytics Driver Commentaries
