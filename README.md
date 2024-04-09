@@ -1,4 +1,4 @@
-# Business Intelligence Analyst
+# Business Intelligence Analyst Portfolio
 
 ### Education
 B.S. Industrial Technology - Major in Electronics @ Cebu Technological University
