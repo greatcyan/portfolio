@@ -1,12 +1,17 @@
-# BI Analyst | Power BI Developer
+# Power BI Developer
 
 ### Education
-Electronics, B.S. Industrial Technology
+Electronics, B.S. Industrial Technology @ Cebu Technological University
 
 ### Work Experience
-DX Business Analyst - Finance @ Lexmark Research and Development Corp.
-- big impact project 1
-- big impact project 2
+Finance Business Analyst @ Lexmark Research and Development Corp.
+- Report Automation
+- Digital Transformation
+- Project Management
 
 ### Projects
-
+- Occupancy Cost Center Analytics
+- Development Cost Analytics
+- Opex Analytics
+- Revenue Analytics
+- Worldwide Expense Report Bridging
