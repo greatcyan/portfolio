@@ -14,7 +14,8 @@ B.S. Industrial Technology - Major in Electronics @ Cebu Technological Universit
 
 ### Work Experience
 Finance Business Analyst @ Lexmark Research and Development Corp.
-- Report Automation and Development
+- Process Automation
+- Dashboard Development
 - Digital Transformation
 - Project Management
 
