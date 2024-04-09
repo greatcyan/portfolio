@@ -2,17 +2,4 @@ title: Cyrus Baruc
 # logo: assets/img/headshot_001.png
 # description:
 show_downloads: true
-theme: jekyll-theme-time machine
-# Architect
-# Cayman
-# Dinky
-# Hacker
-# Leap day
-# Merlot
-# Midnight
-# Minima
-# Minimal
-# Modernist
-# Slate
-# Tactile
-# Time machine
+theme: jekyll-theme-minimal
