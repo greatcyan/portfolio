@@ -3,7 +3,7 @@
 ### Education
 B.S. Industrial Technology Major Electronics @ Cebu Technological University
 
-### Education
+### Certificates
 - Data Associate @ Project SPARTA
 - Data Visualization @ Project SPARTA
 - Data Governance @ Project SPARTA
