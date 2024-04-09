@@ -1,4 +1,4 @@
-# Power BI Developer
+# Data Analyst/Business Analyst
 
 ### Education
 B.S. Industrial Technology Major Electronics @ Cebu Technological University
