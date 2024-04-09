@@ -1,4 +1,4 @@
-## Data Analyst | Business Intelligence Analyst
+## Cyrus Cueva Baruc
 
 ### Education
 B.S. Industrial Technology - Major in Electronics @ Cebu Technological University
