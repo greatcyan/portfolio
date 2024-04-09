@@ -43,8 +43,7 @@ Board Repair Specialist @ Teradyne Philippines Ltd
 - Test Manager UI
 
 ### Tableau 
-- Test Summary
-- Test Manager UI
+- Superstore Viz
 
 ### Power BI
 - Occupancy Cost Center Analytics
