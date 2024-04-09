@@ -1,4 +1,4 @@
-# BI Analyst | Data Analyst | Power BI Developer
+# BI Analyst | Power BI Developer
 
 ### Education
 Electronics Technology, BSIT
