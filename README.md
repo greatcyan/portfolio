@@ -33,9 +33,9 @@ Board Repair Specialist @ Teradyne Philippines Ltd
 - Statistical Analysis
 - Data Entry
   
-### Power BI Projects
-- Occupancy Cost Center Analytics
-- Development Cost Analytics
-- Opex Analytics
-- Revenue Analytics
-- Worldwide Expense Report Bridging
+### Excel 
+- Board Repair Tracking Sheet
+- Cebu Provincial Dashboard
+- Marketing Dashboard
+- 
+
