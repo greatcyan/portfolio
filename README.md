@@ -1,7 +1,7 @@
 # BI Analyst | Power BI Developer
 
 ### Education
-Electronics Technology, BSIT
+Electronics, B.S. Industrial Technology
 
 ### Work Experience
 DX Business Analyst - Finance @ Lexmark Research and Development Corp.
