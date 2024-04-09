@@ -1,4 +1,4 @@
-# Data Analyst | Business Analyst
+## Data Analyst | Business Intelligence Analyst
 
 ### Education
 B.S. Industrial Technology - Major in Electronics @ Cebu Technological University
