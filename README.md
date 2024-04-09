@@ -1,4 +1,4 @@
-## Cyrus Cueva Baruc
+# Cyrus Cueva Baruc
 
 ### Education
 B.S. Industrial Technology - Major in Electronics @ Cebu Technological University
