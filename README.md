@@ -1,7 +1,7 @@
 # Data Analyst/Business Analyst
 
 ### Education
-B.S. Industrial Technology Major Electronics @ Cebu Technological University
+B.S. Industrial Technology - Major in Electronics @ Cebu Technological University
 
 ### Certificates
 - Data Associate @ Project SPARTA
