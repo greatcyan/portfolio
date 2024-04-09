@@ -37,5 +37,18 @@ Board Repair Specialist @ Teradyne Philippines Ltd
 - Board Repair Tracking Sheet
 - Cebu Provincial Dashboard
 - Marketing Dashboard
-- 
+  
+### Python 
+- Test Summary
+- Test Manager UI
 
+### Tableau 
+- Test Summary
+- Test Manager UI
+
+### Power BI
+- Occupancy Cost Center Analytics
+- Development Cost Center Analytics
+- OPEX Analytics
+- Revenue Analytics
+- Worldwide Headcount Expense Report
