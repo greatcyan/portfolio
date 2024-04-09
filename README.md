@@ -2,13 +2,15 @@
 
 ### Education
 B.S. Industrial Technology Major Electronics @ Cebu Technological University
-Data Associate @ Project SPARTA
-Data Visualization @ Project SPARTA
-Data Governance @ Project SPARTA
-Computing @ Project SPARTA
-Google Data Analytics Professional Certificate @ Coursera
-Google Business Intelligence Certificate @ Coursera
-Microsoft Power BI Data Analyst Professional Certificate @ Coursera
+
+### Education
+- Data Associate @ Project SPARTA
+- Data Visualization @ Project SPARTA
+- Data Governance @ Project SPARTA
+- Computing @ Project SPARTA
+- Google Data Analytics Professional Certificate @ Coursera
+- Google Business Intelligence Certificate @ Coursera
+- Microsoft Power BI Data Analyst Professional Certificate @ Coursera
 
 ### Work Experience
 Finance Business Analyst @ Lexmark Research and Development Corp.
