@@ -50,7 +50,7 @@ Board Repair Specialist @ Teradyne Philippines Ltd
 - Development Cost Center Analytics
 - OPEX Analytics
 - Revenue Analytics
-- Worldwide Headcount Expense Report
+- Worldwide Expense Report
 
 ### Power Automate Projects
 - Auto Reply for GBS-Finance Power BI Reports Access Request
