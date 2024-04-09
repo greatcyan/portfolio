@@ -33,19 +33,19 @@ Board Repair Specialist @ Teradyne Philippines Ltd
 - Statistical Analysis
 - Data Entry
   
-### Excel 
+### Excel Projects
 - Board Repair Tracking Sheet
 - Cebu Provincial Dashboard
 - Marketing Dashboard
   
-### Python 
+### Python Projects
 - Test Summary
 - Test Manager UI
 
-### Tableau 
+### Tableau Projects
 - Superstore Viz
 
-### Power BI
+### Power BI Projects
 - Occupancy Cost Center Analytics
 - Development Cost Center Analytics
 - OPEX Analytics
