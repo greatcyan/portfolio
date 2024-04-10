@@ -22,7 +22,7 @@ Finance Business Analyst | Lexmark Research and Development Corp (Feb 2023 - Pre
 - Digital Transformation
 - Project Management
 
-Python Developer | Excigence Asia Inc (Dec 2021 - Mar 2022)
+[Python Developer | Excigence Asia Inc (Dec 2021 - Mar 2022)](excigence.md)
 - UI Development
 - Data Analysis
 - Data Visualization
