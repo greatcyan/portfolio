@@ -3,7 +3,7 @@
 #### Technical Skills: Python, Power BI, Advanced Excel, SQL, Tableau
 
 ### Education
-B.S. Industrial Technology - Major in Electronics @ Cebu Technological University
+- B.S. Industrial Technology major Electronics | Cebu Technological University | March 2012
 
 ### Certificates
 - Data Associate @ Project SPARTA
