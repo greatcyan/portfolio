@@ -10,5 +10,6 @@ This microspecialization focuses on training learners in the creation and commun
 - Data Visualization Using Tableau and Python
 - Storytelling Using Data
 
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/d28b2169-5426-4882-928b-cda27ab23270)
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/4748da2c-ae7e-45bf-b977-e673e5082240)
+
 
