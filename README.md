@@ -7,7 +7,7 @@
 
 ### Certificates
 - [Data Associate @ Project SPARTA (Nov 2022)](dataassociatecertificate.md)
-- Data Visualization @ Project SPARTA (Nov 2022)
+- [Data Visualization @ Project SPARTA (Nov 2022)](datavisualization.md)
 - Data Governance @ Project SPARTA (Aug 2023)
 - Computing @ Project SPARTA (Nov 2022)
 - [Google Data Analytics @ Coursera (Jan 2023)](https://www.coursera.org/account/accomplishments/specialization/certificate/3TEW945THR6X)
