@@ -10,7 +10,7 @@ B.S. Indrustrial Technology major in Electronics @ Cebu Technological University
 - Data Visualization @ Project SPARTA (Nov 2022)
 - Data Governance @ Project SPARTA (Aug 2023)
 - Computing @ Project SPARTA (Nov 2022)
-- Google Data Analytics @ Coursera (Jan 2023)
+- [Google Data Analytics @ Coursera (Jan 2023)](https://www.coursera.org/account/accomplishments/specialization/certificate/3TEW945THR6X)
 - Google Business Intelligence @ Coursera (Feb 2024)
 - Microsoft Power BI Data Analyst @ Coursera (Mar 2024)
 
