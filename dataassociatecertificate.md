@@ -12,4 +12,5 @@ Sources, processes, analyzes data, and provides reports to explain insights. Ent
 -  Data Visualization Fundamentals
 -  Data Associate Capstone Course
   
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/2eb0db3c-faa3-4fcf-9726-44997a1c7bf8)
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/7e9929ff-c3c8-4a49-aba7-8e16c191b42e)
+
