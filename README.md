@@ -64,3 +64,6 @@ Board Repair Specialist | Teradyne Philippines Ltd (Jun 2012 - Aug 2015)
 - Revenue Analytics Driver Commentaries
 
 *Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](https://greatcyan.github.io/Analytics-portfolio/), or even [use it today](#usage).*
+
+[Google Data Analytics @ Coursera (Jan 2023)](https://www.coursera.org/account/accomplishments/specialization/certificate/3TEW945THR6X){:target="_blank"}
+
