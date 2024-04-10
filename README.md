@@ -6,13 +6,13 @@
 B.S. Electronics Technology | Cebu Technological University (Mar 2012)
 
 ### Certificates
-- Data Associate | Project SPARTA (Nov 2022)
-- Data Visualization | Project SPARTA (Nov 2022)
-- Data Governance | Project SPARTA (Aug 2023)
-- Computing | Project SPARTA (Nov 2022)
-- Google Data Analytics | Coursera (Jan 2023)
-- Google Business Intelligence | Coursera (Feb 2024)
-- Microsoft Power BI Data Analyst | Coursera (Mar 2024)
+Data Associate | Project SPARTA (Nov 2022)
+Data Visualization | Project SPARTA (Nov 2022)
+Data Governance | Project SPARTA (Aug 2023)
+Computing | Project SPARTA (Nov 2022)
+Google Data Analytics | Coursera (Jan 2023)
+Google Business Intelligence | Coursera (Feb 2024)
+Microsoft Power BI Data Analyst | Coursera (Mar 2024)
 
 ### Work Experience
 Finance Business Analyst | Lexmark Research and Development Corp (Feb 2023 - Present)
