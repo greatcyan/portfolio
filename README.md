@@ -11,8 +11,8 @@
 - Data Governance @ Project SPARTA (Aug 2023)
 - Computing @ Project SPARTA (Nov 2022)
 - [Google Data Analytics @ Coursera (Jan 2023)](https://www.coursera.org/account/accomplishments/specialization/certificate/3TEW945THR6X)
-- Google Business Intelligence @ Coursera (Feb 2024)
-- Microsoft Power BI Data Analyst @ Coursera (Mar 2024)
+- [Google Business Intelligence @ Coursera (Feb 2024)](https://www.coursera.org/account/accomplishments/specialization/certificate/2XB4A9AF2LAX)
+- [Microsoft Power BI Data Analyst @ Coursera (Mar 2024)](https://www.coursera.org/account/accomplishments/specialization/certificate/WMZL7QFCQ4TP)
 
 ### Work Experience
 Finance Business Analyst | Lexmark Research and Development Corp (Feb 2023 - Present)
