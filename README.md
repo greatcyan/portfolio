@@ -1,6 +1,6 @@
 ## Business Intelligence Analyst
 
-#### Technical Skills: Python, Power BI, Advanced Excel, SQL, Tableau
+#### Technical Skills: Python, Power BI, Advanced Excel, SQL, Tableau, SAP
 
 ### Education
 B.S. Electronics Technology | Cebu Technological University (Mar 2012)
