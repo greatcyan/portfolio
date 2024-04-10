@@ -6,7 +6,7 @@
 [B.S. Indrustrial Technology major in Electronics @ Cebu Technological University (Mar 2012)](https://drive.google.com/file/d/1R9oonVZTRWQlHTeg4oLtwmjpj-FjHuiP/view?usp=sharing)
 
 ### Certificates
-- Data Associate @ Project SPARTA (Nov 2022)
+- [Data Associate @ Project SPARTA (Nov 2022)](dataassociatecertificate.md)
 - Data Visualization @ Project SPARTA (Nov 2022)
 - Data Governance @ Project SPARTA (Aug 2023)
 - Computing @ Project SPARTA (Nov 2022)
