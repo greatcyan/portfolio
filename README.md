@@ -33,7 +33,7 @@ Senior Board Repair Specialist | Linksphere Technologies Corp (Aug 2015 - Jan 20
 - Parts Inventory
 - Repair Tracking
 
-Board Repair Specialist | Teradyne Philippines Ltd (Jun 2012 - Aug 2015)
+[Board Repair Specialist | Teradyne Philippines Ltd (Jun 2012 - Aug 2015)](teradyne.md)
 - Failure Analysis
 - Statistical Analysis
 - Data Entry
