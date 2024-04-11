@@ -27,7 +27,7 @@ Finance Business Analyst | Lexmark Research and Development Corp (Feb 2023 - Pre
 - Data Analysis
 - Data Visualization
 
-Senior Board Repair Specialist | Linksphere Technologies Corp (Aug 2015 - Jan 2023)
+[Senior Board Repair Specialist | Linksphere Technologies Corp (Aug 2015 - Jan 2023)](linksphere.md)
 - Failure Analysis
 - Statistical Analysis
 - Parts Inventory
