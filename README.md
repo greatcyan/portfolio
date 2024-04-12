@@ -39,7 +39,7 @@
 - Data Entry
   
 ### Excel Projects
-- Board Repair Tracking Sheet
+- [Board Repair Tracking Sheet](repair tracking sheet.md)
 - Cebu Provincial Dashboard
 - Marketing Dashboard
   
