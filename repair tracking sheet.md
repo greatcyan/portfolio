@@ -2,7 +2,7 @@
 
 ## Linksphere Technologies Repair Tracking Sheet
 ### Overview
-The goal of the repair tracking sheet project is to organize the board repair process by recording all board repair activities using the tracking sheet. Additionally, it's also used to effectively plan shipments and track commissions per board.
+The goal of the repair tracking sheet project is to organize the board repair process by recording all board repair activities using the tracking sheet. Additionally, it's also used to effectively plan shipments and track performance. Automatic calculation for commissions per board is also included in this project.
 
 ### Tools 
 -  VBA
@@ -11,17 +11,22 @@ The goal of the repair tracking sheet project is to organize the board repair pr
 -  Data VIsualization
 
 ### Impact
-Establishing a standard process for record-keeping and shipment planning improves decision-making and facilitates the visualization of board repair transactions.
+Establishing a standard process for record-keeping and shipment planning improves decision-making and facilitates the visualization of board repair performance.
 
-### Board Records Tab
+### Board Records
+All records can be filtered by technician, allowing for team collaboration and easy task management.
 
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/ef31e571-4cd8-4bf3-9d2c-69a5d3d3ce43)
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/c8739aad-ef4d-4530-9598-7739a890a751)
 
-### By Customer Tab
+### Boards by Customer
+All records are displayed automatically based on the selected customer and repair status, resulting in time savings and better shipment planning, enhancing customer experience.
 
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/ca66aa05-35d3-4322-a942-f0f3ab499f0a)
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/5085fbbc-6f39-48aa-aa1a-698f40df1ce0)
 
-### Commission Recors Tab
+
+### Commission Records
+
+This is used by management to track the paid/unpaid commissions by technician.
 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/f97a267c-0eb9-4669-9cd9-6603c29c7a02)
 
