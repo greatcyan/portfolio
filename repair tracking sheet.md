@@ -1,7 +1,17 @@
 ## [⬅️Back](./)
 
 ## Linksphere Technologies Repair Tracking Sheet
+### Overview
+The goal of the repair tracking sheet project is to organize the board repair process by recording all board repair activities using the tracking sheet. Additionally, it's also used to effectively plan shipments and track commissions per board.
 
+### Tools 
+-  VBA
+-  Pivot Table
+-  Advance Formulas
+-  Data VIsualization
+
+### Impact
+Establishing a standard process for record-keeping and shipment planning improves decision-making and facilitates the visualization of board repair transactions.
 
 ### Board Records Tab
 
