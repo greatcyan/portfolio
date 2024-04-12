@@ -15,7 +15,7 @@
 - [Microsoft Power BI Data Analyst @ Coursera (Mar 2024)](https://www.coursera.org/account/accomplishments/specialization/certificate/WMZL7QFCQ4TP){:target="_blank"}
 
 ### Work Experience
-Finance Business Analyst | Lexmark Research and Development Corp (Feb 2023 - Present)
+[Finance Business Analyst | Lexmark Research and Development Corp (Feb 2023 - Present)](lexmark.md)
 - Process Automation
 - Analytics Modeling
 - Dashboard Development
