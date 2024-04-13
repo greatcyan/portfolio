@@ -25,7 +25,8 @@ This app is used to manage test scripts for testing electrical devices. It also 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/4cbfd472-3276-4a71-9581-38ed648d2adc)
 
 ### Proof of Freelance Work
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/789a8bda-fa2e-4a9c-978c-2485f261d24d "Proof of Freelance Work")
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/2ff33050-133a-44d8-a1a1-7f290214b7a2)
+
 
 
 
