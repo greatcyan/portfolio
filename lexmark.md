@@ -1,6 +1,7 @@
 ## [⬅️Back](./)
 
 ## Finance Business Analyst
+I am currently connected with Lexmark, where my role as a Finance Business Analyst involves collaborating with the finance and accounting teams. My responsibilities include gathering business requirements, creating technical specifications, translating these requirements into a business intelligence (BI) context, and providing solutions. These solutions often include process automation and the development of custom reports and dashboards. Additionally, I handle ad hoc requests as they arise.
 
 ### About Lexmark Research and Development Corp
 Lexmark creates cloud-enabled imaging and IoT technologies that help customers worldwide quickly realise business outcomes. Through a powerful combination of proven technologies and deep industry expertise, we accelerate business transformation, turning information into insights, data into decisions, and analytics into action.
