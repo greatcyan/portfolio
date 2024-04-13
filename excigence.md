@@ -25,8 +25,7 @@ This app is used to manage test scripts for testing electrical devices. It also 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/4cbfd472-3276-4a71-9581-38ed648d2adc)
 
 ## Proof of Freelance Work
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/82e0a2e3-5f31-4aba-8192-618fa4ed714c)
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/789a8bda-fa2e-4a9c-978c-2485f261d24d "Proof of Freelance Work")
 
-![Proof of Freelance Work!](/assets/Certification - Excigence Asia Incorporated.pdf "Proof of Freelance Work")
 
 
