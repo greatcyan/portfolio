@@ -1,4 +1,4 @@
-## Business Intelligence Analyst
+## BI Analyst | Power BI Developer
 
 #### Technical Skills: Python, Power BI, Advanced Excel, SQL, Tableau, SAP
 
