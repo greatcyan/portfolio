@@ -39,29 +39,19 @@ I've worked in technical and analytical roles for over a decade and data has bee
 - Statistical Analysis
 - Data Entry
   
-### Excel Projects
+### Projects
 - [Board Repair Tracking Sheet](repair tracking sheet.md)
 - Cebu Provincial Dashboard
 - Marketing Dashboard
-  
-### Python Projects
 - Test Summary
 - Test Manager UI
-
-### Tableau Projects
 - Superstore Viz
-
-### Power BI Projects
 - Occupancy Cost Center Analytics
 - Development Cost Center Analytics
 - OPEX Analytics
 - Revenue Analytics
 - Worldwide Expense Report
-
-### Power Automate Projects
 - Auto Reply for GBS-Finance Power BI Reports Access Request
-
-### Power Apps Projects
 - Revenue Analytics Driver Commentaries
 
 
