@@ -17,7 +17,7 @@ The team is under the Analytics Governance (AG) and we support Finance and Accou
 ### Lexmark Business Communication Training Program
 This was me during my final presentation, a requirement to pass the training. The presentation took place on October 26, 2023, and my topic was "Data is the New Oil." 
 
-[Watch my presentation in youtube.](https://www.youtube.com/watch?v=QsVjVikTm_E){:target="_blank"}
+[👉 Watch my presentation in youtube.](https://www.youtube.com/watch?v=QsVjVikTm_E){:target="_blank"}
 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/508e1b1a-bacb-4105-8391-28e29a359b8a)
 
