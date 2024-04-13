@@ -1,7 +1,7 @@
 ## [⬅️Back](./)
 
 # Python Developer
-I worked as a freelance Python developer. The goal was to create a Python script for data analysis and data visualization functionalities, which are dependencies for their end-to-end test development project.
+I worked for Excigence as a freelance Python developer. The goal was to create a Python script for data analysis and data visualization functionalities, which are dependencies for their end-to-end test development project.
 
 Prior to this project, I completed trainings and certification in Python programming and data analysis.
 - [Programming for Intermediate Users Using Python](https://courses.buri.io/view/user/certificate/e1c6234d-adce-4475-902a-ad6cc37f2669/pdf){:target="_blank"}
