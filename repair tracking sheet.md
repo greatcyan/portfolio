@@ -1,7 +1,7 @@
 ## [⬅️Back](./)
 
 ## Linksphere Technologies Repair Tracking Sheet
-[Download the file.](https://downgit.github.io/#/home?url=https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/blob/main/LTC_Repair%20Tracking%20Sheet%20v2022.1.xlsm)
+[Download the file.](https://downgit.github.io/#/home?url=https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/blob/main/LTC_Repair%20Tracking%20Sheet%20v2022.1.xlsm){:target="_blank"}
 ### Overview
 The goal of the repair tracking sheet project is to organize the board repair process by recording all board repair activities using the tracking sheet. Additionally, it's also used to effectively plan shipments and track performance. Automatic calculation for commissions per board is also included in this project.
 
