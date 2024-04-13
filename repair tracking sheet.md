@@ -18,7 +18,7 @@ All records can be filtered by technician, allowing for team collaboration and e
 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/c8739aad-ef4d-4530-9598-7739a890a751)
 
-### Boards by Customer
+### Boards by Customer Tab
 All records are displayed automatically based on the selected customer and repair status, resulting in time savings and better shipment planning, enhancing customer experience.
 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/5085fbbc-6f39-48aa-aa1a-698f40df1ce0)
@@ -26,7 +26,8 @@ All records are displayed automatically based on the selected customer and repai
 
 ### Commission Records
 
-This is used by management to track the paid/unpaid commissions by technician.
+This tab is used by management to track the paid/unpaid commissions by technician.
 
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/f97a267c-0eb9-4669-9cd9-6603c29c7a02)
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/483d0e5f-8d50-4707-89f4-e2fa0ce1cef9)
+
 
