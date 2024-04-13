@@ -1,9 +1,18 @@
 ## [⬅️Back](./)
+
+# Python Developer - Test Development Project
+I worked as a freelance Python developer. The goal was to create a Python script for data analysis and data visualization functionalities, which are dependencies for their end-to-end test development project.
+
+## About Excigence Asia Inc.
+Excigence Asia Inc. is a test development company and have the goal to be the leader in Test Development solutions and services in the Philippines and Asia.
+
 [👉 Click here to view Excigence Asia Inc website.](https://www.excigence.com/customers/){:target="_blank"} 
 
-## Excigence Asia Incorporated - A Test Development Company
-will be the leader in Test Development solutions and services in the Philippines and Asia.
+## The Project
+Due to confidentiality, sharing the whole scripts is not allowed. Below video is the actual coding development and demonstration. It shows the expected result of Python code. 
 
-[Development and Demo] (<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6972768338083033089" height="551" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>)
+[Development and Demo] (https://www.linkedin.com/posts/cyrus-baruc_dataanalysis-datavizualization-activity-6972768351525773312-Kf6L?utm_source=share&utm_medium=member_desktop){:target="_blank"}
 
+## Certification
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/ee08d305-13a3-4c79-903b-23d717fb96a8)
+
