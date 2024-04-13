@@ -1,4 +1,5 @@
 ## [⬅️Back](./)
+[Click here to view CTU website.](https://www.ctu.edu.ph/)
 
 ## Bachelor of Science in Industrial Technology major in Electronics Technology
 The program prepares students for careers in a wide range of industries that manufacture and/or use electrical and electronic equipment. The program teaches digital electronics, circuit analysis, electronic devices, machine controls, programmable logic controllers, and industrial electronics in depth. Theoritical analysis, software simulation, and hands-on applications are also included in this course. 
