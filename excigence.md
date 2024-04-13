@@ -3,7 +3,7 @@
 # Python Developer
 I worked as a freelance Python developer. The goal was to create a Python script for data analysis and data visualization functionalities, which are dependencies for their end-to-end test development project.
 
-Prior to this project, I have completed trainings and certification in Python programming and data analysis.
+Prior to this project, I completed trainings and certification in Python programming and data analysis.
 - [Programming for Intermediate Users Using Python](https://courses.buri.io/view/user/certificate/e1c6234d-adce-4475-902a-ad6cc37f2669/pdf){:target="_blank"}
 - [Learn Basic Statistics with Python](https://courses.buri.io/view/user/certificate/3d495346-e110-410a-9114-091d45cb2c6d/pdf){:target="_blank"}
 - [Analyze Data with Python](https://courses.buri.io/view/user/certificate/97632d55-f80a-4b4d-92ec-313bcb1bedb5/pdf){:target="_blank"}
