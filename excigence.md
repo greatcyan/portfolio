@@ -3,6 +3,13 @@
 # Python Developer
 I worked as a freelance Python developer. The goal was to create a Python script for data analysis and data visualization functionalities, which are dependencies for their end-to-end test development project.
 
+Prior to this project, I have completed trainings and certification in Python programming and data analysis.
+- [Programming for Intermediate Users Using Python](https://courses.buri.io/view/user/certificate/e1c6234d-adce-4475-902a-ad6cc37f2669/pdf){:target="_blank"}
+- [Learn Basic Statistics with Python](https://courses.buri.io/view/user/certificate/3d495346-e110-410a-9114-091d45cb2c6d/pdf){:target="_blank"}
+- [Analyze Data with Python](https://courses.buri.io/view/user/certificate/97632d55-f80a-4b4d-92ec-313bcb1bedb5/pdf){:target="_blank"}
+- [Visualize Data with Python](https://courses.buri.io/view/user/certificate/c4fa38a1-d16f-4619-9af0-a3c4b1b97c53/pdf){:target="_blank"}
+- [Build Python Web Apps with Flask](https://courses.buri.io/view/user/certificate/4c844e9f-b62e-4c0f-b161-0e8b10253581/pdf){:target="_blank"}
+
 ## About Excigence Asia Inc.
 Excigence Asia Inc. is a test development company and have the goal to be the leader in Test Development solutions and services in the Philippines and Asia.
 
