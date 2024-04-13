@@ -1,6 +1,4 @@
 ## [⬅️Back](./)
-[👉 Click here to view Project SPARTA website.](https://sparta.dap.edu.ph/){:target="_blank"}
-
 ## Data Associate
 Sources, processes, analyzes data, and provides reports to explain insights. Entry-level with no domain expertise.
 
@@ -15,3 +13,4 @@ Sources, processes, analyzes data, and provides reports to explain insights. Ent
   
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/7e9929ff-c3c8-4a49-aba7-8e16c191b42e)
 
+[👉 Click here to view Project SPARTA website.](https://sparta.dap.edu.ph/){:target="_blank"}
