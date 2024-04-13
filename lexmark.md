@@ -11,8 +11,6 @@ The team is under the Analytics Governance (AG) and we support Finance and Accou
 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/bda10b62-0d6c-4536-947e-3d16b8af83f2)
 
-## Extra Cullicular Activities 
-
 ### Lexmark Business Communication Training Program
 This was me during my final presentation, a requirement to pass the training. The presentation took place on October 26, 2023, and my topic was "Data is the New Oil."
 
