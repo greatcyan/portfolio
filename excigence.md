@@ -11,7 +11,7 @@ Prior to this project, I completed trainings and certification in Python program
 - [Build Python Web Apps with Flask](https://courses.buri.io/view/user/certificate/4c844e9f-b62e-4c0f-b161-0e8b10253581/pdf){:target="_blank"}
 
 ## About Excigence Asia Inc.
-Excigence Asia Inc. is a test development company and have the goal to be the leader in Test Development solutions and services in the Philippines and Asia.
+Excigence Asia Inc. is a test development company with the goal to be the leader in Test Development solutions and services in the Philippines and Asia.
 
 [👉 Click here to view Excigence Asia Inc website.](https://www.excigence.com/customers/){:target="_blank"} 
 
