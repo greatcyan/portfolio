@@ -1,5 +1,5 @@
 ## [⬅️Back](./)
-[Click here to view Teradyne website.](https://www.teradyne.com/semiconductor-testing/){:target="_blank"}
+[👉 Click here to view Teradyne website.](https://www.teradyne.com/semiconductor-testing/){:target="_blank"}
 
 ## TERADYNE Philippines Ltd
 TERADYNE companies deliver manufacturing automation across industries, applications and the world. Together, we solve complex test and automation challenges and enable businesses to achieve higher production volumes, higher quality and higher ROI.
