@@ -20,8 +20,20 @@ This was me during my final presentation, a requirement to pass the training. Th
 [👉 Watch my presentation in youtube.](https://www.youtube.com/watch?v=QsVjVikTm_E){:target="_blank"}
 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/508e1b1a-bacb-4105-8391-28e29a359b8a)
-
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/0ca47d1a-ed7a-4d1b-ae6e-d296ed911d25)
+
+### Training and Certificates
+
+- [Building Shared Understanding across Cultural Divides](https://skillsoft.digitalbadges.skillsoft.com/b68d77e8-9a61-4dc3-b90d-dd80e435e609#gs.7cak1t){:target="_blank"}
+- [Trust Building through Effective Communication](https://skillsoft.digitalbadges.skillsoft.com/7ba8bb09-ae05-4a4f-a7e7-339589a7728f#gs.7casj8){:target="_blank"}
+- [Workplace Diversity, Equity, and Inclusion in Action](https://skillsoft.digitalbadges.skillsoft.com/98b218bc-dc93-4432-8ff2-e59fb4fd49d6#gs.7cau3b){:target="_blank"}
+- [Introduction to Systems and Tools](https://lexlearn.digitalbadges.skillsoft.com/f475330f-03f9-499d-915d-f2071ca74d2d#gs.7cavu6){:target="_blank"}
+- [DX Overview](https://lexlearn.digitalbadges.skillsoft.com/25d27605-a1b2-4961-b5d9-2fa81086d396#gs.7cay7o){:target="_blank"}
+- [DX Strategy](https://lexlearn.digitalbadges.skillsoft.com/ea8f30f7-e66e-4858-aa71-271e04f0326f){:target="_blank"}
+- [Introduction to DX Onboarding Journey](https://lexlearn.digitalbadges.skillsoft.com/23047b0e-7332-43c7-9b63-7dbab6fa99fa#gs.7cb2ee){:target="_blank"}
+
+### Affiliations and Clubs
+- Lexmark Toastmasters Club International
 
 
 
