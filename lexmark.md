@@ -1,6 +1,6 @@
 ## [⬅️Back](./)
 
-## Finance Business Analyst @ Lexmark (1 year and 2 months)
+## Finance Business Analyst
 
 ### About Lexmark Research and Development Corp
 Lexmark creates cloud-enabled imaging and IoT technologies that help customers worldwide quickly realise business outcomes. Through a powerful combination of proven technologies and deep industry expertise, we accelerate business transformation, turning information into insights, data into decisions, and analytics into action.
