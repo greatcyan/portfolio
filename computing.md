@@ -1,4 +1,5 @@
 ## [⬅️Back](./)
+[Click here to view Project SPARTA website.](https://sparta.dap.edu.ph/){:target="_blank"}
 
 ## Computing
 The computing pathway is designed to equip learners with essential skills in data analytics and computing tools.
