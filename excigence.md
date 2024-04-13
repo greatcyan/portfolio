@@ -1,6 +1,6 @@
 ## [⬅️Back](./)
 
-# Python Developer - Test Development Project
+# Python Developer
 I worked as a freelance Python developer. The goal was to create a Python script for data analysis and data visualization functionalities, which are dependencies for their end-to-end test development project.
 
 ## About Excigence Asia Inc.
