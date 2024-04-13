@@ -11,7 +11,6 @@ Excigence Asia Inc. is a test development company and have the goal to be the le
 ## The Project
 Due to confidentiality, sharing the whole scripts is not allowed. You may watch the actual development video by clicking this [link](https://www.linkedin.com/posts/cyrus-baruc_dataanalysis-datavizualization-activity-6972768351525773312-Kf6L?utm_source=share&utm_medium=member_desktop){:target="_blank"}. 
 
-[Development and Demo]
 
 ## Certification
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/ee08d305-13a3-4c79-903b-23d717fb96a8)
