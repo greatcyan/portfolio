@@ -1,9 +1,7 @@
 ## BI Analyst | Power BI Developer 
-I've worked in technical and analytical roles for over a decade, consistently delivering value and making a significant impact. Data has been central to my career—I've used it to analyze failures, improve processes with spreadsheets and macros, develop UIs, and create data analysis and visualizations. I also have experience in automating processes and developing dashboards using the Power Platform.
+I've worked in technical and analytical roles for over a decade and data has been central to my career—I've used it to analyze failures, improve processes with spreadsheets and macros, and create data analysis and visualizations. I also have experience in automating processes and developing dashboards using the Microsoft Power Platform.
 
-
-
-#### Technical Skills: Python, Power BI, Advanced Excel, SQL, Tableau, SAP
+#### Technical Skills: Python, Power BI, Power Apps, Power Automated, Advanced Excel, SQL, Tableau, SAP
 
 ### Education
 [B.S. Industrial Technology major in Electronics @ Cebu Technological University (Mar 2012)](diploma.md)
