@@ -23,7 +23,7 @@ This was me during my final presentation, a requirement to pass the training. Th
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/508e1b1a-bacb-4105-8391-28e29a359b8a)
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/0ca47d1a-ed7a-4d1b-ae6e-d296ed911d25)
 
-### Training and Certificates
+### Other Trainings and Certificates
 
 - [Building Shared Understanding across Cultural Divides](https://skillsoft.digitalbadges.skillsoft.com/b68d77e8-9a61-4dc3-b90d-dd80e435e609#gs.7cak1t){:target="_blank"}
 - [Trust Building through Effective Communication](https://skillsoft.digitalbadges.skillsoft.com/7ba8bb09-ae05-4a4f-a7e7-339589a7728f#gs.7casj8){:target="_blank"}
