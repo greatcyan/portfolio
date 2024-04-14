@@ -41,7 +41,7 @@ I've worked in technical and analytical roles for over a decade and data has bee
   
 ### Projects
 - [Board Repair Tracking Sheet](repair tracking sheet.md)
-- Cebu Provincial Dashboard
+- [Cebu Provincial Dashboard](cebuprovincialdashboard.md)
 - Marketing Dashboard
 - Test Summary
 - Test Manager UI
