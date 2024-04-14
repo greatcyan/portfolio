@@ -22,7 +22,7 @@ The dashboard tab is the main tab of the workbook. It is a dynamic dashboard tha
 ### The Process
 
 #### Data source
-The data source is from Digital Cities PH{:target="_blank"} and is filtered for Cebu Province only. Since there was no structured table available, I manually scraped the data and pasted it into the Excel workbook under the Extracted_Data (Raw) worksheet, organizing the data for easy referencing.
+The data source is from [Digital Cities PH](https://www.digitalcitiesph.com/){:target="_blank"} and is filtered for Cebu Province only. Since there was no structured table available, I manually scraped the data and pasted it into the Excel workbook under the Extracted_Data (Raw) worksheet, organizing the data for easy referencing.
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/f647afeb-16f5-45e6-925e-e4f1aa82007a)
 
 #### Data Cleansing and Transformation
