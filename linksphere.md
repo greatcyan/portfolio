@@ -1,4 +1,6 @@
 ## [⬅️Back](./)
+# Senior Board Repair Specialist
+As a Senior Board Repair Specialist at Linksphere, my tasks include repairing faulty circuit boards and maintaining automated test equipment through periodic preventive maintenance activities. I also manage parts inventory and track board repairs for better planning of tasks and shipments.
 
 ## Linksphere Technologies Corp
 LINKSPHERE TECHNOLOGIES, CORP. is established with the purpose of providing parts and equipment sales, maintenance and repair services with the latest technology solutions for the semiconductor, electronics, health and medical industry. 
