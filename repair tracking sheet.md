@@ -1,6 +1,7 @@
 ## [⬅️Back](./)
 
 ## Board Repair Tracker
+An Excel project for Linksphere Technologies Corp.
 
 ### Overview
 The goal of the board repair tracker project is to organize the board repair process by recording all board repair activities using the spreadsheet. Additionally, it's also used to effectively plan shipments and track performance. Automatic calculation for commissions per board is also included in this project.
