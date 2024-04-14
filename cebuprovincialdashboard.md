@@ -21,20 +21,20 @@ The dashboard tab is the main tab of the workbook. It is a dynamic dashboard tha
 
 ### The Process
 
-##### Data source
-- The data source is (https://www.digitalcitiesph.com/) and is filtered for Cebu Province only. Since there were no structured databases available, I manually scraped the data and pasted it into the Excel workbook under the *Extracted_Data (Raw)* worksheet.
-
+#### Data source
+The data source is from Digital Cities PH{:target="_blank"} and is filtered for Cebu Province only. Since there was no structured table available, I manually scraped the data and pasted it into the Excel workbook under the Extracted_Data (Raw) worksheet, organizing the data for easy referencing.
+ani
   ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/f647afeb-16f5-45e6-925e-e4f1aa82007a)
 
-###### Data Cleansing and Transformation
+#### Data Cleansing and Transformation
 -  The data is cleansed and transformed using advanced Excel formulas such as INDEX, SEARCH, and MID to automate referencing and lookups.
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/c36cc8bd-5bbd-48c7-a6a4-d7d6215799aa)
 
-##### Finalizing and Loading of Data
+#### Finalizing and Loading of Data
 - Created a final table that is ready for analysis and exploration.
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/47d38abb-a342-40ec-83aa-50d4704b674e)
 
-##### Data Analysis
+#### Data Analysis
 - Analyzed the data and made a query tables and linked charts to be used for data viz and dashboard.
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/c961d0b4-9789-432b-a6d8-f17972501da0)
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/47e13d84-967b-4726-a138-feba0d4d1035)
