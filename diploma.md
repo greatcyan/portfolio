@@ -4,4 +4,5 @@ The program prepares students for careers in a wide range of industries that man
 
 👉 [Click here to view CTU website.](https://www.ctu.edu.ph/){:target="_blank"} 
 
+## Diploma
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/fd46fbfe-920c-4cd8-8c9c-887f7247cafd)
