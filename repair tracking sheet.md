@@ -2,11 +2,10 @@
 
 ## Board Repair Tracker
 An Excel project for Linksphere Technologies Corp.
+[Click here to download the board tracker file.](https://downgit.github.io/#/home?url=https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/blob/main/LTC_Repair%20Tracking%20Sheet%20v2022.1.xlsm){:target="_blank"}
 
 ### Overview
 The goal of the board repair tracker project is to organize the board repair process by recording all board repair activities using the spreadsheet. Additionally, it's also used to effectively plan shipments and track performance. Automatic calculation for commissions per board is also included in this project.
-
-[Click here to download the board tracker file.](https://downgit.github.io/#/home?url=https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/blob/main/LTC_Repair%20Tracking%20Sheet%20v2022.1.xlsm){:target="_blank"}
 
 ### Tools 
 -  Excel
