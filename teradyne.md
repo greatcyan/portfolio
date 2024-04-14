@@ -9,15 +9,16 @@ TERADYNE companies deliver manufacturing automation across industries, applicati
 
 ### My Teradyne Days
 
-Our team during the outreach program for pupils in Camp IV Elementary School, Talisay, Cebu.
+Our team participated in an outreach program for pupils at Camp IV Elementary School in Talisay, Cebu. We provided school supplies and organized activities such as singing and dancing.
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/1aba76dc-c41d-4ee3-a072-6f960a819a08)
 
-During 2013 Sports Fest Activity.
+This was me and my colleagues representing Teradyne during the 2013 MEPZ Sports Fest opening ceremony.
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/77687f7e-49c0-4ccb-9d6c-51a368a5211d "2013 Sports Fest")
 
 The team dressed up as gangsters for the 2014 Teradyne Year-end Party.
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/7067c771-8e0c-49d0-a207-0128d1353bc1 "2014 Year-End Party")
 
+### Awards and Recognition
 
 ### Proof of Employment
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/7a8cc847-1f03-4d6c-a47e-2cf1a6d58a47)
