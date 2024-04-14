@@ -1,5 +1,5 @@
 ## [⬅️Back](./)
-# Test Technician / Board Repair Specialist
+# Board Repair Specialist
 As a Board Repair Specialist at Teradyne, I am responsible in the debug and quality repair of defective boards. I am also expected to do first level system maintenance. Other responsibilities also include working with the Test Engineer in process requirements, quality improvements, reliability issues, as well as meeting repair goals. 
 
 ## About Teradyne Philippines Ltd
