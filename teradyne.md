@@ -19,11 +19,10 @@ The team dressed up as gangsters for the 2014 Teradyne Year-end Party.
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/7067c771-8e0c-49d0-a207-0128d1353bc1 "2014 Year-End Party")
 
 ### Awards and Recognition
-Certificate of Appreciation
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/04f6b049-cda5-43f2-b726-346cc0bcf538)
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/60ec4f5c-9f83-4ecc-aaba-fbdb1dbefd42)
 
-Certificate of Recognition
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/c96bc524-b5d7-47f5-90c0-89fb3f996483)
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/7959f224-7b45-49c6-8de2-2530f031721f)
+
 
 ### Proof of Employment
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/7a8cc847-1f03-4d6c-a47e-2cf1a6d58a47)
