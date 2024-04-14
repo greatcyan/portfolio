@@ -13,7 +13,7 @@ The goal of the board repair tracker project is to organize the board repair pro
 -  VBA
 -  Pivot Table
 -  Advance Formulas
--  Data VIsualization
+-  Data Visualization
 
 ### Impact
 Establishing a standard process for record-keeping and shipment planning improves decision-making and facilitates the visualization of board repair performance.
