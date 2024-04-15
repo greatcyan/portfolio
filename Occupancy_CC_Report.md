@@ -8,6 +8,6 @@ The data source is extracted from SAP Business Warehouse, normalized into differ
 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/182f57a4-6fe6-4aab-a8ef-b3cd32206dfc)
 
-### The Dashboard
+### Occupancy Dashboard
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/8cd98ece-bc3a-4629-995c-999198e475d6)
 
