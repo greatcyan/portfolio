@@ -9,7 +9,7 @@ The Summary page:
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/4276f1d6-220f-4b15-8d8a-78a9dea8c54d)
 
 Revenue Bucket - Revenue View
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/984381a8-6c27-42f0-978b-573ad46e6707)
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/53de1c44-1031-46e9-ad42-6f43ea55f116)
 
 Revenue Bucket - Sellin Pages (Units) View
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/19dfbb01-447e-4629-a641-27e2460b4540)
