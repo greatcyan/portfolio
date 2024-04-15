@@ -3,7 +3,7 @@
 ## Occupancy Cost Center Report
 This report provides analysis of the monthly costs and expenses related to Occupancy cost centers. The design is aligned to the the stakeholders request to show costs and expenses by general ledger, prior year and current year comparison, and capability to drill down the details, allowing stakeholders a better understanding of costs.
 
-## Data Process: 
+## The Process: 
 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/182f57a4-6fe6-4aab-a8ef-b3cd32206dfc)
 
