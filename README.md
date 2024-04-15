@@ -43,7 +43,8 @@ I've worked in technical and analytical roles for over a decade and data has bee
 - [Board Repair Tracking Sheet](repair tracking sheet.md)
 - [Cebu Provincial Dashboard](cebuprovincialdashboard.md)
 - [Occupancy Cost Center Report](Occupancy_CC_Report.md)
-- Development Cost Center Analytics
+- [Development Cost Center Analytics](DevelopmentCC.md)
+- Extended Warranty Amortization Report
 - Revenue Analytics
 - Worldwide Expense Report
 - Auto Reply for GBS-Finance Power BI Reports Access Request
