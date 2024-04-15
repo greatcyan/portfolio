@@ -1,15 +1,18 @@
 ## [⬅️Back](./)
 
 ## Occupancy Cost Center Report
+
 This is a sigle page report aim to provide analysis of the monthly costs and expenses related to Occupancy cost centers. The design is aligned to the the stakeholders request to show costs and expenses by general ledger, prior year and current year comparison, and capability to drill down the details, allowing stakeholders a better understanding of costs in depth. 
 
 ### The Process: 
-After understanding the business requirements, I proceed to develop the dashboard. First, the data is extracted from SAP Business Warehouse, then normalized into different tables grouped by geographical categories, and saved into Power BI dataflows. Next, I implement measures and calculations using DAX and data modeling. Once the data is cleaned and finalized, I design the dashboard according to stakeholders' requirements. Finally, after validating the values and presentation, the report is deployed and can be shared with end-users for their reporting needs.
+
+The data is sourced from SAP Business Warehouse, where it undergoes extraction and normalization into various tables grouped by geographical categories. Subsequently, the data is saved into Power BI dataflows. Measures and calculations are applied using DAX and data modeling techniques. Following data cleaning and finalization, the dashboard is designed to align with stakeholders' requirements. Upon validation of values and presentation, the report is deployed and made available for end-users to fulfill their reporting needs.
 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/182f57a4-6fe6-4aab-a8ef-b3cd32206dfc)
 
 ### The Stakeholders Expected Result:
-The dashboard allows end-users to explore insights based on their preferred parameters and slicers. It is designed perfectly, applying visual hierarchies for better data comprehension. Data extraction from the dashboard is also possible, allowing end users to further analyze the data based on their reporting needs.
+
+The dashboard empowers end-users to explore insights based on their chosen parameters and slicers. It is meticulously designed, utilizing visual hierarchies to enhance data comprehension. Additionally, users can extract data from the dashboard, enabling further analysis based on their specific reporting needs.
 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/8cd98ece-bc3a-4629-995c-999198e475d6)
 
