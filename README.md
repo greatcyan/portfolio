@@ -45,9 +45,8 @@ I've worked in technical and analytical roles for over a decade and data has bee
 - [Occupancy Cost Center Report](Occupancy_CC_Report.md)
 - [Development Cost Center Analytics](DevelopmentCC.md)
 - [Extended Warranty Amortization Report](Inthebag.md)
-- Revenue Analytics 
-- Worldwide Expense Report
-- Auto Reply for GBS-Finance Power BI Reports Access Request
-- Revenue Analytics Driver Commentaries
+- [Revenue Analytics](revenueanalytics.md)
+
+
 
 
