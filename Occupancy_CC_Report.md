@@ -9,7 +9,7 @@ After understanding the business requirements, I proceed to develop the dashboar
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/182f57a4-6fe6-4aab-a8ef-b3cd32206dfc)
 
 ### The Stakeholders Expected Result:
-The dashboard allows end-users to explore insights based on their preferred parameters and slicers. It is designed perfectly, applying visual hierarchies for better data comprehension.
+The dashboard allows end-users to explore insights based on their preferred parameters and slicers. It is designed perfectly, applying visual hierarchies for better data comprehension. Data extraction from the dashboard is also possible, allowing end users to further analyze the data based on their reporting needs.
 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/8cd98ece-bc3a-4629-995c-999198e475d6)
 
