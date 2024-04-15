@@ -39,13 +39,9 @@ I've worked in technical and analytical roles for over a decade and data has bee
 - Statistical Analysis
 - Data Entry
   
-### Projects
+### Dashboard Projects
 - [Board Repair Tracking Sheet](repair tracking sheet.md)
 - [Cebu Provincial Dashboard](cebuprovincialdashboard.md)
-- Marketing Dashboard
-- Test Summary
-- Test Manager UI
-- Superstore Viz
 - Occupancy Cost Center Analytics
 - Development Cost Center Analytics
 - OPEX Analytics
