@@ -1,5 +1,5 @@
 ## BI Analyst | Power BI Developer 
-I've worked in technical and analytical roles for over a decade and data has been central to my career—I've used it to analyze failures, improve tasks and processes with spreadsheets and macros, and create data analysis and visualizations. I also have experience in automating processes and developing dashboards using the Microsoft Power Platform. 
+I've worked in technical and analytical roles for over a decade and data has been central to my career—I've used it to analyze failures, improve tasks and processes with spreadsheets and macros, and create data analysis and visualizations. I also have experience in automating processes and developing dashboards using the Microsoft Power Platform (Power Automate, Power Apps, Power BI). 
 
 <!---  For inquiries, you may contact me through my number +639565028805 or email me at 07hcurab27@gmail.com. --->
 
