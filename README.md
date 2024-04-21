@@ -19,7 +19,7 @@ I've worked in technical and analytical roles for over a decade and data has bee
 
 ### Work History
 [Finance Business Analyst | Lexmark Research and Development Corp (Feb 2023 - Present)](lexmark.md)
-- Occupancy Cost Center Report
+- [Occupancy Cost Center Report](Occupancy_CC_Report.md)
 - OPEX Analytics
 - In The Bag Dashboard
 - Careers Site Analytics
@@ -34,7 +34,7 @@ I've worked in technical and analytical roles for over a decade and data has bee
 - Test Summary Log
 
 [Senior Board Repair Specialist | Linksphere Technologies Corp (Aug 2015 - Jan 2023)](linksphere.md)
-- Repair Tracking
+- [Board Repair Tracker](repair tracking sheet.md)
 - Statistical Analysis (Cpk)
 - Circuit Analysis
 
@@ -45,9 +45,7 @@ I've worked in technical and analytical roles for over a decade and data has bee
   
 ### Other Relevant Projects
 
-- [Board Repair Tracking Sheet](repair tracking sheet.md)
 - [Cebu Provincial Dashboard](cebuprovincialdashboard.md)
-- [Occupancy Cost Center Report](Occupancy_CC_Report.md)
 - [Development Cost Center Analytics](DevelopmentCC.md)
 - [Extended Warranty Amortization Report](Inthebag.md)
 - [Revenue Analytics](revanalytics.md)
