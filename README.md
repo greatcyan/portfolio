@@ -19,8 +19,6 @@ I've worked in technical and analytical roles for over a decade and data has bee
 
 ### Work Experience
 [Finance Business Analyst | Lexmark Research and Development Corp (Feb 2023 - Present)](lexmark.md)
-
-##### Relevant Projects
 - Occupancy Cost Center Report
 - OPEX Analytics
 - In The Bag Dashboard
@@ -32,19 +30,18 @@ I've worked in technical and analytical roles for over a decade and data has bee
 - Driver Commentaries App
 
 [Python Developer | Excigence Asia Inc (Dec 2021 - Mar 2022)](excigence.md)
-#### Relevant Projects
 - Test Program Loader GUI
 - Test Summary Log
 
 [Senior Board Repair Specialist | Linksphere Technologies Corp (Aug 2015 - Jan 2023)](linksphere.md)
-#### Relevant Projects
 - Repair Tracking
 - Statistical Analysis (Cpk)
+- Circuit Analysis
 
 [Board Repair Specialist | Teradyne Philippines Ltd (Jun 2012 - Aug 2015)](teradyne.md)
-#### Relevant Responsibilities
 - Data Entry
 - Statistical Analysis (CpK)
+- Circuit Analysis
   
 ### Other Relevant Projects
 - [Board Repair Tracking Sheet](repair tracking sheet.md)
