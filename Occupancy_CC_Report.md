@@ -31,7 +31,7 @@ The dynamic heading label changes based on user interaction or slicers being sel
 
 
 #### The General Ledger Summary Table
-The table presents a comparison of actual costs and expenses between the prior year and the current year, categorized by [general ledger (GL Accounts)](https://www.investopedia.com/terms/g/generalledger.asp){:target="_blank"}. Users can efficiently identify the top and bottom GL by actual expenses by sorting the table based on prior-year actuals, current-year actuals, or the difference (delta) between them.
+The table presents a comparison of actual costs and expenses between the prior year and the current year, categorized by [GL Accounts](https://www.investopedia.com/terms/g/generalledger.asp){:target="_blank"}. Users can efficiently identify the top and bottom GL by actual expenses by sorting the table based on prior-year actuals, current-year actuals, or the difference (delta) between them.
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/a9ca948f-9474-4298-856b-8c6d2385c9d4)
 
 
