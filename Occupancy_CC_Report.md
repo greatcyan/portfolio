@@ -25,10 +25,14 @@ At the upper right of the report, users can find a currency type slicer displaye
 Every time the scheduled refresh of the data source (dataflows and the semantic model) is complete, this dynamic label for the last refresh time is also updated. It is an essential part of the report to ensure that the data being analyzed or reported is updated and accurate.
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/75643cbf-33be-4ddd-bc89-f7b9577be9ab)
 
+#### Dynamic Heading Label
+The dynamic heading label changes based on user interaction or slicers being selected. Its purpose is to provide context and clarity to the user about the content or context of the information they are viewing. 
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/a5ea567b-c699-4499-bae8-e89c2740f6a8)
+
+
 #### The General Ledger Summary Table
 The table presents a comparison of actual costs and expenses between the prior year and the current year, categorized by [general ledger (GL Accounts)](https://www.investopedia.com/terms/g/generalledger.asp){:target="_blank"}. Users can efficiently identify the top and bottom GL by actual expenses by sorting the table based on prior-year actuals, current-year actuals, or the difference (delta) between them.
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/a9ca948f-9474-4298-856b-8c6d2385c9d4)
-
 
 
 
