@@ -21,7 +21,7 @@ On the left side of the dashboard, users can find the slicers. These slicers all
 At the upper right of the report, users can find a currency type slicer displayed as a button. This slicer allows users to view actual costs and expenses based on their currency preference. The numbers displayed in other visuals will also automatically adjust accordingly. 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/29c5c61f-0d1d-4d78-9071-8111546cd7e7)
 
-#### Last Refresh Time Label
+#### Last Refresh Time
 Every time the scheduled refresh of the data source (dataflows and the semantic model) is complete, this dynamic label for the last refresh time is also updated. It is an essential part of the report to ensure that the data being analyzed or reported is updated and accurate.
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/75643cbf-33be-4ddd-bc89-f7b9577be9ab)
 
