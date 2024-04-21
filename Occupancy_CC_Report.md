@@ -23,6 +23,7 @@ At the upper right of the report, users can find a currency type slicer displaye
 
 #### Last Refresh Time Label
 Every time the scheduled refresh of the data source (dataflows and the semantic model) is complete, this dynamic label for the last refresh time is also updated. It is an essential part of the report to ensure that the data being analyzed or reported is updated and accurate.
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/e6bc5ce2-37bd-441f-99f3-bd9828748ab4)
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/75643cbf-33be-4ddd-bc89-f7b9577be9ab)
+
 
 
