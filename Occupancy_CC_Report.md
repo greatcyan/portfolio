@@ -6,8 +6,7 @@ This is a single page Power BI report aim to provide analysis of the monthly cos
 
 ### The Process
 
-The data is sourced from SAP Business Warehouse, where it undergoes extraction and normalization into various tables grouped by geographical categories. Subsequently, the data is saved into Power BI dataflows. Measures and calculations are created using Data Analysis Expressions(DAX) and data modeling techniques. Following data cleaning and finalization, the dashboard is designed to align with stakeholders' requirements. Upon validation of values and presentation, the report is deployed and made available for end-users to fulfill their reporting needs.
-
+The data is sourced from SAP Business Warehouse, where it undergoes extraction and normalization into various tables grouped by geographical categories. Subsequently, the data is saved into Power BI dataflows. Measures and calculations are created using Data Analysis Expressions (DAX) and data modeling techniques. Following data cleaning and finalization, the dashboard is designed to align with stakeholders' requirements. Upon validation of values, acess and visual presentation, the report is deployed and made available for end-users to fulfill their reporting needs. Scheduled refresh is then set in the Power BI Service (the Software as a Service (SaaS) part of Power BI) to ensure that the displayed data is updated.
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/182f57a4-6fe6-4aab-a8ef-b3cd32206dfc)
 
 ### The Final Output
