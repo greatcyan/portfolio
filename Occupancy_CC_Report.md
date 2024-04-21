@@ -26,7 +26,7 @@ Every time the scheduled refresh of the data source (dataflows and the semantic 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/75643cbf-33be-4ddd-bc89-f7b9577be9ab)
 
 #### The General Ledger Summary Table
-The table presents a comparison of actual costs and expenses between the prior year and the current year, categorized by [general ledger (GL)](https://www.investopedia.com/terms/g/generalledger.asp){:target="_blank"}. Users can efficiently identify the top and bottom GL by actual expenses by sorting the table based on prior-year actuals, current-year actuals, or the difference (delta) between them.
+The table presents a comparison of actual costs and expenses between the prior year and the current year, categorized by [general ledger (GL Accounts)](https://www.investopedia.com/terms/g/generalledger.asp){:target="_blank"}. Users can efficiently identify the top and bottom GL by actual expenses by sorting the table based on prior-year actuals, current-year actuals, or the difference (delta) between them.
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/a9ca948f-9474-4298-856b-8c6d2385c9d4)
 
 
