@@ -2,7 +2,7 @@
 
 ## Occupancy Cost Center Report
 
-This is a single page Power BI report aim to provide analysis of the monthly costs and expenses related to Occupancy cost centers. The design is aligned to the the stakeholder's **(Real-state director)** request to show costs and expenses by general ledger, prior year and current year comparison, and capability to drill down the details, allowing stakeholders a better understanding of costs in depth. 
+This is a single page Power BI report aim to provide analysis of the monthly costs and expenses related to Occupancy cost centers. The report design is aligned to the the stakeholder's request to show costs and expenses by general ledger, prior year and current year comparison, and capability to drill down the details, allowing stakeholders a better understanding of costs.
 
 ### Process
 
