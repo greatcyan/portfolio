@@ -10,7 +10,7 @@ The data is sourced from SAP Business Warehouse, where it undergoes extraction a
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/182f57a4-6fe6-4aab-a8ef-b3cd32206dfc)
 
 ### The Final Output
-The report empowers end-users to explore insights based on their chosen parameters and slicers. It is designed and organized with a [visual hierarchy](https://www.interaction-design.org/literature/topics/visual-hierarchy){:target="_blank"} for better data comprehension. Additionally, users can extract data from the report using the export data option, enabling further analysis based on their reporting needs.
+The report empowers end-users to explore insights based on their chosen parameters and slicers. It is designed and organized with a [visual hierarchy](https://www.interaction-design.org/literature/topics/visual-hierarchy){:target="_blank"} for better data comprehension. Additionally, users can extract data from the report using the export data option, enabling further analysis based on their reporting needs. 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/8cd98ece-bc3a-4629-995c-999198e475d6)
 
 ### More About the Report
@@ -37,6 +37,19 @@ The table presents a comparison of actual costs and expenses between the prior y
 #### Current Year Actuals by Functional Area
 The doughnut chart displays high-level comparative values per functional area, fulfilling an essential requirement for stakeholders. It enables them to quickly identify functional areas with the highest or lowest expenses.
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/3eb22b62-6b46-4d83-961b-4897c5643500)
+
+#### The Metric Cards
+The metric cards represent the three key metrics of this report, displaying high-level values for the current year, the prior year, and the delta between them. They provide a quick overview of these important metrics, allowing stakeholders to easily compare performance between the two years.
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/1e558981-a2d3-4ce4-8401-0039e1896f47)
+
+#### The Monthly Actuals Trend (Current Year vs Prior Year)
+The purpose of the Monthly Actuals Trend (Current Year vs Prior Year) chart is to visually compare the actual performance data between the current year and the prior year on a monthly basis, providing enhanced insights into the report.
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/9f8f9f13-bac4-483e-9374-a72f3c976b43)
+
+#### Details Table
+The Details table serves as a tool to delve deeper into specific cost details, providing a more granular view of the data. Its purpose is to allow users to examine the finer details of costs, enabling a more comprehensive analysis of the data.
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/26cb6c7d-307b-4913-a8d8-05c83edc2694)
+
 
 
 
