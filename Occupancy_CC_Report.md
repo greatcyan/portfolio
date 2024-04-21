@@ -39,7 +39,7 @@ The doughnut chart displays high-level comparative values per functional area, f
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/3eb22b62-6b46-4d83-961b-4897c5643500)
 
 #### The Metric Cards
-The metric cards represent the three key metrics of this report, displaying high-level values for the current year, the prior year, and the delta between them. They provide a quick overview of these important metrics, allowing stakeholders to easily compare performance between the two years.
+The metric cards represent the three key metrics of this report, displaying high-level values for the current year actuals, the prior year actuals, and the delta between them. They provide a quick overview of these important metrics, allowing stakeholders to easily compare performance between the two years.
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/1e558981-a2d3-4ce4-8401-0039e1896f47)
 
 #### The Monthly Actuals Trend (Current Year vs Prior Year)
