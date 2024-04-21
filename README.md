@@ -17,7 +17,7 @@ I've worked in technical and analytical roles for over a decade and data has bee
 - [Google Business Intelligence @ Coursera (Feb 2024)](https://www.credly.com/badges/783d501a-01f2-4398-bada-7657c21a0281){:target="_blank"}
 - [Microsoft Power BI Data Analyst @ Coursera (Mar 2024)](https://www.coursera.org/account/accomplishments/specialization/certificate/WMZL7QFCQ4TP){:target="_blank"}
 
-### Work Experience
+### Work History
 [Finance Business Analyst | Lexmark Research and Development Corp (Feb 2023 - Present)](lexmark.md)
 - Occupancy Cost Center Report
 - OPEX Analytics
@@ -44,6 +44,7 @@ I've worked in technical and analytical roles for over a decade and data has bee
 - Circuit Analysis
   
 ### Other Relevant Projects
+
 - [Board Repair Tracking Sheet](repair tracking sheet.md)
 - [Cebu Provincial Dashboard](cebuprovincialdashboard.md)
 - [Occupancy Cost Center Report](Occupancy_CC_Report.md)
