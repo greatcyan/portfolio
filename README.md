@@ -20,7 +20,7 @@ I've worked in technical and analytical roles for over a decade and data has bee
 ### Work Experience
 [Finance Business Analyst | Lexmark Research and Development Corp (Feb 2023 - Present)](lexmark.md)
 
-#### Relevant Projects
+##### Relevant Projects
 - Occupancy Cost Center Report
 - OPEX Analytics
 - In The Bag Dashboard
