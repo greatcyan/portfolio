@@ -13,7 +13,6 @@ The data is sourced from SAP Business Warehouse, where it undergoes extraction a
 ### The Final Output
 
 The report empowers end-users to explore insights based on their chosen parameters and slicers. Designed utilizing visual hierarchies for better data comprehension. Additionally, users can extract data from the report using the export data option, enabling further analysis based on their reporting needs.
-
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/8cd98ece-bc3a-4629-995c-999198e475d6)
 
 ### Parts of the Dashboard
