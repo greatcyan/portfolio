@@ -20,3 +20,6 @@ The report empowers end-users to explore insights based on their chosen paramete
 On the left side of the dashboard, users can find the slicers. These slicers allow users to filter and drill down into details based on various categories such as month, geography, functional area, account group (GL), and cost center. The data across other visuals will automatically update based on the specified slicers. Users can specify their desired categories by selecting the slicers, eliminating the need to create multiple reports for different users.
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/043430c1-20ab-4066-8905-735aaacb6119)
 
+At the top center of the report, users can find a currency type slicer displayed as a button. This slicer allows users to view actual costs and expenses based on their currency preference. The numbers displayed in other visuals will also automatically adjust accordingly. 
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/29c5c61f-0d1d-4d78-9071-8111546cd7e7)
+
