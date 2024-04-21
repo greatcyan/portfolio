@@ -33,9 +33,6 @@ This was me during my final presentation, a requirement to pass the training. Th
 - [DX Strategy](https://lexlearn.digitalbadges.skillsoft.com/ea8f30f7-e66e-4858-aa71-271e04f0326f){:target="_blank"}
 - [Introduction to DX Onboarding Journey](https://lexlearn.digitalbadges.skillsoft.com/23047b0e-7332-43c7-9b63-7dbab6fa99fa#gs.7cb2ee){:target="_blank"}
 
-### Affiliations and Clubs
-- Lexmark Toastmasters Club International
-
 
 
 
