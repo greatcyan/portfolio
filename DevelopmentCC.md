@@ -15,7 +15,7 @@ The stages below represent the end-to-end process of every BI project, which is 
 - Deployment: Once the report passes UAT, it is deployed to the production environment for use by stakeholders.
 - Maintenance: Ongoing maintenance and updates to the report are performed as needed to ensure it remains accurate and relevant.
 
-For more details, please refer to the Occupancy Cost Center Report, which provides a detailed overview of the report development process flow.
+For more details, please refer to the [Occupancy Cost Center Report](Occupancy_CC_Report.md), which provides a detailed overview of the report development process flow.
 
 
 
