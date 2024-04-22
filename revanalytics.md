@@ -10,7 +10,7 @@ The purpose of this page is to see the summary of the Revenue Bucket for each Ge
 ## Other Pages
 There are 8 revenue buckets, each with its specific pages for revenue details, units, calculations, and analytics. It aids the drill down analysis into granular level.
 
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/d24c081d-d978-48f0-b0e4-a1bf7a8711e8)
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/6e92d4ba-89bb-44ba-9f4c-45cb8700560c)
 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/6ed404c4-6e4d-443c-bb0b-38160348c9fc)
 
