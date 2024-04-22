@@ -25,7 +25,7 @@ Advanced Excel Training Facilitator | Cebu Home & Builders Centre (Mar 2024 - Ap
 
 [Finance Business Analyst | Lexmark Research and Development Corp (Feb 2023 - Present)](lexmark.md)
 - [Occupancy Cost Center Report](Occupancy_CC_Report.md)
-- OPEX Analytics
+- [OPEX Analytics](opex.md)
 - In The Bag Dashboard
 - Careers Site Analytics
 - [Development Cost Analytics](DevelopmentCC.md)
