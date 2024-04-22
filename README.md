@@ -27,7 +27,7 @@ Advanced Excel Training Facilitator | Cebu Home & Builders Centre (Mar 2024 - Ap
 - [Occupancy Cost Center Report](Occupancy_CC_Report.md)
 - [OPEX Analytics](opex.md)
 - [In The Bag Dashboard](Inthebag.md)
-- Careers Site Analytics
+- [Careers Site Analytics](careersiteanalytics.md)
 - [Development Cost Analytics](DevelopmentCC.md)
 - Revenue Analytics
 - Worldwide Expense Report
