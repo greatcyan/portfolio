@@ -18,7 +18,7 @@ I've worked in technical and analytical roles for over a decade and data has bee
 - [Microsoft Power BI Data Analyst @ Coursera (Mar 2024)](https://www.coursera.org/account/accomplishments/specialization/certificate/WMZL7QFCQ4TP){:target="_blank"}
 
 ### Work History / Projects
-[Advanced Excel Training Facilitator | Cebu Home & Builders Centre (Mar 2024 - Apr 2024)]
+Advanced Excel Training Facilitator | Cebu Home & Builders Centre (Mar 2024 - Apr 2024)
 - Familiarizing Excel
 - Data Preparation
 - Data Aggregation
