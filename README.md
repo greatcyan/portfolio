@@ -30,13 +30,13 @@ Advanced Excel Training Facilitator | Cebu Home & Builders Centre (Mar 2024 - Ap
 - [Careers Site Analytics](careersiteanalytics.md)
 - [Development Cost Analytics](DevelopmentCC.md)
 - [Revenue Analytics](revanalytics.md)
-- Worldwide Expense Report
+- [Worldwide Expense Report](wwexpense.md)
 - Auto-reply for Access Request
 - Driver Commentaries App
 
 [Python Developer | Excigence Asia Inc (Dec 2021 - Mar 2022)](excigence.md)
-- Test Program Loader GUI
-- Test Summary Log
+- [Test Program Loader GUI](excigence.md)
+- [Test Summary Log and Data Visualization](https://www.linkedin.com/posts/cyrus-baruc_dataanalysis-datavizualization-activity-6972768351525773312-Kf6L/?utm_source=share&utm_medium=member_desktop){:target="_blank"}
 
 [Senior Board Repair Specialist | Linksphere Technologies Corp (Aug 2015 - Jan 2023)](linksphere.md)
 - [Board Repair Tracker](repair tracking sheet.md)
@@ -50,7 +50,7 @@ Advanced Excel Training Facilitator | Cebu Home & Builders Centre (Mar 2024 - Ap
   
 ### Other Projects
 - [Cebu Provincial Dashboard](cebuprovincialdashboard.md)
-- [Revenue Analytics](revanalytics.md)
+- Marketing Dashboard
 
 
 
