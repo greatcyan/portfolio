@@ -1,24 +1,24 @@
 ## [⬅️Back](./)
 
-### Revenue Analytics
-*to be updated...*
+## Revenue Analytics
+The report will be used to support the P&L Review as one of the requirements from our stakeholder, Corp. Consolidations.  The report will allow the Revenue Accounting team to investigate the revenue buckets/streams with a significant difference from the expected amount (which is based on the AUR from the last 12 months for HW and SU, and based on the average revenue from the last 12 months for SV) instead of validating the top customers.
 
-For the maintime, kindly refer to the final results below.
+## Summary Page
+The purpose of this page is to see the summary of the Revenue Bucket for each Geo. Also, revenue differences that exceed 500k would be highlighted.
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/98883bc1-0ac3-4f28-8818-5f14f9047862)
 
-The Summary page:
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/4276f1d6-220f-4b15-8d8a-78a9dea8c54d)
+## Other Pages
+There are 8 revenue buckets, each with its specific pages for revenue details, units, calculations, and analytics. It aids the drill down analysis into granular level.
 
-Revenue Bucket - Revenue View
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/53de1c44-1031-46e9-ad42-6f43ea55f116)
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/d24c081d-d978-48f0-b0e4-a1bf7a8711e8)
 
-Revenue Bucket - Sellin Pages (Units) View
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/a7b28038-dec3-45fd-9de4-7a122e11ebc1)
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/6ed404c4-6e4d-443c-bb0b-38160348c9fc)
 
-Revenue Bucket - Calculations View
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/d4ab1df5-8ef0-40b0-8356-8a5957dd180f)
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/638323b9-ac80-4354-8dd9-6064d2e679c0)
 
-Revenue Bucket - Analytics View
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/d2cebdc9-47df-4389-b211-cb2d137bc901)
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/646da4bd-def3-41fd-afe4-5fa6c0cdcb5b)
+
+
 
 
 
