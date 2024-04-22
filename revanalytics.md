@@ -5,7 +5,7 @@ The report will be used to support the P&L Review as one of the requirements fro
 
 ## Summary Page
 The purpose of this page is to see the summary of the Revenue Bucket for each Geo. Also, revenue differences that exceed 500k would be highlighted.
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/98883bc1-0ac3-4f28-8818-5f14f9047862)
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/d9c0da45-44c6-4687-9e55-4e5c5b02fe5d)
 
 ## Other Pages
 There are 8 revenue buckets, each with its specific pages for revenue details, units, calculations, and analytics. It aids the drill down analysis into granular level.
