@@ -48,11 +48,8 @@ Advanced Excel Training Facilitator | Cebu Home & Builders Centre (Mar 2024 - Ap
 - Statistical Analysis (CpK)
 - Circuit Analysis
   
-### Other Relevant Projects
-
+### Other Projects
 - [Cebu Provincial Dashboard](cebuprovincialdashboard.md)
-- [Development Cost Center Analytics](DevelopmentCC.md)
-- [Extended Warranty Amortization Report](Inthebag.md)
 - [Revenue Analytics](revanalytics.md)
 
 
