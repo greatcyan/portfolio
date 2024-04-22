@@ -42,6 +42,7 @@ Advanced Excel Training Facilitator | Cebu Home & Builders Centre (Mar 2024 - Ap
 - [Board Repair Tracker](repair tracking sheet.md)
 
 [Board Repair Specialist | Teradyne Philippines Ltd (Jun 2012 - Aug 2015)](teradyne.md)
+- N/A
   
 ### Other Projects
 - [Cebu Provincial Dashboard](cebuprovincialdashboard.md)
