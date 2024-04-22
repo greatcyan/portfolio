@@ -1,0 +1,17 @@
+## [⬅️Back](./)
+
+## OPEX Analytics
+This automated Power BI report can perform OPEX analytics to facilitate bridging analysis and minimize the need for manual report generation. This will free up more time for finance analysts to focus on analyzing data and gathering additional information on fluxes.
+
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/6fe83627-1d46-49d8-b24b-ffd3788b7bd3)
+
+## The Process
+The stages below represent the end-to-end process of every BI project, which is consistent across other projects I've developed:
+- Requirements Gathering: This phase involves gathering and documenting the specific requirements for the report.
+- Creating Technical Specifications: Based on the requirements, technical specifications are created to outline how the report will be developed.
+- Report Development: The actual development of the report takes place, including data integration, visualization creation, and dashboard design.
+- User Acceptance Testing (UAT): The report is tested by end users to ensure it meets the requirements and functions correctly.
+- Deployment: Once the report passes UAT, it is deployed to the production environment for use by stakeholders.
+- Maintenance: Ongoing maintenance and updates to the report are performed as needed to ensure it remains accurate and relevant.
+
+For more details, please refer to the [Occupancy Cost Center Report](Occupancy_CC_Report.md), which provides a detailed overview of the report development process flow.
