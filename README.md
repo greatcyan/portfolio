@@ -40,13 +40,8 @@ Advanced Excel Training Facilitator | Cebu Home & Builders Centre (Mar 2024 - Ap
 
 [Senior Board Repair Specialist | Linksphere Technologies Corp (Aug 2015 - Jan 2023)](linksphere.md)
 - [Board Repair Tracker](repair tracking sheet.md)
-- Statistical Analysis (Cpk)
-- Circuit Analysis
 
 [Board Repair Specialist | Teradyne Philippines Ltd (Jun 2012 - Aug 2015)](teradyne.md)
-- Data Entry
-- Statistical Analysis (CpK)
-- Circuit Analysis
   
 ### Other Projects
 - [Cebu Provincial Dashboard](cebuprovincialdashboard.md)
