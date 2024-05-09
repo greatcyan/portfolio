@@ -30,6 +30,13 @@ The stages below represent the end-to-end process of every BI project, which is 
 For more details, please refer to the [Occupancy Cost Center Report](Occupancy_CC_Report.md), which provides a detailed overview of the report development process flow.
 
 
+### Stakeholders' Appreciation
+
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/4a80b8b5-0fca-4782-a4cc-5d271258ee11)
+
+
+
+
 
 
 
