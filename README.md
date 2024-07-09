@@ -1,5 +1,7 @@
-## BI Analyst | Power BI Developer 
-Hello, there. I am Cyrus and I am an experienced BI Analyst with almost two years of expertise in designing and developing data flows, and Business Intelligence solutions using Power BI. Proven ability to generate, operate, and maintain BI reports with DAX queries, optimize dashboard performance, and deliver data-driven insights. Strong communication, presentation, and problem-solving skills.
+## About me
+Hello, there. I am Cyrus and I am an experienced BI Analyst with nearly two years of expertise in designing and developing data flows, and Business Intelligence solutions using Power BI. Proven ability to generate, operate, and maintain BI reports with DAX queries, optimize dashboard performance, and deliver data-driven insights. Strong communication, presentation, and problem-solving skills.
+
+Prior to this role, I honed my problem-solving and critical thinking skills by troubleshooting electronic boards and understanding their circuits to devise effective repair strategies. I am passionate about continuous learning, particularly in data science, analytics, and programming. If my skills and experience align with your needs, I would be eager to join your team.
 
 <!---  For inquiries, you may contact me through my number +639565028805 or email me at 07hcurab27@gmail.com. 
 
@@ -23,15 +25,13 @@ Advanced Excel Training Facilitator | Cebu Home & Builders Centre (Mar 2024 - Ap
 - Data Preparation
 - Data Aggregation
 --->
-### Recent Projects
+### Portfolio
 - [Revenue Analytics](revanalytics.md)
 - [In The Bag Dashboard](Inthebag.md)
 - [Occupancy Cost Center Report](Occupancy_CC_Report.md)
 - [Development Cost Analytics](DevelopmentCC.md)
 - [Worldwide Expense Report](wwexpense.md)
 - [Driver Commentaries App](drivercommenting.md)
- 
-### Other Projects
 - [Cebu Provincial Dashboard](cebuprovincialdashboard.md)
 
 
