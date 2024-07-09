@@ -1,5 +1,5 @@
 ## BI Analyst | Power BI Developer 
-Hello, there. I am Cyrus and I've worked in technical and analytical roles for over a decade and data has been central to my career—I've used it to analyze failures, improve tasks and processes with spreadsheets and macros, and create data analysis and visualizations. I also have experience in automating processes and developing dashboards using the Microsoft Power Platform (Power Automate, Power Apps, Power BI). 
+Hello, there. I am Cyrus and I am an experienced BI Analyst with almost two years of expertise in designing and developing data flows, and Business Intelligence solutions using Power BI. Proven ability to generate, operate, and maintain BI reports with DAX queries, optimize dashboard performance, and deliver data-driven insights. Strong communication, presentation, and problem-solving skills.
 
 <!---  For inquiries, you may contact me through my number +639565028805 or email me at 07hcurab27@gmail.com. --->
 
