@@ -32,10 +32,7 @@ I am committed to staying at the forefront of technology by continuously learnin
 - [Revenue Analytics](revanalytics.md)
 - [Driver Commentaries App](drivercommenting.md)
 - [Cebu Provincial Dashboard](cebuprovincialdashboard.md)
-<!--- - [In The Bag Dashboard](Inthebag.md) 
-- [Occupancy Cost Center Report](Occupancy_CC_Report.md)
-- [Development Cost Analytics](DevelopmentCC.md)
-- [Worldwide Expense Report](wwexpense.md)--->
+
 
 
 Thank you for visiting my portfolio. I look forward to connecting with you and exploring how we can leverage data to drive success.
