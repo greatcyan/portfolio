@@ -1,7 +1,4 @@
-## [⬅️Back](./)
-
-
-### Extend Warranty Amortization Report
+## Extend Warranty Amortization Report
 The goal is to establish a single source of truth through a Power BI report, enabling FP&A and Annuities teams to access and retrieve the data of extended warranty amortization for their reporting.
 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/4bc29aca-ef8a-42f9-bd3f-03d2520b2b19)
