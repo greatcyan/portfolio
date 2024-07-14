@@ -1,4 +1,4 @@
-# 
+# My Portfolio
 
 ## About me
 Hello! I'm Cyrus Baruc, an enthusiastic data professional with a passion for turning data into actionable insights. With over a decade of experience as an Electronics Technician, I bring a unique perspective to the field of data analytics, combining technical expertise with a deep understanding of complex systems.
@@ -52,7 +52,7 @@ Advanced Excel Training Facilitator | Cebu Home & Builders Centre (Mar 2024 - Ap
 - Data Preparation
 - Data Aggregation
 --->
-## Portfolio
+## Projects
 - [Revenue Analytics](revanalytics.md)
 - [In The Bag Dashboard](Inthebag.md)
 - [Occupancy Cost Center Report](Occupancy_CC_Report.md)
