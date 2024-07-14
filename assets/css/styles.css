@@ -1,5 +1,10 @@
 /* assets/css/styles.css */
 
+---
+---
+
+@import "{{ site.theme }}";
+
 .headshot {
   width: 100px; /* Adjust the width as needed */
   height: auto; /* This keeps the aspect ratio */
