@@ -1,8 +1,10 @@
 ## Revenue Analytics
-The report will be used to support the P&L Review as one of the requirements from our stakeholder, Corp. Consolidations.  The report will allow the Revenue Accounting team to investigate the revenue buckets/streams with a significant difference from the expected amount (which is based on the AUR from the last 12 months for HW and SU, and based on the average revenue from the last 12 months for SV) instead of validating the top customers.
 
-### Summary Page
-The purpose of this page is to see the summary of the Revenue Bucket for each Geo. Also, revenue differences that exceed 500k would be highlighted.
+### Overview
+This report will be used to support the P&L Review which allow the Revenue Accounting team to investigate the revenue buckets/streams with a significant difference from the expected amount (which is based on the AUR from the last 12 months for HW and SU, and based on the average revenue from the last 12 months for SV) instead of validating the top customers.
+
+### Visualizations
+This Power BI report has several pages dedicated to each revenue bucket, with a summary page that compares each revenue stream and highlights those with significant impact.
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/d9c0da45-44c6-4687-9e55-4e5c5b02fe5d)
 
 ### Other Pages
