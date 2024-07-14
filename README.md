@@ -3,29 +3,29 @@
 ## About me
 Hello! I'm Cyrus Baruc, an enthusiastic data professional with a passion for turning data into actionable insights. With over a decade of experience as an Electronics Technician, I bring a unique perspective to the field of data analytics, combining technical expertise with a deep understanding of complex systems.
 
-### Certifications:
+### Certifications
  - Currently enrolled in Data Science Certification Program at UP Cebu
  - Data Associate Pathway @ Project SPARTA
  - Data Analytics Professional Certificate @ Google on Coursera
  - Business Intelligence Certificate @ Google on Coursera
  - Power BI Data Analyst @ Microsoft on Coursera
 
-### Professional Backgound:
+### Professional Backgound
 After 10 years in electronics, I transitioned into the world of data, where I've been making significant impacts. My journey in data analytics has been marked by the creation of dynamic and insightful projects, including:
 - Excel Dashboards: Crafting interactive and visually appealing dashboards to simplify complex data.
 - Python Applications: Developing robust applications for data visualization and analysis.
 - Power BI Dashboards: Designing comprehensive dashboards, such as the highly praised Revenue Analytics dashboard.
 - Process Automation: Utilizing Power Apps and Power Automate to streamline workflows and enhance efficiency.
 
-### Technical Skills:
+### Technical Skills
 Programming Languages: Python, SQL, M Language, DAX, R, VBA
 
 Tools and Technologies: Excel, Power BI, Power Apps, Power Automate
 
-### Achievements:
+### Achievements
 I am proud to have received Kudos and appreciation from stakeholders for my work on the Revenue Analytics dashboard in Power BI, which has been instrumental in driving business decisions and strategies.
 
-### Career Goals:
+### Career Goals
 I am committed to staying at the forefront of technology by continuously learning and expanding my skillset. My current focus is on mastering AI, Machine Learning, and Predictive Analytics to enhance my ability to provide cutting-edge solutions in the ever-evolving data landscape.
 
 ### Projects
