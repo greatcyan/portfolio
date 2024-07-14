@@ -1,14 +1,17 @@
 ## Revenue Analytics
 
 ### Overview
-This report will be used to support the P&L Review which allow the Revenue Accounting team to investigate the revenue buckets/streams with a significant difference from the expected amount (which is based on the AUR from the last 12 months for HW and SU, and based on the average revenue from the last 12 months for SV) instead of validating the top customers.
+This report will support the P&L Review, enabling the Revenue Accounting team to investigate revenue buckets/streams with significant deviations from expected amounts. Expected amounts are based on the Average Unit Revenue (AUR) from the last 12 months rather than validating top customers as done previously using SAP Analysis for Office. Due to its limitations with large data volumes, automating data preparation and utilizing Power BI's features for user interactivity and data visualizations, this project has been successfully deployed to users, resulting in significant time savings and a more efficient decision-making process.
 
 ### Visualizations
+#### Summary
 This Power BI report has several pages dedicated to each revenue bucket, with a summary page that compares each revenue stream and highlights those with significant impact.
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/d9c0da45-44c6-4687-9e55-4e5c5b02fe5d)
 
-### Other Pages
-There are 8 revenue buckets, each with its specific pages for revenue details, units, calculations, and analytics. It aids the drill down analysis into granular level.
+#### Other Pages
+All revenue buckets can be navigated through separate navigation buttons, each offering detailed information on revenue, units, calculation specifics, and the analytics page accessible via radio buttons. This functionality is achieved using bookmarking capabilities within Power BI.
+- Revenue Details
+![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/f9e68e22-2e80-4b21-bcbf-8d4d9401d61e)
 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/6e92d4ba-89bb-44ba-9f4c-45cb8700560c)
 
@@ -16,7 +19,7 @@ There are 8 revenue buckets, each with its specific pages for revenue details, u
 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/39108baf-9dd3-4f60-a64f-cb7dea9c7386)
 
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/f9e68e22-2e80-4b21-bcbf-8d4d9401d61e)
+
 
 ### The Process
 The stages below represent the end-to-end process of every BI project, which is consistent across other projects I've developed:
