@@ -1,5 +1,5 @@
 ## Revenue Analytics Driver Commentaries App
-This app, developed in Power Apps, is a crucial component of the Revenue Analytics project. Its primary function is to automate real-time commenting on the top and bottom drivers, dramatically reducing processing time from 4 hours to just seconds. By leveraging Power BI Streaming datasets and Power Apps, this solution ensures swift and efficient analysis and commentary, providing immediate insights and enhancing decision-making capabilities.
+This app, developed in Power Apps, is a crucial component of the Revenue Analytics project. Its primary function is to automate real-time commenting on the top and bottom drivers, dramatically reducing processing time from 4 hours to just seconds. By leveraging API, Power BI Streaming datasets, and Power Apps, this solution ensures swift and efficient analysis and commentary, providing immediate insights and enhancing decision-making capabilities.
 
 ## Backend
 This is how it appears at the backend. It is then embedded within the Power BI report, enabling users to directly input their analysis for top and bottom revenue drivers.
@@ -22,5 +22,5 @@ This is how it appears at the backend. It is then embedded within the Power BI r
 ##### Step 5
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/965a02d1-dd90-4622-a3fc-bfe2961b93d2)
 
-
-
+## Impact
+Previously, commenting was conducted through Analyze in Excel, a process that lacked real-time capabilities and delayed decision-making. With the new Power Apps automation integrated into the Revenue Analytics project, stakeholders can now provide immediate, real-time insights on top and bottom revenue drivers directly within the Power BI environment. This enhancement has significantly accelerated data analysis processes, enabling quicker responses to business trends and opportunities.
