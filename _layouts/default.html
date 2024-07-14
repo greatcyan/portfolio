@@ -31,13 +31,15 @@
 
       <p><strong>{{ site.description | default: site.github.project_tagline }}</strong></p>
 
-      {% if site.github.is_project_page %}
-        <p class="view">
-          Address: Lapu-Lapu City, Cebu 6015<br>
-          Email: <a href="mailto:07hcurab27@gmail.com">07hcurab27@gmail.com</a><br>
-          Phone: +639565028805
-        </p>
-      {% endif %}
+{% if site.github.is_project_page %}
+  <p class="view">
+    Address: Lapu-Lapu City, Cebu 6015<br>
+    Email: <a href="mailto:07hcurab27@gmail.com">07hcurab27@gmail.com</a><br>
+    Phone: +639565028805<br>
+    LinkedIn: <a href="https://www.linkedin.com/in/cyrus-baruc/details/certifications/" target="_blank">Cyrus Baruc</a>
+  </p>
+{% endif %}
+
 
       {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
