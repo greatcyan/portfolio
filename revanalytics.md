@@ -11,13 +11,19 @@ This Power BI report has several pages dedicated to each revenue bucket, with a 
 #### Other Pages
 All revenue buckets can be navigated through separate navigation buttons, each offering detailed information on revenue, units, calculation specifics, and the analytics page accessible via radio buttons. This functionality is achieved using bookmarking capabilities within Power BI.
 - Revenue Details
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/f9e68e22-2e80-4b21-bcbf-8d4d9401d61e)
+  ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/6e92d4ba-89bb-44ba-9f4c-45cb8700560c)
+- Units/Volume Details
+  ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/ba398152-efae-4950-a7d0-ec46bdd30f10)
+- Calculation Details
+  ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/39108baf-9dd3-4f60-a64f-cb7dea9c7386)
+- Analytics View
+  ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/f9e68e22-2e80-4b21-bcbf-8d4d9401d61e)
 
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/6e92d4ba-89bb-44ba-9f4c-45cb8700560c)
 
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/ba398152-efae-4950-a7d0-ec46bdd30f10)
 
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/39108baf-9dd3-4f60-a64f-cb7dea9c7386)
+
+
+
 
 
 
