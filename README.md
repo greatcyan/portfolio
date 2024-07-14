@@ -50,7 +50,7 @@ Advanced Excel Training Facilitator | Cebu Home & Builders Centre (Mar 2024 - Ap
 - Data Preparation
 - Data Aggregation
 --->
-# Portfolio:
+## Portfolio
 - [Revenue Analytics](revanalytics.md)
 - [In The Bag Dashboard](Inthebag.md)
 - [Occupancy Cost Center Report](Occupancy_CC_Report.md)
