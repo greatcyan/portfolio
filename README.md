@@ -29,6 +29,7 @@ I am proud to have received Kudos and appreciation from stakeholders for my work
 I am committed to staying at the forefront of technology by continuously learning and expanding my skillset. My current focus is on mastering AI, Machine Learning, and Predictive Analytics to enhance my ability to provide cutting-edge solutions in the ever-evolving data landscape.
 
 ### Projects
+While I have completed numerous projects, I selectively showcase only my best work. Each project featured here highlights my ability to create impactful, data-driven solutions through advanced analytics and visualization techniques.
 - [Revenue Analytics](revanalytics.md)
 - [Driver Commentaries App](drivercommenting.md)
 - [Cebu Provincial Dashboard](cebuprovincialdashboard.md)
