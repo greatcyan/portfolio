@@ -1,5 +1,3 @@
-## [⬅️Back](./)
-
 ## Revenue Analytics
 The report will be used to support the P&L Review as one of the requirements from our stakeholder, Corp. Consolidations.  The report will allow the Revenue Accounting team to investigate the revenue buckets/streams with a significant difference from the expected amount (which is based on the AUR from the last 12 months for HW and SU, and based on the average revenue from the last 12 months for SV) instead of validating the top customers.
 
