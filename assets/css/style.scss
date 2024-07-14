@@ -1,1 +1,7 @@
-
+# _config.yml
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-remote-theme # add this if you're using a remote theme
+remote_theme: jekyll/minima
+include:
+  - assets/css/styles.css
