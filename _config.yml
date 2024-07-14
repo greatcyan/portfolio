@@ -1,5 +1,5 @@
 title: " "
-logo: /assets/css/headshot.png
+logo: ![Cyrus Baruc Headshot](/assets/css/headshot.png){: .headshot }
 description: Business Analyst | Power BI Developer
 show_downloads: false
 theme: jekyll-theme-minimal
