@@ -20,8 +20,7 @@ After 10 years in electronics, I transitioned into the world of data, where I've
 
 ### Technical Skills
 Programming Languages: Python, SQL, M Language, DAX, R, VBA
-
-Tools and Technologies: Excel, Power BI, Power Apps, Power Automate
+Tools and Technologies: SAP, Excel, Power BI, Tableau Power Apps, Power Automate
 
 ### Achievements
 I am proud to have received Kudos and appreciation from stakeholders for my work on the Revenue Analytics dashboard in Power BI, which has been instrumental in driving business decisions and strategies.
