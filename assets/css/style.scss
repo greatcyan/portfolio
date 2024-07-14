@@ -1,14 +1,6 @@
-# _config.yml
-theme: jekyll-theme-minimal
-plugins:
-  - jekyll-remote-theme # add this if you're using a remote theme
-remote_theme: jekyll/minima
-include:
-  - assets/css/styles.css
-
 /* assets/css/styles.css */
 
 .headshot {
-  width: 150px; /* Adjust the width as needed */
+  width: 100px; /* Adjust the width as needed */
   height: auto; /* This keeps the aspect ratio */
 }
