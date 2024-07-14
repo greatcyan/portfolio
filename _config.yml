@@ -3,3 +3,5 @@ logo: /assets/css/headshot.png
 description: Business Analyst | Power BI Developer
 show_downloads: false
 theme: jekyll-theme-minimal
+include:
+  - assets/css/styles.scss
