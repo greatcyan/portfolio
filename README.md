@@ -19,8 +19,8 @@ After 10 years in electronics, I transitioned into the world of data, where I've
 - Process Automation: Utilizing Power Apps and Power Automate to streamline workflows and enhance efficiency.
 
 ### Technical Skills
-Programming Languages: Python, SQL, M Language, DAX, R, VBA
-Tools and Technologies: SAP, Excel, Power BI, Tableau Power Apps, Power Automate
+- Programming Languages: Python, SQL, M Language, DAX, R, VBA
+- Tools and Technologies: SAP, Excel, Power BI, Tableau Power Apps, Power Automate
 
 ### Achievements
 I am proud to have received Kudos and appreciation from stakeholders for my work on the Revenue Analytics dashboard in Power BI, which has been instrumental in driving business decisions and strategies.
