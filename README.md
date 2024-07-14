@@ -1,4 +1,6 @@
-# About me
+# Cyrus Baruc - Portfolio
+
+## About me
 Hello! I'm Cyrus Baruc, an enthusiastic data professional with a passion for turning data into actionable insights. With over a decade of experience as an Electronics Technician, I bring a unique perspective to the field of data analytics, combining technical expertise with a deep understanding of complex systems.
 
 ### Certifications:
