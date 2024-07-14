@@ -30,10 +30,10 @@ I am committed to staying at the forefront of technology by continuously learnin
 
 ### Projects
 - [Revenue Analytics](revanalytics.md)
-- [In The Bag Dashboard](Inthebag.md)
+<!--- - [In The Bag Dashboard](Inthebag.md) 
 - [Occupancy Cost Center Report](Occupancy_CC_Report.md)
 - [Development Cost Analytics](DevelopmentCC.md)
-- [Worldwide Expense Report](wwexpense.md)
+- [Worldwide Expense Report](wwexpense.md)--->
 - [Driver Commentaries App](drivercommenting.md)
 - [Cebu Provincial Dashboard](cebuprovincialdashboard.md)
 
