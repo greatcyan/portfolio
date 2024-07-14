@@ -3,11 +3,12 @@
 ### Overview
 This report will support the P&L Review, enabling the Revenue Accounting team to investigate revenue buckets/streams with significant deviations from expected amounts. Expected amounts are based on the Average Unit Revenue (AUR) from the last 12 months rather than validating top customers as done previously using SAP Analysis for Office. Due to its limitations with large data volumes, automating data preparation and utilizing Power BI's features for user interactivity and data visualizations, this project has been successfully deployed to users, resulting in significant time savings and a more efficient decision-making process.
 
-### Summary
+### Visualization
+##### Summary
 This Power BI report comprises multiple views, each dedicated to different revenue buckets, complemented by a summary page that compares each revenue stream, emphasizing those with significant impact. The summary page is structured with a clear visual hierarchy to facilitate rapid data analysis. Interactive slicers on the left side allow users to select specific criteria for customized analysis. Metric cards for each revenue bucket display actual revenue, expected revenue, and variance, helping users pinpoint the highest and lowest revenue streams of the month. Additionally, a summary table on the left provides these metrics alongside real-time driver commentaries inputted via a Power Apps application. Below, a variance distribution by geography and revenue buckets enhances comparability.
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/d9c0da45-44c6-4687-9e55-4e5c5b02fe5d)
 
-### Details
+##### Details
 All revenue buckets can be navigated through separate navigation buttons, each offering detailed information on revenue, units, calculation specifics, and the analytics page accessible via radio buttons. This functionality is achieved using bookmarking capabilities within Power BI.
 - The Revenue Details section features a matrix table visualization displaying actual revenue by month. Users can drill down into details starting from company code and product family, all the way up to customer level.
   ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/6e92d4ba-89bb-44ba-9f4c-45cb8700560c)
@@ -18,7 +19,7 @@ All revenue buckets can be navigated through separate navigation buttons, each o
 - The Analytics View is a dashboard providing a quick snapshot of revenue metrics for swift insights and data comprehension. At the top, main metric cards display key figures. The middle left section shows variance by geography, while the middle right section illustrates revenue and volume trends over the past 12 months. At the bottom, the top and bottom three variances are detailed by geography, product family, and customer. Slicers are synchronized across other pages, ensuring consistent filtering and analysis throughout the report.
   ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/f9e68e22-2e80-4b21-bcbf-8d4d9401d61e)
 
-### The Process
+##### The Process
 The stages below represent the end-to-end process of every BI project, which is consistent across other projects I've developed:
 - Requirements Gathering: This phase involves gathering and documenting the specific requirements for the report.
 - Creating Technical Specifications: Based on the requirements, technical specifications are created to outline how the report will be developed.
@@ -30,7 +31,7 @@ The stages below represent the end-to-end process of every BI project, which is 
 For more details, please refer to the [Occupancy Cost Center Report](Occupancy_CC_Report.md), which provides a detailed overview of the report development process flow.
 
 
-### Stakeholders' Appreciation
+##### Stakeholders' Appreciation
 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/4a80b8b5-0fca-4782-a4cc-5d271258ee11)
 
