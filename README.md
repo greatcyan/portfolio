@@ -28,6 +28,15 @@ I am proud to have received Kudos and appreciation from stakeholders for my work
 ### Career Goals:
 I am committed to staying at the forefront of technology by continuously learning and expanding my skillset. My current focus is on mastering AI, Machine Learning, and Predictive Analytics to enhance my ability to provide cutting-edge solutions in the ever-evolving data landscape.
 
+### Projects
+- [Revenue Analytics](revanalytics.md)
+- [In The Bag Dashboard](Inthebag.md)
+- [Occupancy Cost Center Report](Occupancy_CC_Report.md)
+- [Development Cost Analytics](DevelopmentCC.md)
+- [Worldwide Expense Report](wwexpense.md)
+- [Driver Commentaries App](drivercommenting.md)
+- [Cebu Provincial Dashboard](cebuprovincialdashboard.md)
+
 Thank you for visiting my portfolio. I look forward to connecting with you and exploring how we can leverage data to drive success.
 
 <!---  For inquiries, you may contact me through my number +639565028805 or email me at 07hcurab27@gmail.com. 
@@ -52,14 +61,7 @@ Advanced Excel Training Facilitator | Cebu Home & Builders Centre (Mar 2024 - Ap
 - Data Preparation
 - Data Aggregation
 --->
-## Projects
-- [Revenue Analytics](revanalytics.md)
-- [In The Bag Dashboard](Inthebag.md)
-- [Occupancy Cost Center Report](Occupancy_CC_Report.md)
-- [Development Cost Analytics](DevelopmentCC.md)
-- [Worldwide Expense Report](wwexpense.md)
-- [Driver Commentaries App](drivercommenting.md)
-- [Cebu Provincial Dashboard](cebuprovincialdashboard.md)
+
 
 
 
