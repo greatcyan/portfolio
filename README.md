@@ -17,6 +17,7 @@ After 10 years in electronics, I transitioned into the world of data, where I've
 
 ### Technical Skills:
 Programming Languages: Python, SQL, M Language, DAX, R, VBA
+
 Tools and Technologies: Excel, Power BI, Power Apps, Power Automate
 
 ### Achievements:
