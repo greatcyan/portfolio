@@ -1,7 +1,7 @@
 logo: /assets/css/headshot.png
 title: Cyrus Cueva Baruc
 description: Data Analyst | Business Analyst
-show_downloads: false
+show_downloads: true
 theme: jekyll-theme-minimal
 include:
   - assets/css/styles.css
