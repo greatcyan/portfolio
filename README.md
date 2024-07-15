@@ -5,11 +5,14 @@ Hello! I'm Cyrus Baruc, an enthusiastic data professional with a passion for tur
 
 ### Certifications
  - Currently enrolled in Data Science Certification Program at UP Cebu
- - Data Associate Pathway @ Project SPARTA
- - Data Visualization Specialization @ Project SPARTA
- - Data Analytics Professional Certificate @ Google on Coursera
- - Business Intelligence Certificate @ Google on Coursera
  - Power BI Data Analyst @ Microsoft on Coursera
+ - Business Intelligence Certificate @ Google on Coursera
+ - Data Analytics Certificate @ Google on Coursera
+ - Data Governance Specialization @ Project SPARTA PH
+ - Computing Specialization @ Project SPARTA PH
+ - Data Visualization Specialization @ Project SPARTA PH
+ - Data Associate Pathway @ Project SPARTA PH
+
 
 ### Professional Backgound
 After 10 years in electronics, I transitioned into the world of data, where I've been making significant impacts. My journey in data analytics has been marked by the creation of dynamic and insightful projects, including:
