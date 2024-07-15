@@ -1,7 +1,7 @@
 # Data Analytics Portfolio
 
 ## About me
-Hello! I'm Cyrus Baruc, an enthusiastic data professional with a passion for turning data into actionable insights. With over a decade of experience as an Electronics Technician, I bring a unique perspective to the field of data analytics, combining technical expertise with a deep understanding of complex systems.
+Hello! I’m Cyrus Baruc, a passionate data professional with a talent for converting data into actionable insights. With over a decade of experience as an Electronics Technician, I bring a unique perspective to data analytics, seamlessly blending technical proficiency with an in-depth understanding of complex systems. As a committed polymath, I thrive on continuous learning across various domains, always seeking to expand my knowledge and expertise.
 
 ### Certifications
  - Currently enrolled in Data Science Certification Program at UP Cebu
