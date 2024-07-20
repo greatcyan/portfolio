@@ -33,28 +33,36 @@ Calculated measures are developed using DAX to support the objectives of this re
 Below are the process in deriving the AUR and the DAX Queries.
 
 - Total Revenue and Volume
-![image](https://github.com/user-attachments/assets/fbb37aae-5c1b-4ce6-ad61-68d4f74507ed)
+  ![image](https://github.com/user-attachments/assets/6d52fb96-1abd-4647-b4ad-869680676044)
+<!--![image](https://github.com/user-attachments/assets/fbb37aae-5c1b-4ce6-ad61-68d4f74507ed)-->
 
 - Current Month Revenue
-![image](https://github.com/user-attachments/assets/6cedcd09-a88d-4666-a6d1-c3c5e63c3192)
+  ![image](https://github.com/user-attachments/assets/db020302-7c19-4f20-a594-1f9f0a070580)
+<!--![image](https://github.com/user-attachments/assets/6cedcd09-a88d-4666-a6d1-c3c5e63c3192)-->
 
 - Current Month Volume
-![image](https://github.com/user-attachments/assets/43a78393-93be-4572-a68e-1b4347545a59)
+  ![image](https://github.com/user-attachments/assets/528c3298-4dd2-4618-8c86-00a206af23c9)
+<!--![image](https://github.com/user-attachments/assets/43a78393-93be-4572-a68e-1b4347545a59)-->
 
 - Current Month Average Revenue
-![image](https://github.com/user-attachments/assets/63518639-38cf-41db-a54e-b8a84f329b8f)
+  ![image](https://github.com/user-attachments/assets/1a5fae46-f054-420c-a128-e98ffa5872b8)
+<!--![image](https://github.com/user-attachments/assets/63518639-38cf-41db-a54e-b8a84f329b8f)-->
 
 - Current Month Average Volume
-![image](https://github.com/user-attachments/assets/77ef78de-8886-450f-8da4-733d6bf8f706)
+  ![image](https://github.com/user-attachments/assets/6729b790-e04a-425e-a240-081929e986a0)
+<!--![image](https://github.com/user-attachments/assets/77ef78de-8886-450f-8da4-733d6bf8f706)-->
 
 - AUR
-![image](https://github.com/user-attachments/assets/4fdee12b-3812-4e82-a6ea-c8fb43c0c733)
+  ![image](https://github.com/user-attachments/assets/9f72b2dc-1597-4095-b67d-e92bcbfa0c7c)
+<!--![image](https://github.com/user-attachments/assets/4fdee12b-3812-4e82-a6ea-c8fb43c0c733)-->
 
 - AUR based on average
-![image](https://github.com/user-attachments/assets/ee8d444b-9b6c-4931-a206-6ba492adf6ea)
+  ![image](https://github.com/user-attachments/assets/fdbb6184-f5f8-414d-8c23-6b222d9c85e3)
+<!--![image](https://github.com/user-attachments/assets/ee8d444b-9b6c-4931-a206-6ba492adf6ea)-->
 
 - Expected Revenue
-![image](https://github.com/user-attachments/assets/5253ac3a-1dd7-48fc-b0bb-fe698550d9cd)
+  ![image](https://github.com/user-attachments/assets/34f629a5-4b77-413d-a9d9-3b36d4d8a481)
+<!--![image](https://github.com/user-attachments/assets/5253ac3a-1dd7-48fc-b0bb-fe698550d9cd)-->
 
 We can then perform a comparative analysis between the current month actual revenue vs the expected revenue. These calculations provide insights into whether the supply volume justifies the revenue. Decision-makers can use these insights to strategize and optimize revenue effectively.
 
