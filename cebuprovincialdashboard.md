@@ -25,14 +25,15 @@ A final table was created from the transformed data, preparing it for in-depth a
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/47d38abb-a342-40ec-83aa-50d4704b674e)
 
 ### Analytical Insights and Visualization
-Analyzed the data and made a query tables and linked charts to be used for data viz and dashboard.
+The data was analyzed to create query tables and linked charts, facilitating effective data visualization and integration into the dashboard.
 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/c961d0b4-9789-432b-a6d8-f17972501da0)
 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/47e13d84-967b-4726-a138-feba0d4d1035)
 
-#### Dashboard Development and Design
-The data was analyzed to create query tables and linked charts, facilitating effective data visualization and integration into the dashboard.
+#### Impact
+As a resident of Bantayan Island, I recognize significant opportunities for growth in areas such as education, business environment, and tourist attractions compared to other first-class municipalities. By leveraging insights from the dashboard and actively participating in local development efforts, I aim to inspire and lead my fellow Bantayanons. My commitment to becoming a role model will help drive positive change and progress in our community, setting a standard for continuous improvement and development.
+
 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/d7b9d2bd-874b-4a1a-a897-0a733deb6f0c)
 
