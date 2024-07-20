@@ -15,8 +15,9 @@ All revenue buckets can be navigated through separate navigation buttons, each o
 
 
 
-- Units/Volume Details the same with Revenue details, also features a matrix table visualization displaying actual units/volume by month. Users can drill down into details starting from company code and product family, all the way up to customer level.
-  ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/ba398152-efae-4950-a7d0-ec46bdd30f10)
+- The Units Details or the "Sellin Pages", the same with Revenue details, also features a matrix table visualization displaying actual units/volume by month. Users can drill down into details starting from company code and product family, all the way up to customer level.
+![image](https://github.com/user-attachments/assets/b01c3720-3850-47be-9928-cbe079d61f47)
+
 - The Calculation Details section displays metrics and calculations using a matrix table, designed for in-depth analysis and data validation.
   ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/39108baf-9dd3-4f60-a64f-cb7dea9c7386)
 - The Analytics View is a dashboard providing a quick snapshot of revenue metrics for swift insights and data comprehension. At the top, main metric cards display key figures. The middle left section shows variance by geography, while the middle right section illustrates revenue and volume trends over the past 12 months. At the bottom, the top and bottom three variances are detailed by geography, product family, and customer. Slicers are synchronized across other pages, ensuring consistent filtering and analysis throughout the report.
