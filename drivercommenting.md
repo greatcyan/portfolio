@@ -9,7 +9,7 @@ This project, developed in Power Apps, is a crucial component of the Revenue Ana
 - **Push Dataset:** For handling real-time data updates.
 
 ### Step-by-Step Implementation
-#### Create the Power BI Streaming/Push Dataset
+#### 1. Create the Push Dataset
 In the Power BI Workspace, click the New button and select the Streaming dataset option. A window titled "Streaming dataset" will appear, allowing you to choose the data source. For this project, I selected API.
 ![image](https://github.com/user-attachments/assets/94fddd27-c900-4b10-a971-301a37a7f28c)
 
@@ -20,6 +20,21 @@ Once done, the streaming dataset is added to the workspace, generating API infor
 ![image](https://github.com/user-attachments/assets/af671dfb-5ef1-48e7-858c-6831f98f0166)
 
 Using this API information, we can then integrate it into our Power Apps for real-time data entries for each user's inputs.
+
+#### 2. Develop the Power Apps Application:
+I developed the user interface in the Power Apps Studio using a mobile layout to fit in the Power BI Dashboard. 
+The app has five main components: a dropdown option for revenue bucket, a dropdown option for geography, a user input box for free text, a reset input button, and a submit button for finalizing entries.
+On the backend, all details inputted by the user will be then captured, and automatically loaded back to our push dataset that we created through the code embedded on the Onselect Properties of the Submit button. Here is the code
+![image](https://github.com/user-attachments/assets/a38bd860-0474-4f92-b472-878b9105d063)
+This Set function creates a record called Revenue_Drivers with the following fields:
+- Bucket: The selected value from the bucketdropdown.
+- Geo: The selected value from the geodropdown.
+- Submitted on: The current date and time.
+- Comment: The text entered in the commenttextinput field.
+- Relationship ID: A unique identifier created by concatenating the values from the bucketdropdown and geodropdown.
+
+![image](https://github.com/user-attachments/assets/4c1c5db6-be01-43c0-846a-7c8a5addca34)
+
 
 ## How to use the App
 
