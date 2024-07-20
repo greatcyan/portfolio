@@ -6,7 +6,7 @@ This project, developed in Power Apps, is a crucial component of the Revenue Ana
 ### Tools Used
 - **Power Apps:** For creating the user interface and data input mechanism.
 - **Power BI:** For real-time data visualization.
-- **Push Dataset**: For handling real-time data updates.
+- **Push Dataset:** For handling real-time data updates.
 
 ### Step-by-Step Implementation
 #### Create the Power BI Streaming/Push Dataset
