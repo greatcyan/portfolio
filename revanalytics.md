@@ -22,7 +22,8 @@ The **Calculation Details** section displays metrics and calculations using a ma
 
 
 The **Analytics View** is a dashboard providing a quick snapshot of revenue metrics for swift insights and data comprehension. At the top, main metric cards display key figures. The middle left section shows variance by geography, while the middle right section illustrates revenue and volume trends over the past 12 months. At the bottom, the top and bottom three variances are detailed by geography, product family, and customer. Slicers are synchronized across other pages, ensuring consistent filtering and analysis throughout the report.
-![image](https://github.com/user-attachments/assets/acaee9d6-c03b-4367-9de0-f95d472e8283)
+![image](https://github.com/user-attachments/assets/5a64db42-b494-424a-9348-fd7fc4f84394)
+
 
 ## Data Model Structure
 After the ETL process, the model applied in this Power BI project is a star schema. Summarized and aggregated revenue bucket tables into a single table to reduce complexity. Created dimension tables for calendar, geography, product family, and customer to lessen ambiguity and optimize query performance at the front end, preventing loading delays in rendering visuals.
