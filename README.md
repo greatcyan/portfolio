@@ -36,7 +36,18 @@ While I have completed numerous projects, I selectively showcase only my best wo
 - [Revenue Analytics - Power BI](revanalytics.md){:target="_blank"}
 - [Driver Commentaries App - Power Apps](drivercommenting.md){:target="_blank"}
 - [Cebu Provincial Dashboard - Excel](cebuprovincialdashboard.md){:target="_blank"}
-- My other projects will be posted soon (including Python Pandas, Power Automate Flows, Power BI Dashboards, Query optimization in DAX, SQL and Power Query.
+- Requirements Gathering Template - Continuous Improvement
+
+## Blogs
+Soon to be published in this portfolio are my personal blogs, including the following topics:
+- Data Preparation with Pandas
+- Data Visualization with Plotly and Seaborn
+- Exploratory Data Analysis
+- Query Optimization in Power Query M Language
+- Query Optimization in DAX
+- Data Modeling Snowflakes and Star Schema
+- Data Preparation
+- Data Visualization Fundamentals
 
 Thank you for visiting my portfolio. I look forward to connecting with you and exploring how we can leverage data to drive success.
 
