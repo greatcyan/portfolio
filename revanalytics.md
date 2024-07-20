@@ -10,21 +10,20 @@ This Power BI report comprises multiple views, each dedicated to different reven
 
 #### Details
 All revenue buckets can be navigated through separate navigation buttons, each offering detailed information on revenue, units, calculation specifics, and the analytics page accessible via *radio buttons*. This functionality is achieved using bookmarking capabilities within Power BI.
-- The **Revenue Details** section features a matrix table visualization displaying actual revenue by month. Users can drill down into details starting from company code and product family, all the way up to customer level.
+
+The **Revenue Details** section features a matrix table visualization displaying actual revenue by month. Users can drill down into details starting from company code and product family, all the way up to customer level.
 ![image](https://github.com/user-attachments/assets/de7d5f6b-aa16-44fe-97b8-799e37490b1f)
 
 
 
-- The **Units Details or the "Sellin Pages"**, the same with Revenue details, also features a matrix table visualization displaying actual units/volume by month. Users can drill down into details starting from company code and product family, all the way up to customer level.
+The **Units Details or the "Sellin Pages"**, the same with Revenue details, also features a matrix table visualization displaying actual units/volume by month. Users can drill down into details starting from company code and product family, all the way up to customer level.
 ![image](https://github.com/user-attachments/assets/b01c3720-3850-47be-9928-cbe079d61f47)
 
-- The **Calculation Details** section displays metrics and calculations using a matrix table, designed for in-depth analysis and data validation. Calculations are created using DAX measures utilizing aggregations, iterations, and filter functions.
+The **Calculation Details** section displays metrics and calculations using a matrix table, designed for in-depth analysis and data validation. Calculations are created using DAX measures utilizing aggregations, iterations, and filter functions.
 ![image](https://github.com/user-attachments/assets/9c5fc146-a421-4fc2-9b52-3c84303be437)
 
-
-
-- The Analytics View is a dashboard providing a quick snapshot of revenue metrics for swift insights and data comprehension. At the top, main metric cards display key figures. The middle left section shows variance by geography, while the middle right section illustrates revenue and volume trends over the past 12 months. At the bottom, the top and bottom three variances are detailed by geography, product family, and customer. Slicers are synchronized across other pages, ensuring consistent filtering and analysis throughout the report.
-  ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/f9e68e22-2e80-4b21-bcbf-8d4d9401d61e)
+The **Analytics View** is a dashboard providing a quick snapshot of revenue metrics for swift insights and data comprehension. At the top, main metric cards display key figures. The middle left section shows variance by geography, while the middle right section illustrates revenue and volume trends over the past 12 months. At the bottom, the top and bottom three variances are detailed by geography, product family, and customer. Slicers are synchronized across other pages, ensuring consistent filtering and analysis throughout the report.
+![image](https://github.com/user-attachments/assets/acaee9d6-c03b-4367-9de0-f95d472e8283)
 
 ## Data Model Structure
 After the ETL process, the model applied in this Power BI project is a snowflake schema. Summarized and aggregated revenue bucket tables into a single table to reduce complexity. Created dimension tables for calendar, geography, product family, and customer to lessen ambiguity and optimize query performance at the front end, preventing loading delays in rendering visuals.
