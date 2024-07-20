@@ -22,9 +22,10 @@ Once done, the streaming dataset is added to the workspace, generating API infor
 Using this API information, we can then integrate it into our Power Apps for real-time data entries for each user's inputs.
 
 #### 2. Develop the Power Apps Application:
-I developed the user interface in the Power Apps Studio using a mobile layout to fit in the Power BI Dashboard. 
-The app has five main components: a dropdown option for revenue bucket, a dropdown option for geography, a user input box for free text, a reset input button, and a submit button for finalizing entries.
-On the backend, all details inputted by the user will be then captured, and automatically loaded back to our push dataset that we created through the code embedded on the Onselect Properties of the Submit button. Here is the code
+I developed the user interface in Power Apps Studio using a mobile layout to fit within the Power BI Dashboard. The app has five main components: a dropdown option for the revenue bucket, a dropdown option for geography, a user input box for free text, a reset input button, and a submit button for finalizing entries. 
+![image](https://github.com/user-attachments/assets/4c1c5db6-be01-43c0-846a-7c8a5addca34)
+
+On the backend, all details inputted by the user are captured and automatically loaded into our push dataset through the code embedded in the OnSelect property of the Submit button. Here is the code:
 ![image](https://github.com/user-attachments/assets/a38bd860-0474-4f92-b472-878b9105d063)
 This Set function creates a record called Revenue_Drivers with the following fields:
 - Bucket: The selected value from the bucketdropdown.
@@ -33,7 +34,7 @@ This Set function creates a record called Revenue_Drivers with the following fie
 - Comment: The text entered in the commenttextinput field.
 - Relationship ID: A unique identifier created by concatenating the values from the bucketdropdown and geodropdown.
 
-![image](https://github.com/user-attachments/assets/4c1c5db6-be01-43c0-846a-7c8a5addca34)
+
 
 
 ## How to use the App
