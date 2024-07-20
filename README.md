@@ -35,16 +35,10 @@ I am proud to have received Kudos and appreciation from stakeholders for my work
 I am committed to staying at the forefront of technology by continuously learning and expanding my skillset. My current focus is on mastering AI, Machine Learning, and Predictive Analytics to enhance my ability to provide cutting-edge solutions in the ever-evolving data landscape.
 
 ## Projects
-While I have completed numerous projects, I selectively showcase only my best work. Each project featured here highlights my ability to create impactful, data-driven solutions through advanced analytics and visualization techniques.
+While I have completed numerous projects, I selectively showcase only my best work. Each project featured here highlights my ability to create impactful, data-driven solutions through advanced analytics, automation, and visualization techniques.
 - [Revenue Analytics - Power BI](revanalytics.md){:target="_blank"}
 - [Commentaries App - Power Apps](drivercommenting.md){:target="_blank"}
 - [Cebu Provincial Dashboard - Excel](cebuprovincialdashboard.md){:target="_blank"}
-<!--Amortization Report - Power BI
-- Workspace App Enhancement - Power BI
-- Worldwide Expense Report - Power BI
-- Automatic Reply to Power BI Access Request - Power Automate
-- Requirements Gathering Template - Continuous Improvement-->
-
 
 Thank you for visiting my portfolio. I look forward to connecting with you and exploring how we can leverage data to drive success.
 
