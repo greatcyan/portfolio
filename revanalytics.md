@@ -47,7 +47,8 @@ The design of the Revenue Analytics Dashboard was guided by principles of visual
 - Tooltips and Drill-Throughs: Added tooltips and drill-through actions to provide additional context and enable deeper exploration of data without cluttering the main view.
 
 ### Stakeholder Impact
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/4a80b8b5-0fca-4782-a4cc-5d271258ee11)
+![image](https://github.com/user-attachments/assets/387795b0-0ad9-449b-b7b0-325dc2e02a7f)
+
 
 
 
