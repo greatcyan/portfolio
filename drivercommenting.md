@@ -1,5 +1,5 @@
 ## Real-time Commenting App
-
+![THe APP](https://github.com/user-attachments/assets/f74a5223-efb6-41c0-9242-19d7a2433855)
 ### Overview
 This project, developed in Power Apps, is a crucial component of the Revenue Analytics project. Its primary function is to automate real-time commenting on the top and bottom drivers, dramatically reducing processing time from 4 hours to just seconds. By leveraging API, Power BI Streaming datasets, and Power Apps, this solution ensures swift and efficient analysis and commentary, providing immediate insights and enhancing decision-making capabilities.
 
