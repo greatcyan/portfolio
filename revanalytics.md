@@ -14,10 +14,8 @@ All revenue buckets can be navigated through separate navigation buttons, each o
 The **Revenue Details** section features a matrix table visualization displaying actual revenue by month. Users can drill down into details starting from company code and product family, all the way up to customer level.
 ![image](https://github.com/user-attachments/assets/5366156f-3019-4722-a179-39590f1677c0)
 
-
-
 The **Units Details or the "Sellin Pages"**, the same with Revenue details, also features a matrix table visualization displaying actual units/volume by month. Users can drill down into details starting from company code and product family, all the way up to customer level.
-![image](https://github.com/user-attachments/assets/b01c3720-3850-47be-9928-cbe079d61f47)
+![image](https://github.com/user-attachments/assets/b2e9a3ba-3c8d-4462-9440-1d62838d5ecb)
 
 The **Calculation Details** section displays metrics and calculations using a matrix table, designed for in-depth analysis and data validation. Calculations are created using DAX measures utilizing aggregations, iterations, and filter functions.
 ![image](https://github.com/user-attachments/assets/9c5fc146-a421-4fc2-9b52-3c84303be437)
