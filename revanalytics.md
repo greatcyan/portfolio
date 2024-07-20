@@ -6,12 +6,14 @@ This report will support the P&L Review, enabling the Revenue Accounting team to
 ## Visualization
 #### Summary
 This Power BI report comprises multiple views, each dedicated to different revenue buckets, complemented by a summary page that compares each revenue stream, emphasizing those with significant impact. The summary page is structured with a clear visual hierarchy to facilitate rapid data analysis. Interactive slicers on the left side allow users to select specific criteria for customized analysis. Metric cards for each revenue bucket display actual revenue, expected revenue, and variance, helping users pinpoint the highest and lowest revenue streams of the month. Additionally, a summary table on the left provides these metrics alongside real-time driver commentaries inputted via a Power Apps application. Below, a variance distribution by geography and revenue buckets enhances comparability.
-![image](https://github.com/user-attachments/assets/ef794e49-6091-41aa-a3c9-98aedae7a127)
+![image](https://github.com/user-attachments/assets/9400d79e-5b22-4f62-93a8-20e175302c66)
 
 #### Details
 All revenue buckets can be navigated through separate navigation buttons, each offering detailed information on revenue, units, calculation specifics, and the analytics page accessible via radio buttons. This functionality is achieved using bookmarking capabilities within Power BI.
 - The Revenue Details section features a matrix table visualization displaying actual revenue by month. Users can drill down into details starting from company code and product family, all the way up to customer level.
-  ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/6e92d4ba-89bb-44ba-9f4c-45cb8700560c)
+![image](https://github.com/user-attachments/assets/df4095dd-729f-440d-a24c-3bd0c5f20959)
+
+
 - Units/Volume Details the same with Revenue details, also features a matrix table visualization displaying actual units/volume by month. Users can drill down into details starting from company code and product family, all the way up to customer level.
   ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/ba398152-efae-4950-a7d0-ec46bdd30f10)
 - The Calculation Details section displays metrics and calculations using a matrix table, designed for in-depth analysis and data validation.
