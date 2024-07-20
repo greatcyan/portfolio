@@ -9,9 +9,10 @@ This Power BI report comprises multiple views, each dedicated to different reven
 ![image](https://github.com/user-attachments/assets/9400d79e-5b22-4f62-93a8-20e175302c66)
 
 #### Details
-All revenue buckets can be navigated through separate navigation buttons, each offering detailed information on revenue, units, calculation specifics, and the analytics page accessible via radio buttons. This functionality is achieved using bookmarking capabilities within Power BI.
+All revenue buckets can be navigated through separate navigation buttons, each offering detailed information on revenue, units, calculation specifics, and the analytics page accessible via *radio buttons*. This functionality is achieved using bookmarking capabilities within Power BI.
 - The **Revenue Details** section features a matrix table visualization displaying actual revenue by month. Users can drill down into details starting from company code and product family, all the way up to customer level.
-![image](https://github.com/user-attachments/assets/df4095dd-729f-440d-a24c-3bd0c5f20959)
+![image](https://github.com/user-attachments/assets/de7d5f6b-aa16-44fe-97b8-799e37490b1f)
+
 
 
 - Units/Volume Details the same with Revenue details, also features a matrix table visualization displaying actual units/volume by month. Users can drill down into details starting from company code and product family, all the way up to customer level.
