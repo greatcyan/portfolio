@@ -5,7 +5,8 @@ Hello! I’m Cyrus Baruc, a passionate data professional with a talent for conve
 
 ### Education
  - Bachelor of Science in Industrial Technology major in Electronics @ Cebu Technological University - Main
-### Continuos Education
+
+### Continouos Learning
  - Currently enrolled in Data Science Certification Program at UP Cebu
  - Power BI Data Analyst @ Microsoft on Coursera
  - Business Intelligence Certificate @ Google on Coursera
