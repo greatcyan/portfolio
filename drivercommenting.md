@@ -48,25 +48,24 @@ PowerBI.AddRows is a function that sends data to a Power BI streaming dataset.
 - "f429cde2-6dde-4e2b-bcb6-fe2bc186a170" is the Workspace ID where the dataset is located
 - "3f9a7849-caff-44fe-bcf7-c807c7b21a1b is the dataset ID
 
-This app is ready and can be added to the Power BI dashboard for easy access by users.
+This app is ready and can be added to the Power BI dashboard for easy access by users. We can then add the push dataset as our source in our Power BI project, and update and configure the data model to include our streaming dataset.
 
-## How to use the App
+#### How to use the Commenting App
+1. Enable the Commenting App
+- In the Revenue Analytics Summary page, switch on the toogle button to show the commenting app.
+![image](https://github.com/user-attachments/assets/a7f94402-4ff7-4ad0-85ba-2cc61ee01541)
 
-### Step 1
-Switch on the toogle button to show the commenting app.
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/ad4d3fba-c7b3-4cda-aec8-b49afe2521e2)
-### Step 2
-Select appropriate revenue bucket and geography.
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/04d9f308-8d46-4a9d-881d-b73de999b850)
-### Step 3
-Input driver commentaries and analysis.
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/f658ab10-6492-4e3a-85fb-faccd78f8f96)
-### Step 4
-Click submit.
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/e5844bbc-a31b-4f4f-9d6e-25a528c6fd13)
-### Step 5
-Hover on the summary table to view the driver comments in a tooltip.
-![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/965a02d1-dd90-4622-a3fc-bfe2961b93d2)
+2. Input Data
+-  Select the appropriate revenue bucket and geography from the dropdown options.
+-  Enter your driver commentaries and analysis in the provided text box.
+
+3. Submit Your Comments
+-  Once you have completed your input, click the submit button to finalize your entry.
+
+4. View Comments
+ - Hover over the summary table to view the driver comments in a tooltip.
+![image](https://github.com/user-attachments/assets/0efdfc10-67fe-4b96-8012-c00cd14d2351)
 
 ## Impact
-Previously, commenting was conducted through Analyze in Excel, a process that lacked real-time capabilities and delayed decision-making. With the new Power Apps automation integrated into the Revenue Analytics project, stakeholders can now provide immediate, real-time insights on top and bottom revenue drivers directly within the Power BI environment. This enhancement has significantly accelerated data analysis processes, enabling quicker responses to business trends and opportunities.
+
+The new Power Apps automation in the Revenue Analytics project has replaced the outdated Analyze in Excel method, enabling real-time feedback directly within Power BI. This shift has accelerated data analysis and decision-making by providing immediate insights on revenue drivers. Improved collaboration and accuracy are achieved as stakeholders engage directly with reports, reducing communication delays and errors. The solution also enhances workflow efficiency by eliminating the need for manual data transfers and is scalable to accommodate business growth. Overall, these improvements facilitate quicker responses to trends and opportunities, driving strategic growth.
