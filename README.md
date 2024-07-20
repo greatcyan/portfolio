@@ -33,9 +33,9 @@ I am committed to staying at the forefront of technology by continuously learnin
 
 ## Projects
 While I have completed numerous projects, I selectively showcase only my best work. Each project featured here highlights my ability to create impactful, data-driven solutions through advanced analytics and visualization techniques.
-- [Revenue Analytics](https://github.com/greatcyan/portfolio/blob/main/revanalytics.md){:target="_blank"}
-- [Driver Commentaries App](https://github.com/greatcyan/portfolio/blob/main/drivercommenting.md){:target="_blank"}
-- [Cebu Provincial Dashboard](https://github.com/greatcyan/portfolio/blob/main/cebuprovincialdashboard.md){:target="_blank"}
+- [Revenue Analytics](revanalytics.md){:target="_blank"}
+- [Driver Commentaries App](drivercommenting.md){:target="_blank"}
+- [Cebu Provincial Dashboard](cebuprovincialdashboard.md){:target="_blank"}
 
 Thank you for visiting my portfolio. I look forward to connecting with you and exploring how we can leverage data to drive success.
 
