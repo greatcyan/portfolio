@@ -31,6 +31,8 @@ The **Analytics View** is a dashboard providing a quick snapshot of revenue metr
 ## Calculations
 Calculated measures are developed using DAX to support the objectives of this report. The primary aim is to conduct a comparative analysis between actual revenue and expected revenue. To facilitate this comparison, we calculate the Average Units Revenue (AUR), offering a precise and detailed measure of revenue performance.
 
+We begin by calculating the actual revenue and volume, followed by their respective averages, and then derive the AUR. With the AUR established, we can calculate the expected revenue. These calculations provide insights into whether our supply volume justifies our revenue. Decision-makers can use these insights to strategize and optimize revenue effectively.
+
 ****Total Revenue and Volume****
 ![image](https://github.com/user-attachments/assets/fbb37aae-5c1b-4ce6-ad61-68d4f74507ed)
 
@@ -40,9 +42,20 @@ Calculated measures are developed using DAX to support the objectives of this re
 ****Current Month Volume****
 ![image](https://github.com/user-attachments/assets/43a78393-93be-4572-a68e-1b4347545a59)
 
+****Current Month Average Revenue****
+![image](https://github.com/user-attachments/assets/63518639-38cf-41db-a54e-b8a84f329b8f)
 
+****Current Month Average Volume****
+![image](https://github.com/user-attachments/assets/77ef78de-8886-450f-8da4-733d6bf8f706)
 
+****AUR****
+![image](https://github.com/user-attachments/assets/4fdee12b-3812-4e82-a6ea-c8fb43c0c733)
 
+****AUR based on average****
+![image](https://github.com/user-attachments/assets/ee8d444b-9b6c-4931-a206-6ba492adf6ea)
+
+****Expected Revenue****
+![image](https://github.com/user-attachments/assets/5253ac3a-1dd7-48fc-b0bb-fe698550d9cd)
 
 
 ## Data Model Structure
