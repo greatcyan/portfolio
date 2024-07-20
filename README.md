@@ -39,13 +39,12 @@ While I have completed numerous projects, I selectively showcase only my best wo
 - [Revenue Analytics - Power BI](revanalytics.md){:target="_blank"}
 - [Commentaries App - Power Apps](drivercommenting.md){:target="_blank"}
 - [Cebu Provincial Dashboard - Excel](cebuprovincialdashboard.md){:target="_blank"}
-<!--
-- Amortization Report - Power BI
+<!--- Amortization Report - Power BI
 - Workspace App Enhancement - Power BI
 - Worldwide Expense Report - Power BI
 - Automatic Reply to Power BI Access Request - Power Automate
-- Requirements Gathering Template - Continuous Improvement
--->
+- Requirements Gathering Template - Continuous Improvement-->
+
 
 Thank you for visiting my portfolio. I look forward to connecting with you and exploring how we can leverage data to drive success.
 
