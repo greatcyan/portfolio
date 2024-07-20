@@ -17,7 +17,7 @@ The **Revenue Details** section features a matrix table visualization displaying
 The **Units Details or the "Sellin Pages"**, the same with Revenue details, also features a matrix table visualization displaying actual units/volume by month. Users can drill down into details starting from company code and product family, all the way up to customer level.
 ![image](https://github.com/user-attachments/assets/b2e9a3ba-3c8d-4462-9440-1d62838d5ecb)
 
-The **Calculation Details** section displays metrics and calculations using a matrix table, designed for in-depth analysis and data validation. Calculations are created using DAX measures utilizing aggregations, iterations, and filter functions.
+The **Calculation Details** section displays metrics and calculations using a matrix table, designed for in-depth analysis and data validation.
 ![image](https://github.com/user-attachments/assets/789360a5-aac1-475a-a62b-e5429ebf0d55)
 
 
