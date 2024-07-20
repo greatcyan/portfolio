@@ -3,7 +3,9 @@
 ## About me
 Hello! I’m Cyrus Baruc, a passionate data professional with a talent for converting data into actionable insights. With over a decade of experience as an Electronics Technician, I bring a unique perspective to data analytics, seamlessly blending technical proficiency with an in-depth understanding of complex systems. As a committed polymath, I thrive on continuous learning across various domains, always seeking to expand my knowledge and expertise.
 
-### Certifications
+### Education
+ - Bachelor of Science in Industrial Technology major in Electronics @ Cebu Technological University - Main
+### Continuos Education
  - Currently enrolled in Data Science Certification Program at UP Cebu
  - Power BI Data Analyst @ Microsoft on Coursera
  - Business Intelligence Certificate @ Google on Coursera
