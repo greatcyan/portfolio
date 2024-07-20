@@ -26,6 +26,7 @@ I developed the user interface in Power Apps Studio using a mobile layout to fit
 ![image](https://github.com/user-attachments/assets/4c1c5db6-be01-43c0-846a-7c8a5addca34)
 
 On the backend, all details inputted by the user are captured and automatically loaded into our push dataset through the code embedded in the OnSelect property of the Submit button. Here is the code:
+
 Setting the Revenue_Drivers variable
 ![image](https://github.com/user-attachments/assets/a38bd860-0474-4f92-b472-878b9105d063)
 This Set function creates a record called Revenue_Drivers with the following fields:
