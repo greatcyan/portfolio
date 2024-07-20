@@ -31,11 +31,15 @@ The **Analytics View** is a dashboard providing a quick snapshot of revenue metr
 ## Calculations
 Calculated measures are developed using DAX to support the objectives of this report. The primary aim is to conduct a comparative analysis between actual revenue and expected revenue. To facilitate this comparison, we calculate the Average Units Revenue (AUR), offering a precise and detailed measure of revenue performance.
 
-**Total Revenue and Units (Converted to Sellin Pages)**
+****Total Revenue and Volume****
 ![image](https://github.com/user-attachments/assets/fbb37aae-5c1b-4ce6-ad61-68d4f74507ed)
 
-**Current Month Revenue**
+****Current Month Revenue****
 ![image](https://github.com/user-attachments/assets/6cedcd09-a88d-4666-a6d1-c3c5e63c3192)
+
+****Current Month Volume****
+![image](https://github.com/user-attachments/assets/43a78393-93be-4572-a68e-1b4347545a59)
+
 
 
 
