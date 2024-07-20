@@ -37,30 +37,7 @@ While I have completed numerous projects, I selectively showcase only my best wo
 - [Driver Commentaries App](https://github.com/greatcyan/portfolio/blob/main/drivercommenting.md){:target="_blank"}
 - [Cebu Provincial Dashboard](https://github.com/greatcyan/portfolio/blob/main/cebuprovincialdashboard.md){:target="_blank"}
 
-## Character Reference
- - [Veene Michael Echo](test.md)
-
 Thank you for visiting my portfolio. I look forward to connecting with you and exploring how we can leverage data to drive success.
 
-<!---  For inquiries, you may contact me through my number +639565028805 or email me at 07hcurab27@gmail.com. 
 
-#### Technical Skills: Python, Power BI, Power Apps, Power Automate, Advanced Excel, SQL, Tableau, SAP
 
-### Education
-[B.S. Industrial Technology major in Electronics @ Cebu Technological University (Mar 2012)](diploma.md)
-
-### Certificates
-- [Data Associate @ Project SPARTA (Nov 2022)](dataassociatecertificate.md)
-- [Data Visualization @ Project SPARTA (Nov 2022)](datavisualization.md)
-- [Data Governance @ Project SPARTA (Aug 2023)](datagovernance.md)
-- [Computing @ Project SPARTA (Nov 2022)](computing.md)
-- [Google Data Analytics @ Coursera (Jan 2023)](https://www.credly.com/badges/cf025b53-5775-4123-8da3-77bb869c4ace){:target="_blank"}
-- [Google Business Intelligence @ Coursera (Feb 2024)](https://www.credly.com/badges/783d501a-01f2-4398-bada-7657c21a0281){:target="_blank"}
-- [Microsoft Power BI Data Analyst @ Coursera (Mar 2024)](https://www.coursera.org/account/accomplishments/specialization/certificate/WMZL7QFCQ4TP){:target="_blank"}
-
-### Work History / Projects
-Advanced Excel Training Facilitator | Cebu Home & Builders Centre (Mar 2024 - Apr 2024)
-- Familiarizing Excel
-- Data Preparation
-- Data Aggregation
---->
