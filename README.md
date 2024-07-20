@@ -25,8 +25,8 @@ After 10 years in electronics, I transitioned into the world of data, where I've
 - Programming Languages: Python, SQL, M Language, DAX, R, VBA
 - Tools and Technologies: SAP, Excel, Power BI, Tableau Power Apps, Power Automate
 
-### Achievements
-I am proud to have received Kudos and appreciation from stakeholders for my work on the Revenue Analytics dashboard in Power BI, which has been instrumental in driving business decisions and strategies.
+<!--### Achievements
+I am proud to have received Kudos and appreciation from stakeholders for my work on the Revenue Analytics dashboard in Power BI, which has been instrumental in driving business decisions and strategies.-->
 
 ### Career Goals
 I am committed to staying at the forefront of technology by continuously learning and expanding my skillset. My current focus is on mastering AI, Machine Learning, and Predictive Analytics to enhance my ability to provide cutting-edge solutions in the ever-evolving data landscape.
