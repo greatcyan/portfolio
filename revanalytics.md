@@ -1,14 +1,14 @@
-![image](https://github.com/user-attachments/assets/3fc87064-3a0c-41d3-95e1-1be00ddbdea7)# Revenue Analytics
+# Revenue Analytics
 
 ## Overview
 This report will support the P&L Review, enabling the Revenue Accounting team to investigate revenue buckets/streams with significant deviations from expected amounts. Expected amounts are based on the Average Unit Revenue (AUR) from the last 12 months rather than validating top customers as done previously using SAP Analysis for Office. Due to its limitations with large data volumes, automating data preparation and utilizing Power BI's features for user interactivity and data visualizations, this project has been successfully deployed to users, resulting in significant time savings and a more efficient decision-making process.
 
 ## Visualization
-#### Summary
+### Summary
 This Power BI report comprises multiple views, each dedicated to different revenue buckets, complemented by a summary page that compares each revenue stream, emphasizing those with significant impact. The summary page is structured with a clear visual hierarchy to facilitate rapid data analysis. Interactive slicers on the left side allow users to select specific criteria for customized analysis. Metric cards for each revenue bucket display actual revenue, expected revenue, and variance, helping users pinpoint the highest and lowest revenue streams of the month. Additionally, a summary table on the left provides these metrics alongside real-time driver commentaries inputted via a Power Apps application. Below, a variance distribution by geography and revenue buckets enhances comparability.
 ![image](https://github.com/user-attachments/assets/9400d79e-5b22-4f62-93a8-20e175302c66)
 
-#### Details
+### Details
 All revenue buckets can be navigated through separate navigation buttons, each offering detailed information on revenue, units, calculation specifics, and the analytics page accessible via *radio buttons*. This functionality is achieved using bookmarking capabilities within Power BI.
 
 The **Revenue Details** section features a matrix table visualization displaying actual revenue by month. Users can drill down into details starting from company code and product family, all the way up to customer level.
@@ -46,7 +46,7 @@ The design of the Revenue Analytics Dashboard was guided by principles of visual
 - Navigation Buttons: Implemented navigation buttons to enable seamless movement between different sections and pages of the dashboard. Buttons were clearly labeled and styled consistently to align with the overall design.
 - Tooltips and Drill-Throughs: Added tooltips and drill-through actions to provide additional context and enable deeper exploration of data without cluttering the main view.
 
-### Stakeholder Impact
+### Stakeholder's Feedback
 ![image](https://github.com/user-attachments/assets/387795b0-0ad9-449b-b7b0-325dc2e02a7f)
 
 
