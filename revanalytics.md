@@ -1,4 +1,4 @@
-# Revenue Analytics
+![image](https://github.com/user-attachments/assets/3fc87064-3a0c-41d3-95e1-1be00ddbdea7)# Revenue Analytics
 
 ## Overview
 This report will support the P&L Review, enabling the Revenue Accounting team to investigate revenue buckets/streams with significant deviations from expected amounts. Expected amounts are based on the Average Unit Revenue (AUR) from the last 12 months rather than validating top customers as done previously using SAP Analysis for Office. Due to its limitations with large data volumes, automating data preparation and utilizing Power BI's features for user interactivity and data visualizations, this project has been successfully deployed to users, resulting in significant time savings and a more efficient decision-making process.
@@ -15,11 +15,14 @@ All revenue buckets can be navigated through separate navigation buttons, each o
 
 
 
-- The Units Details or the "Sellin Pages", the same with Revenue details, also features a matrix table visualization displaying actual units/volume by month. Users can drill down into details starting from company code and product family, all the way up to customer level.
+- The **Units Details or the "Sellin Pages"**, the same with Revenue details, also features a matrix table visualization displaying actual units/volume by month. Users can drill down into details starting from company code and product family, all the way up to customer level.
 ![image](https://github.com/user-attachments/assets/b01c3720-3850-47be-9928-cbe079d61f47)
 
-- The Calculation Details section displays metrics and calculations using a matrix table, designed for in-depth analysis and data validation.
-  ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/39108baf-9dd3-4f60-a64f-cb7dea9c7386)
+- The **Calculation Details** section displays metrics and calculations using a matrix table, designed for in-depth analysis and data validation. Calculations are created using DAX measures utilizing aggregations, iterations, and filter functions.
+![image](https://github.com/user-attachments/assets/9c5fc146-a421-4fc2-9b52-3c84303be437)
+
+
+
 - The Analytics View is a dashboard providing a quick snapshot of revenue metrics for swift insights and data comprehension. At the top, main metric cards display key figures. The middle left section shows variance by geography, while the middle right section illustrates revenue and volume trends over the past 12 months. At the bottom, the top and bottom three variances are detailed by geography, product family, and customer. Slicers are synchronized across other pages, ensuring consistent filtering and analysis throughout the report.
   ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/f9e68e22-2e80-4b21-bcbf-8d4d9401d61e)
 
