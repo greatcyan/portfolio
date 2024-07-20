@@ -1,9 +1,21 @@
-## Revenue Analytics Driver Commentaries App
-This app, developed in Power Apps, is a crucial component of the Revenue Analytics project. Its primary function is to automate real-time commenting on the top and bottom drivers, dramatically reducing processing time from 4 hours to just seconds. By leveraging API, Power BI Streaming datasets, and Power Apps, this solution ensures swift and efficient analysis and commentary, providing immediate insights and enhancing decision-making capabilities.
+# Real-time Data Integration with Power Apps and Revenue Analytics Power BI
 
-## Backend
-This is how it appears at the backend. It is then embedded within the Power BI report, enabling users to directly input their analysis for top and bottom revenue drivers.
-![image](https://github.com/user-attachments/assets/ea0fb651-6532-4b33-bb7c-8f71537eecdf)
+## Overview
+This project, developed in Power Apps, is a crucial component of the Revenue Analytics project. Its primary function is to automate real-time commenting on the top and bottom drivers, dramatically reducing processing time from 4 hours to just seconds. By leveraging API, Power BI Streaming datasets, and Power Apps, this solution ensures swift and efficient analysis and commentary, providing immediate insights and enhancing decision-making capabilities.
+
+## Tools Used
+- **Power Apps:** For creating the user interface and data input mechanism.
+- **Power BI:** For real-time data visualization.
+- **Streaming/Push Dataset**: For handling real-time data updates.
+
+## Step-by-Step Implementation:
+### Step 1: Create the Power BI Streaming/Push Dataset:
+In Power BI Workspace, click New button and choose Streaming dataset option. A window called "Streaming dataset" will appear that allows to choose the source of the data. In this project, I choosed API. Click next.
+![image](https://github.com/user-attachments/assets/94fddd27-c900-4b10-a971-301a37a7f28c)
+
+Next step is giving a name for my dataset and setting the column fields. Click create once finalized. 
+![image](https://github.com/user-attachments/assets/90dbb974-9caf-4b92-87ac-76829b9b8705)
+
 
 ## How to use the App
 
