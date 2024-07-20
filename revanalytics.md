@@ -28,6 +28,10 @@ The **Analytics View** is a dashboard providing a quick snapshot of revenue metr
 - The actual revenue and volume figures are sourced from the P&L Performance Table in SAP.
 - The mapping file for converting volume to Sellin Pages is sourced from the Product Details Table in SAP.
 
+## Data Model Structure
+After the ETL process, the model applied in this Power BI project is a star schema. Summarized and aggregated revenue bucket tables into a single table to reduce complexity. Created dimension tables for calendar, geography, product family, and customer to lessen ambiguity and optimize query performance at the front end, preventing loading delays in rendering visuals.
+![image](https://github.com/user-attachments/assets/d1fabfba-bb28-48f1-8501-a78ad87070fb)
+
 ## Calculations
 Calculated measures are developed using DAX to support the objectives of this report. The primary aim is to conduct a comparative analysis between actual revenue and expected revenue. To facilitate this comparison, we calculate the Average Units Revenue (AUR), offering a precise and detailed measure of revenue performance. We begin by calculating the actual revenue and volume, followed by their respective averages, and then derive the AUR. With the AUR established, we can calculate the expected revenue. 
 Below are the process in deriving the AUR and the DAX Queries.
@@ -65,10 +69,6 @@ Below are the process in deriving the AUR and the DAX Queries.
 <!--![image](https://github.com/user-attachments/assets/5253ac3a-1dd7-48fc-b0bb-fe698550d9cd)-->
 
 We can then perform a comparative analysis between the current month actual revenue vs the expected revenue. These calculations provide insights into whether the supply volume justifies the revenue. Decision-makers can use these insights to strategize and optimize revenue effectively.
-
-## Data Model Structure
-After the ETL process, the model applied in this Power BI project is a star schema. Summarized and aggregated revenue bucket tables into a single table to reduce complexity. Created dimension tables for calendar, geography, product family, and customer to lessen ambiguity and optimize query performance at the front end, preventing loading delays in rendering visuals.
-![image](https://github.com/user-attachments/assets/d1fabfba-bb28-48f1-8501-a78ad87070fb)
 
 ## Design Approach
 The design of the Revenue Analytics Dashboard was guided by principles of visual hierarchy, brand consistency, and user accessibility. The goal was to create an intuitive and engaging user experience that allows stakeholders to easily navigate through the data and derive meaningful insights.
