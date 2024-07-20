@@ -16,9 +16,10 @@ In the Power BI Workspace, click the New button and select the Streaming dataset
 Next, give a name to your dataset and set up the column fields.
 ![image](https://github.com/user-attachments/assets/90dbb974-9caf-4b92-87ac-76829b9b8705)
 
-Once done, the streaming dataset is added to the workspace, generating API information as shown in the snapshot. Using this API information, we can then integrate it into our Power Apps for real-time data entries for each user's inputs.
+Once done, the streaming dataset is added to the workspace, generating API information as shown in the snapshot.
 ![image](https://github.com/user-attachments/assets/af671dfb-5ef1-48e7-858c-6831f98f0166)
 
+Using this API information, we can then integrate it into our Power Apps for real-time data entries for each user's inputs.
 
 ## How to use the App
 
