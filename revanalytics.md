@@ -18,7 +18,8 @@ The **Units Details or the "Sellin Pages"**, the same with Revenue details, also
 ![image](https://github.com/user-attachments/assets/b2e9a3ba-3c8d-4462-9440-1d62838d5ecb)
 
 The **Calculation Details** section displays metrics and calculations using a matrix table, designed for in-depth analysis and data validation. Calculations are created using DAX measures utilizing aggregations, iterations, and filter functions.
-![image](https://github.com/user-attachments/assets/9c5fc146-a421-4fc2-9b52-3c84303be437)
+![image](https://github.com/user-attachments/assets/789360a5-aac1-475a-a62b-e5429ebf0d55)
+
 
 The **Analytics View** is a dashboard providing a quick snapshot of revenue metrics for swift insights and data comprehension. At the top, main metric cards display key figures. The middle left section shows variance by geography, while the middle right section illustrates revenue and volume trends over the past 12 months. At the bottom, the top and bottom three variances are detailed by geography, product family, and customer. Slicers are synchronized across other pages, ensuring consistent filtering and analysis throughout the report.
 ![image](https://github.com/user-attachments/assets/acaee9d6-c03b-4367-9de0-f95d472e8283)
