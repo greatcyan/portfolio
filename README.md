@@ -41,7 +41,7 @@ While I have completed numerous projects, I selectively showcase only my best wo
 - [Cebu Provincial Dashboard - Excel](cebuprovincialdashboard.md){:target="_blank"}
 - Requirements Gathering Template - Continuous Improvement
 
-## Blogs
+<!--## Blogs
 Soon to be published in this portfolio are my personal blogs, including the following topics:
 - Data Preparation with Pandas
 - Data Visualization with Plotly and Seaborn
@@ -50,7 +50,7 @@ Soon to be published in this portfolio are my personal blogs, including the foll
 - Query Optimization in DAX
 - Data Modeling Snowflakes and Star Schema
 - Data Preparation
-- Data Visualization Fundamentals
+- Data Visualization Fundamentals-->
 
 Thank you for visiting my portfolio. I look forward to connecting with you and exploring how we can leverage data to drive success.
 
