@@ -6,7 +6,7 @@ This report will support the P&L Review, enabling the Revenue Accounting team to
 ## Visualization
 #### Summary
 This Power BI report comprises multiple views, each dedicated to different revenue buckets, complemented by a summary page that compares each revenue stream, emphasizing those with significant impact. The summary page is structured with a clear visual hierarchy to facilitate rapid data analysis. Interactive slicers on the left side allow users to select specific criteria for customized analysis. Metric cards for each revenue bucket display actual revenue, expected revenue, and variance, helping users pinpoint the highest and lowest revenue streams of the month. Additionally, a summary table on the left provides these metrics alongside real-time driver commentaries inputted via a Power Apps application. Below, a variance distribution by geography and revenue buckets enhances comparability.
-![image](https://github.com/user-attachments/assets/185d08d9-4004-40a3-b174-3b0948702dc4)
+![image](https://github.com/user-attachments/assets/ef794e49-6091-41aa-a3c9-98aedae7a127)
 
 #### Details
 All revenue buckets can be navigated through separate navigation buttons, each offering detailed information on revenue, units, calculation specifics, and the analytics page accessible via radio buttons. This functionality is achieved using bookmarking capabilities within Power BI.
