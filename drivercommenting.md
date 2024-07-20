@@ -26,6 +26,7 @@ I developed the user interface in Power Apps Studio using a mobile layout to fit
 ![image](https://github.com/user-attachments/assets/4c1c5db6-be01-43c0-846a-7c8a5addca34)
 
 On the backend, all details inputted by the user are captured and automatically loaded into our push dataset through the code embedded in the OnSelect property of the Submit button. Here is the code:
+Setting the Revenue_Drivers variable
 ![image](https://github.com/user-attachments/assets/a38bd860-0474-4f92-b472-878b9105d063)
 This Set function creates a record called Revenue_Drivers with the following fields:
 - Bucket: The selected value from the bucketdropdown.
@@ -34,8 +35,19 @@ This Set function creates a record called Revenue_Drivers with the following fie
 - Comment: The text entered in the commenttextinput field.
 - Relationship ID: A unique identifier created by concatenating the values from the bucketdropdown and geodropdown.
 
+Converting the record to JSON
+![image](https://github.com/user-attachments/assets/090a4f43-a4e4-475f-b669-13894d09c306)
+- This Set function converts the Revenue_Drivers record into a JSON object and stores it in the Drivers_Data variable.
+- JSON(Revenue_Drivers) converts the record to a JSON string.
+- ParseJSON(JSON(Revenue_Drivers)) parses the JSON string back into a JSON object.
 
+Adding rows to the Power BI dataset
+![image](https://github.com/user-attachments/assets/146010bd-584c-4a85-ba1b-4a417435865f)
+PowerBI.AddRows is a function that sends data to a Power BI streaming dataset.
+- "f429cde2-6dde-4e2b-bcb6-fe2bc186a170" is the Workspace ID where the dataset is located
+- "3f9a7849-caff-44fe-bcf7-c807c7b21a1b is the dataset ID
 
+This app is ready and can be added to the Power BI dashboard for easy access by users.
 
 ## How to use the App
 
