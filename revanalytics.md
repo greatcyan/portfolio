@@ -26,7 +26,8 @@ The **Analytics View** is a dashboard providing a quick snapshot of revenue metr
 ![image](https://github.com/user-attachments/assets/acaee9d6-c03b-4367-9de0-f95d472e8283)
 
 ## Data Model Structure
-After the ETL process, the model applied in this Power BI project is a snowflake schema. Summarized and aggregated revenue bucket tables into a single table to reduce complexity. Created dimension tables for calendar, geography, product family, and customer to lessen ambiguity and optimize query performance at the front end, preventing loading delays in rendering visuals.
+After the ETL process, the model applied in this Power BI project is a star schema. Summarized and aggregated revenue bucket tables into a single table to reduce complexity. Created dimension tables for calendar, geography, product family, and customer to lessen ambiguity and optimize query performance at the front end, preventing loading delays in rendering visuals.
+![image](https://github.com/user-attachments/assets/d1fabfba-bb28-48f1-8501-a78ad87070fb)
 
 ## Design Approach
 The design of the Revenue Analytics Dashboard was guided by principles of visual hierarchy, brand consistency, and user accessibility. The goal was to create an intuitive and engaging user experience that allows stakeholders to easily navigate through the data and derive meaningful insights.
