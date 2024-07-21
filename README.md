@@ -43,7 +43,7 @@ While I have completed numerous projects, I selectively showcase only my best wo
 
 ### Python Repository
  - [Python Programs](Python programs.md){:target="_blank"}
- - Python Loops
+ - [Python Loops](Python loops.md){:target="_blank"}
  - Python Functions
  - Python OOP
  - Exploratory Data Analysis
