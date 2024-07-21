@@ -36,6 +36,6 @@ As a resident of Bantayan Island, I recognize significant opportunities for grow
 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/d7b9d2bd-874b-4a1a-a897-0a733deb6f0c)
 
-#### View the Excel Dashboard
+#### Download a copy
 [Download Cebu-Province-Dashboard.xlsb](https://github.com/greatcyan/portfolio/raw/main/Cebu-Province-Dashboard.xlsb)
 
