@@ -46,7 +46,7 @@ While I have completed numerous projects, I selectively showcase only my best wo
  - [Python Loops](Python loops.md){:target="_blank"}
  - [Python Functions](Python functions.md){:target="_blank"}
  - [Python OOP](Python OOP.md){:target="_blank"}
- - Python Sequences
+ - [Python Sequences](Python sequence.md){:target="_blank"}
  - Python EDA
 
 Thank you for visiting my portfolio. I look forward to connecting with you and exploring how we can leverage data to drive success.
