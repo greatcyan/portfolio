@@ -25,8 +25,8 @@ The **Analytics View** is a dashboard providing a quick snapshot of revenue metr
 ![image](https://github.com/user-attachments/assets/5a64db42-b494-424a-9348-fd7fc4f84394)
 
 ## Data Source
-- The actual revenue and volume figures are sourced from the P&L Performance Table in SAP.
-- The mapping file for converting volume to Sellin Pages is sourced from the Product Details Table in SAP.
+- The actual revenue and volume figures are sourced from the P&L Performance Table in SAP BW (Business Warehouse).
+- The mapping file for converting volume to Sellin Pages is sourced from the Product Details Table in SAP BW (Business Warehouse).
 
 ## Data Model Structure
 After the ETL process, the model applied in this Power BI project is a star schema. Summarized and aggregated revenue bucket tables into a single table to reduce complexity. Created dimension tables for calendar, geography, product family, and customer to lessen ambiguity and optimize query performance at the front end, preventing loading delays in rendering visuals.
