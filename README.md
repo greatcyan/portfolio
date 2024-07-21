@@ -41,6 +41,13 @@ While I have completed numerous projects, I selectively showcase only my best wo
 - [Cebu Provincial Dashboard - Excel](cebuprovincialdashboard.md){:target="_blank"}
 - [Power BI to Sharepoint Data Extract Automation - Power Automate](powerautomate.md){:target="_blank"}
 
+## Utilities
+ - Python Programs
+ - Python Loops
+ - Python Functions
+ - Python OOP
+ - Exploratory Data Analysis
+
 Thank you for visiting my portfolio. I look forward to connecting with you and exploring how we can leverage data to drive success.
 
 
