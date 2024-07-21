@@ -42,7 +42,7 @@ While I have completed numerous projects, I selectively showcase only my best wo
 - [Power BI to Sharepoint Data Extract Automation - Power Automate](powerautomate.md){:target="_blank"}
 
 ### Python Repository
- - Python Programs
+ - [Python Programs](Python programs.ipynb){:target="_blank"}
  - Python Loops
  - Python Functions
  - Python OOP
