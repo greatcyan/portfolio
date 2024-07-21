@@ -1,6 +1,8 @@
 ## Power BI to Sharepoint Data Extract Automation
 The Power BI to SharePoint Data Extract Automation process is designed to streamline and automate the extraction and transfer of data from Power BI reports to SharePoint. This integration leverages Power Automate (formerly Microsoft Flow) to facilitate the seamless export of data, ensuring that critical insights and reports generated in Power BI are efficiently archived and accessible within SharePoint.
 
+### Implementation
+
 1. Begin by publishing the semantic model in the Power BI Workspace. This model defines the data structure and relationships required for generating meaningful reports and analysis.
 ![image](https://github.com/user-attachments/assets/a36552eb-a49e-45a7-9b65-d6ef39c876dd)
 
@@ -19,5 +21,10 @@ The Power BI to SharePoint Data Extract Automation process is designed to stream
 4. With the automation in place, data from Power BI reports is automatically exported to SharePoint, reducing the need for manual intervention and ensuring timely updates.
 ![image](https://github.com/user-attachments/assets/42ecbd42-3e85-4c6e-b36d-2220d4e95198)
 
+### Impact
 
+- Efficiency: Automating the data export process eliminates the need for manual data transfers, saving time and reducing the potential for human error.
+- Accessibility: By transferring data to SharePoint, stakeholders can easily access and collaborate on data and reports, enhancing decision-making and ensuring that information is readily available.
+- Consistency: The automation ensures that data is regularly and consistently updated, maintaining the accuracy and relevance of the information stored in SharePoint.
+- Scalability: This process can be scaled to handle large volumes of data and multiple reports, accommodating the growing needs of the organization.
 
