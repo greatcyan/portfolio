@@ -32,8 +32,10 @@ The data was analyzed to create query tables and linked charts, facilitating eff
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/47e13d84-967b-4726-a138-feba0d4d1035)
 
 #### Impact
-As a resident of Bantayan Island, I recognize significant opportunities for growth in areas such as education, business environment, and tourist attractions compared to other first-class municipalities. By leveraging insights from the dashboard and actively participating in local development efforts, I aim to inspire and lead my fellow Bantayanons. My commitment to becoming a role model will help drive positive change and progress in our community, setting a standard for continuous improvement and development.
-
+As a resident of Bantayan Island, I recognize significant opportunities for growth in areas such as education, business environment, and tourist attractions. By leveraging insights from the dashboard and actively participating in local development efforts, I aim to inspire and lead my fellow Bantayanons. My commitment to becoming a role model will help drive positive change and progress in our community, setting a standard for continuous improvement and development.
 
 ![image](https://github.com/greatcyan/cyrus-baruc-data-analytics-portfolio/assets/95137493/d7b9d2bd-874b-4a1a-a897-0a733deb6f0c)
+
+#### View the Excel Dashboard
+[Download Cebu-Province-Dashboard.xlsb](https://github.com/greatcyan/portfolio/raw/main/Cebu-Province-Dashboard.xlsb)
 
