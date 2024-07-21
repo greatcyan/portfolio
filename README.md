@@ -39,6 +39,7 @@ While I have completed numerous projects, I selectively showcase only my best wo
 - [Revenue Analytics - Power BI](revanalytics.md){:target="_blank"}
 - [Real-time Commenting App - Power Apps](drivercommenting.md){:target="_blank"}
 - [Cebu Provincial Dashboard - Excel](cebuprovincialdashboard.md){:target="_blank"}
+- [Power BI to Sharepoint Data Extract Automation - Power Automate](powerautomate.md){:target="_blank"}
 
 Thank you for visiting my portfolio. I look forward to connecting with you and exploring how we can leverage data to drive success.
 
