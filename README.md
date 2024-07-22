@@ -41,6 +41,9 @@ While I have completed numerous projects, I selectively showcase only my best wo
 - [Cebu Provincial Dashboard - Excel](cebuprovincialdashboard.md){:target="_blank"}
 - [Power BI to Sharepoint Data Extract Automation - Power Automate](powerautomate.md){:target="_blank"}
 
+### Best Practices
+ - [Power BI Development](pbi best practices.md){:target="_blank"}
+
 ### Python Repository
  - [Python Programs](Python programs.md){:target="_blank"}
  - [Python Loops](Python loops.md){:target="_blank"}
