@@ -50,6 +50,9 @@ While I have completed numerous projects, I selectively showcase only my best wo
  - [Object-Oriented Programming](Python OOP.md){:target="_blank"}
  - [Exploratory Data Analysis](EDA.md){:target="_blank"}
 
+### SQL Repository
+- [Aggregation Functions](SQL Aggregation Functions.md){:target="_blank"}
+
 Thank you for visiting my portfolio. I look forward to connecting with you and exploring how we can leverage data to drive success.
 
 
