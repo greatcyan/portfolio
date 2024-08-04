@@ -36,7 +36,11 @@ I am committed to staying at the forefront of technology by continuously learnin
 
 ## Projects
 While I have completed numerous projects, I selectively showcase only my best work. Each project featured here highlights my ability to create impactful, data-driven solutions through advanced analytics, automation, and visualization techniques.
+
+### Power BI
 - [Revenue Analytics - Power BI](revanalytics.md){:target="_blank"}
+
+### Power Apps 
 - [Real-time Commenting App - Power Apps](drivercommenting.md){:target="_blank"}
 
 <!--### Best Practices
