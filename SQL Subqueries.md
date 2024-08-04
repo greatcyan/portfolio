@@ -1,6 +1,7 @@
 ### Subqueries
+Subqueries, or nested queries, are an essential feature in SQL that allow you to perform complex data retrieval operations by embedding one query within another. They are useful for scenarios where you need to filter, aggregate, or transform data based on the results of another query. This section provides examples of various types of subqueries, each illustrating different use cases and functionalities.
 
-'''sql
+```sql
 ------------------------------------------------
 --Subquery 1 IN
 ------------------------------------------------
@@ -123,4 +124,5 @@ GROUP BY order_id
 ORDER BY 1;
 
 
-'''
+
+```
