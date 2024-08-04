@@ -1,5 +1,5 @@
 ### SQL Aggregation Functions
-In this document, we explore SQL aggregation functions, which are essential for summarizing and analyzing data in relational databases. Aggregation functions perform calculations on a set of values and return a single result. They are widely used in SQL queries to group data, calculate statistics, and generate insights from large datasets.
+This is a curated details on SQL aggregation functions along with sample queries demonstrating their usage. Aggregation functions are crucial for summarizing and analyzing data in relational databases, and this guide provides practical examples to help you effectively apply these functions in your SQL queries.
 
 
 ```SQL
