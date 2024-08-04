@@ -5,7 +5,7 @@
 import sqlparse
 ```
 
-###### AVG()
+#### AVG()
 
 
 ```python
@@ -32,7 +32,7 @@ print(formatted_query)
     FROM employees;
     
 
-###### COUNT()
+#### COUNT()
 
 
 ```python
@@ -59,7 +59,7 @@ print(formatted_query)
     FROM order_details;
     
 
-###### MIN() & MAX()
+#### MIN() & MAX()
 
 
 ```python
@@ -80,7 +80,7 @@ print(formatted_query)
     FROM products;
     
 
-###### SUM()
+#### SUM()
 
 
 ```python
@@ -100,7 +100,7 @@ print(formatted_query)
     FROM order_details;
     
 
-###### COUNT() DISTINCT()
+#### COUNT() DISTINCT()
 
 
 ```python
@@ -125,7 +125,7 @@ print(formatted_query)
     FROM order_details
     
 
-###### Aggregation with GROUP BY
+#### Aggregation with GROUP BY
 
 
 ```python
