@@ -52,6 +52,7 @@ While I have completed numerous projects, I selectively showcase only my best wo
 
 ### SQL Repository
 - [Aggregation Functions](SQL Aggregation Functions.md){:target="_blank"}
+- [Nested Queries](SQL Subqueries.md){:target="_blank"}
 
 Thank you for visiting my portfolio. I look forward to connecting with you and exploring how we can leverage data to drive success.
 
