@@ -2,7 +2,7 @@
 This is a curated details on SQL aggregation functions along with sample queries demonstrating their usage. Aggregation functions are crucial for summarizing and analyzing data in relational databases, and this guide provides practical examples to help you effectively apply these functions in your SQL queries.
 
 
-```SQL
+```sql
 ----------------------------------------------------
 --AVG()
 ----------------------------------------------------
