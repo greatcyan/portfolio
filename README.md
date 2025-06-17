@@ -1,13 +1,13 @@
 # Data Analytics Portfolio
 
 ## About me
-Hello! I’m Cyrus Baruc, a passionate data professional with a talent for converting data into actionable insights. With over a decade of experience as an Electronics Technician, I bring a unique perspective to data analytics, seamlessly blending technical proficiency with an in-depth understanding of complex systems. As a committed polymath, I thrive on continuous learning across various domains, always seeking to expand my knowledge and expertise.
+Hello! I’m Cyrus Baruc, a continuous learner with over a decade of experience in technology with proven track record of providing high-quality solutions to business problems. Strong communication, problem-solving, and passionate to working with complex systems.
 
 ### Education
  - Bachelor of Science in Industrial Technology major in Electronics at Cebu Technological University-Main Campus
 
 ### Continouos Learning
- - Currently enrolled in Data Science Certification Program at UP Cebu
+ - Data Science Certification Program at UP Cebu (discontinued due to financial constraints)
  - Power BI Data Analyst @ Microsoft on Coursera
  - Business Intelligence Certificate @ Google on Coursera
  - Data Analytics Certificate @ Google on Coursera
@@ -16,9 +16,15 @@ Hello! I’m Cyrus Baruc, a passionate data professional with a talent for conve
  - Data Visualization Specialization @ Project SPARTA PH
  - Data Associate Pathway @ Project SPARTA PH
 
+### Domain Knowledge
+ - Finance and Accounting
+ - Construction
+ - Personal Finance
+ - Investment/Stocks
+ - Digital Marketing
 
 ### Professional Backgound
-After 10 years in electronics, I transitioned into the world of data, where I've been making significant impacts. My journey in data analytics has been marked by the creation of dynamic and insightful projects, including:
+After 10+ years in electronics, I transitioned into the world of data, where I've been making significant impacts. My journey in data analytics has been marked by the creation of dynamic and insightful projects, including:
 - Excel Dashboards: Crafting interactive and visually appealing dashboards to simplify complex data.
 - Python Applications: Developing robust applications for data visualization and analysis.
 - Power BI Dashboards: Designing comprehensive dashboards, such as the highly praised Revenue Analytics dashboard.
