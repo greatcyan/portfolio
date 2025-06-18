@@ -22,10 +22,12 @@ Hello! I’m Cyrus Baruc, a continuous learner with over a decade of experience 
  - Construction
  - Personal Finance
  - Investment/Stocks
- - Digital Marketing
+ - Digital Marketing (Meta Ads)
+ - Manufacturing (OEE)
+ - Managed Service Provider (MSP)
 
 ### Key Skills & Expertise
-After 10+ years in electronics, I transitioned into the world of data, where I've been making significant impacts. My journey in data analytics has been marked by the creation of dynamic and insightful projects, including:
+After over a decade in the electronics industry, I successfully transitioned into the world of data—bringing with me a strong foundation in systems thinking and problem-solving. Since then, I’ve been driving meaningful impact through data analytics by delivering innovative, user-centric solutions. My journey has been defined by the development of dynamic and insightful projects, including:
 - Excel Dashboards: Crafting interactive and visually appealing dashboards to simplify complex data.
 - Python Applications: Developing robust applications for data visualization and analysis.
 - Power BI Dashboards: Designing comprehensive dashboards, such as the highly praised Revenue Analytics dashboard.
@@ -34,8 +36,21 @@ After 10+ years in electronics, I transitioned into the world of data, where I'v
 
 ### Tech Stack
 - Programming Languages: Python, SQL, Power Query M Language, DAX, R, VBA
-- Tools: Advance Excel, Power BI, Power Apps, Power Automate, Dataverse, SQL Server, SAP, Tableau
-- 
+- Cloud and Data Platform: Power Platform, Dataverse, Microsoft Fabric, Microsoft SQL Server, SAP, Microsoft Entra ID, Azure Blob Storage
+- Data Engineering & ETL: Data Modeling, Data Staging, Query Folding, Schema Implementation, Data Warehousing
+- Data Analysis & Visualization: Excel, Power BI, Tableau, Pandas, Seaborn, Plotly, SSRS, Power BI Report Builder
+- Optimization & Performance: DAX Studio, Bravo, Performance Analyzer, Tabular Editor
+- Process Automation: Power Automate, Power Apps (Canvas and Model-Driven), Python, Office Scripts, Excel VBA
+- Other Platform: Microsoft Suite, SharePoint, ServiceNow, Microsoft Planner, Visual Studio, VS Code, Jupyter Notebooks
+
+### Project Lifecycle & Delivery Approach
+I follow a structured and collaborative approach to ensure successful project execution from start to finish.
+- Requirements Gathering: I engage with stakeholders to understand their objectives, pain points, and desired outcomes. This includes translating business needs into clear, actionable data requirements.
+- Development: Leveraging tools like Power BI, Excel, and Python, I design and build scalable solutions—focusing on clarity, performance, and user engagement.
+- User Training: I conduct hands-on training sessions and create user-friendly documentation to ensure seamless adoption and self-service analytics for end-users.
+- Deployment: I manage smooth rollout of solutions, integrating them into the business environment with minimal disruption.
+- Maintenance & Support: I provide ongoing support, performance tuning, and iterative improvements based on user feedback and evolving business needs.
+
 <!--### Achievements
 I am proud to have received Kudos and appreciation from stakeholders for my work on the Revenue Analytics dashboard in Power BI, which has been instrumental in driving business decisions and strategies.-->
 
