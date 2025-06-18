@@ -1,12 +1,13 @@
 # Data Analytics Portfolio
 
-## About me
+## About
 Hello! I’m Cyrus Baruc, a continuous learner with over a decade of experience in technology with proven track record of providing high-quality solutions to business problems. Strong communication, problem-solving, and passionate to working with complex systems.
 
 ### Education
  - Bachelor of Science in Industrial Technology major in Electronics at Cebu Technological University-Main Campus
 
-### Continouos Learning
+### Relevant Certifications
+ - Microsoft Certified Professional: PL300 Power BI Data Analyst Associate
  - Data Science Certification Program at UP Cebu (discontinued due to financial constraints)
  - Power BI Data Analyst @ Microsoft on Coursera
  - Business Intelligence Certificate @ Google on Coursera
@@ -32,9 +33,9 @@ After 10+ years in electronics, I transitioned into the world of data, where I'v
 - Process Automation: Utilizing Power Apps and Power Automate to streamline workflows and enhance efficiency.
 
 ### Tech Stack
-- Programming Languages: Python, SQL, M Language, DAX, R, VBA
-- Tools: Dataverse, SQL Server, SAP, Excel, Power BI, Tableau, Power Apps, Power Automate
-
+- Programming Languages: Python, SQL, Power Query M Language, DAX, R, VBA
+- Tools: Advance Excel, Power BI, Power Apps, Power Automate, Dataverse, SQL Server, SAP, Tableau
+- 
 <!--### Achievements
 I am proud to have received Kudos and appreciation from stakeholders for my work on the Revenue Analytics dashboard in Power BI, which has been instrumental in driving business decisions and strategies.-->
 
