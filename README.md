@@ -79,7 +79,7 @@ While I have completed numerous projects, I selectively showcase only my best wo
 - [Aggregation Functions](SQL Aggregation Functions.md){:target="_blank"}
 - [Nested Queries](SQL Subqueries.md){:target="_blank"}
 
-Thank you for visiting my portfolio. I look forward to connecting with you and exploring how we can leverage data to drive success.
+"When nothing seems to help, I go and look at a stonecutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that blow that did it—but all that had gone before."— Jacob Riis
 
 
 
