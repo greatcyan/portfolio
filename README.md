@@ -25,7 +25,7 @@ This background sharpened my attention to detail and ability to work with comple
    *(Discontinued due to financial constraints)*
  - 📊 **Power BI Data Analyst**
    *Microsoft on Coursera*
- - 📈 **Business Intelligence Certificate**
+ - 📈 **Google Business Intelligence Certificate**
    *Google on Coursera*
  - 📉 **Google Data Analytics Certificate**
    *Google on Coursera*- 
