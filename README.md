@@ -105,9 +105,12 @@ While I have completed numerous projects, I selectively showcase only my best wo
 Designed and developed a multi-layered Power BI dashboard to provide in-depth Revenue Analytics for business stakeholders. The solution offers both high-level and granular views of revenue performance, helping drive strategic decisions through clear, data-driven insights.
 #### 🔍Key Features:
 **Executive Summary**
+
 A top-level snapshot of total revenue, trends, KPIs, and performance versus targets.
+
 **Revenue Buckets Page**
 Categorized revenue insights by products, services, or business units for focused analysis.
+
 **Drilldown Sub-Page**
 - **Revenue Actuals:** Month-over-month actuals with variance indicators.
 - **Revenue Volume**: Breakdown by quantity sold or delivered, correlated with revenue trends.
