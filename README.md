@@ -6,8 +6,8 @@ Hello! I’m **Cyrus Baruc**, a continuous learner with over a decade of experie
 > "When nothing seems to help, I go and look at a stonecutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that blow that did it—but all that had gone before."
 > — *Jacob Riis*
 
-### 🎓 Education
- - **Bachelor of Science in Industrial Technology**, Major in Electronics
+## 🎓 Education
+**Bachelor of Science in Industrial Technology**, Major in Electronics
    *Cebu Technological University – Main Campus*  
    📅 *Graduated: [2012]*
    
@@ -20,8 +20,8 @@ Developed a strong foundation in electronics, instrumentation, and technical sys
 
 This background sharpened my attention to detail and ability to work with complex systems—skills I now bring into data analytics and business intelligence.
 
-### 📜Relevant Certifications
- - 🎯 **PL300:Power BI Data Analyst Associate**
+## 📜Relevant Certifications
+ - 🎯 **PL300: Power BI Data Analyst Associate**
    *Issued by Microsoft - 2024*
  - 🎓 **Data Science Certification Program**
    *University of the Philippines Cebu*
@@ -41,7 +41,7 @@ This background sharpened my attention to detail and ability to work with comple
  - 🧩 **Data Associate Pathway**
    *Project SPARTA PH*
 
-### 🧠 Domain Knowledge
+## 🧠 Domain Knowledge
  - 💰 **Finance & Accounting** – Familiar with financial reporting, revenue analysis, and budgeting workflows  
  - 🏗️ **Construction** – Experience with project tracking, cost management, and operational reporting  
  - 👛 **Personal Finance** – Budgeting, expense tracking, and financial planning dashboards  
@@ -50,7 +50,7 @@ This background sharpened my attention to detail and ability to work with comple
  - 🏭 **Manufacturing (OEE)** – Deep understanding of Overall Equipment Effectiveness, downtime tracking, and performance KPIs  
  - 🖥️ **Managed Service Provider (MSP)** – Ticketing metrics, SLA monitoring, asset reporting, and support performance
 
-### 🛠️ Key Skills & Expertise
+## 🛠️ Key Skills & Expertise
 After over a decade in the **electronics industry**, I successfully transitioned into the world of **data**—bringing with me a strong foundation in **systems thinking** and **problem-solving**. Since then, I’ve been driving meaningful impact through data analytics by delivering innovative, user-centric solutions.
 My journey has been defined by the development of dynamic and insightful projects, including:
 - 📊 **Excel Dashboards**  
@@ -64,7 +64,7 @@ My journey has been defined by the development of dynamic and insightful project
 - 🔄 **Process Automation**  
   Streamlining workflows using **Power Apps** and **Power Automate**, improving team efficiency and reducing manual tasks.
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 - **Programming Languages**  
   Python, SQL, Power Query M Language, DAX, R, VBA
 - **Cloud & Data Platforms**  
@@ -80,7 +80,7 @@ My journey has been defined by the development of dynamic and insightful project
 - **Other Platforms & Tools**  
   Microsoft 365 Suite, SharePoint, ServiceNow, Microsoft Planner, Visual Studio, VS Code, Jupyter Notebooks
 
-### 🔄 Project Lifecycle & Delivery Approach
+## 🔄 Project Lifecycle & Delivery Approach
 I follow a structured and collaborative approach to ensure successful project execution from start to finish:
 - **🔍 Requirements Gathering**  
   Engage with stakeholders to understand objectives, pain points, and desired outcomes. Translate business needs into clear, actionable data requirements.
@@ -96,11 +96,11 @@ I follow a structured and collaborative approach to ensure successful project ex
 <!--### Achievements
 I am proud to have received Kudos and appreciation from stakeholders for my work on the Revenue Analytics dashboard in Power BI, which has been instrumental in driving business decisions and strategies.-->
 
-### 🎯 Career Goals
+## 🎯 Career Goals
 I am committed to staying at the forefront of technology by continuously learning and expanding my skillset.
 My current focus is on deepening my expertise in **Artificial Intelligence**, **Machine Learning**, and **Predictive Analytics**—with the goal of delivering more intelligent, forward-looking solutions that drive business value in an ever-evolving data landscape.
 
-## 📌Key Projects
+## 📌 Key Projects
 While I have completed numerous projects, I selectively showcase only my best work.
 ### 🧩Power BI
 #### 📊Revenue Analytics
@@ -223,7 +223,7 @@ SharePoint · Power Automate · Power BI · SAP
 <!--### Best Practices
  - [Power BI Development](pbi best practices.md){:target="_blank"}-->
 
-### 🐍 Python Knowledge Base
+## 🐍 Python Knowledge Base
 
 - [📄 Programs](Python programs.md){:target="_blank"}
 - [🔢 Sequences](Python sequence.md){:target="_blank"}
@@ -234,7 +234,7 @@ SharePoint · Power Automate · Power BI · SAP
 
 ---
 
-### 🧠 SQL Code Library
+## 🧠 SQL Code Library
 
 - [📈 Aggregation Functions](SQL Aggregation Functions.md){:target="_blank"}
 - [🧩 Nested Queries](SQL Subqueries.md){:target="_blank"}
