@@ -7,16 +7,18 @@ Hello! I’m **Cyrus Baruc**, a continuous learner with over a decade of experie
  - **Bachelor of Science in Industrial Technology**, Major in Electronics
    *Cebu Technological University – Main Campus*  
    📅 *Graduated: [2012]*
+   
 Developed a strong foundation in electronics, instrumentation, and technical systems, with emphasis on:
   - 🔧 **Troubleshooting and diagnostics** of electronic circuits and control systems  
   - 🧠 **Problem-solving** using logical and analytical thinking in lab and field environments  
   - 💡 Practical knowledge of microcontrollers, sensors, and industrial automation  
   - 🛠️ Hands-on experience in PCB design, soldering, and equipment calibration  
   - 📐 Basic skills in CAD and electrical schematics interpretation
+  - 
 This background sharpened my attention to detail and ability to work with complex systems—skills I now bring into data analytics and business intelligence.
 
 ### 📜Relevant Certifications
- - 🎯 **Microsoft Certified Professional: PL300 Power BI Data Analyst Associate**
+ - 🎯 **PL300:Power BI Data Analyst Associate**
    *Issued by Microsoft - 2024*
  - 🎓 **Data Science Certification Program**
    *University of the Philippines Cebu*
@@ -27,13 +29,13 @@ This background sharpened my attention to detail and ability to work with comple
    *Google on Coursera*
  - 📉 **Google Data Analytics Certificate**
    *Google on Coursera*- 
- - 🛡️ **Data Governance Specialization**  
+ - 🛡️ **Data Governance Specialization**
    *Project SPARTA PH*
- - 💻 **Computing Specialization**  
+ - 💻 **Computing Specialization**
    *Project SPARTA PH*
- - 📊 **Data Visualization Specialization**  
+ - 📊 **Data Visualization Specialization**
    *Project SPARTA PH*
- - 🧩 **Data Associate Pathway**  
+ - 🧩 **Data Associate Pathway**
    *Project SPARTA PH*
 
 ### Domain Knowledge
