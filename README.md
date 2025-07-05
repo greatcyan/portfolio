@@ -59,8 +59,24 @@ I am committed to staying at the forefront of technology by continuously learnin
 
 ## Key Projects
 While I have completed numerous projects, I selectively showcase only my best work.
-- [Revenue Analytics - Power BI](revanalytics.md){:target="_blank"}
-- [Real-time Commenting App - Power Apps](drivercommenting.md){:target="_blank"}
+### POWER BI
+#### REVENUE ANALYTICS
+> "This project utilizes Power Apps for auto writeback of driver comments."
+Summary Page
+![image](https://github.com/user-attachments/assets/8ab74d4b-a631-4ea6-a101-7f7c9c2e0f38)
+Revenue Bucket Specific Page with sub-pages: Revenue Actuals, Revenue Volume, Revenue Calculations, Analytics
+![image](https://github.com/user-attachments/assets/11b16ed2-5420-4fc6-94af-33d61d65907d)
+![image](https://github.com/user-attachments/assets/d1c11f84-c3f3-419a-aebf-51000f8f94d1)
+![image](https://github.com/user-attachments/assets/105977b7-9309-4e46-8a20-a3767a482c13)
+![image](https://github.com/user-attachments/assets/e0d1e448-b32e-4897-b5b2-5f5cbb171272)
+
+### POWER APPS
+#### REVENUE ANALYTICS-DRIVER COMMENTARRIES
+[Revenue Analytics-Driver Commentarries](drivercommenting.md){:target="_blank"}
+
+
+<!--- [Revenue Analytics - Power BI](revanalytics.md){:target="_blank"}
+- [Real-time Commenting App - Power Apps](drivercommenting.md){:target="_blank"}-->
 
 <!--Each project featured here highlights my ability to create impactful, data-driven solutions through advanced analytics, automation, and visualization techniques.-->
 
