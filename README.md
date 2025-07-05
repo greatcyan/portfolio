@@ -14,7 +14,6 @@ Developed a strong foundation in electronics, instrumentation, and technical sys
   - 💡 Practical knowledge of microcontrollers, sensors, and industrial automation  
   - 🛠️ Hands-on experience in PCB design, soldering, and equipment calibration  
   - 📐 Basic skills in CAD and electrical schematics interpretation
-  - 
 This background sharpened my attention to detail and ability to work with complex systems—skills I now bring into data analytics and business intelligence.
 
 ### 📜Relevant Certifications
