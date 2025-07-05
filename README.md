@@ -59,21 +59,60 @@ I am committed to staying at the forefront of technology by continuously learnin
 
 ## Key Projects
 While I have completed numerous projects, I selectively showcase only my best work.
-### POWER BI
-#### REVENUE ANALYTICS
-> "This project utilizes Power Apps for auto writeback of driver comments."
-Summary Page
+### 🧩POWER BI
+#### 📊 REVENUE ANALYTICS
+#### Project Overview:
+Designed and developed a multi-layered Power BI dashboard to provide in-depth Revenue Analytics for business stakeholders. The solution offers both high-level and granular views of revenue performance, helping drive strategic decisions through clear, data-driven insights.
+#### 🔍Key Features:
+**Executive Summary**
+A top-level snapshot of total revenue, trends, KPIs, and performance versus targets.
+**Revenue Buckets Page**
+Categorized revenue insights by products, services, or business units for focused analysis.
+**Drilldown Sub-Page**
+- **Revenue Actuals:** Month-over-month actuals with variance indicators.
+- **Revenue Volume**: Breakdown by quantity sold or delivered, correlated with revenue trends.
+- **Calculations**: Transparent logic and formulae behind revenue components, ensuring clarity and trust.
+- **Analytics:** Advanced visualizations highlighting growth patterns, seasonality, and anomalies.
+#### 🛠️Tools & Technologies:
+- Power BI Desktop & Power BI Service
+- Power Query for ETL
+- DAX for custom measures and time intelligence
+- SQL for data extraction and transformation
+- SAP
+#### 📈Impact:
+This dashboard enabled **Finance** and **Sales** teams to monitor revenue performance in real time, detect variances early, and improve forecasting accuracy. It became a key reporting asset used in monthly business reviews and revenue strategy sessions.
+#### 📈Screenshots:
+##### 📋 Summary Page  
 ![image](https://github.com/user-attachments/assets/8ab74d4b-a631-4ea6-a101-7f7c9c2e0f38)
-Revenue Bucket Specific Page with sub-pages: Revenue Actuals, Revenue Volume, Revenue Calculations, Analytics
-![image](https://github.com/user-attachments/assets/11b16ed2-5420-4fc6-94af-33d61d65907d)
-![image](https://github.com/user-attachments/assets/d1c11f84-c3f3-419a-aebf-51000f8f94d1)
-![image](https://github.com/user-attachments/assets/105977b7-9309-4e46-8a20-a3767a482c13)
-![image](https://github.com/user-attachments/assets/e0d1e448-b32e-4897-b5b2-5f5cbb171272)
+##### 📂 Revenue Bucket Specific Pages  
+_Sub-Pages: Revenue Actuals, Revenue Volume, Revenue Calculations, Analytics_
+![Revenue Actuals](https://github.com/user-attachments/assets/11b16ed2-5420-4fc6-94af-33d61d65907d)
+![Revenue Volume](https://github.com/user-attachments/assets/d1c11f84-c3f3-419a-aebf-51000f8f94d1)
+![Revenue Calculations](https://github.com/user-attachments/assets/105977b7-9309-4e46-8a20-a3767a482c13)
+![Analytics](https://github.com/user-attachments/assets/e0d1e448-b32e-4897-b5b2-5f5cbb171272)
+
+#### MANUFACTURING OVERALL EQUIPMENT EFFECTIVENESS DASHBOARD
+Project Overview:
+Developed a comprehensive Power BI dashboard to visualize and monitor Overall Equipment Effectiveness (OEE) for a manufacturing operation. This solution empowers production managers and engineers with actionable insights to optimize equipment performance, reduce downtime, and improve manufacturing efficiency.
+
+Key Features:
+OEE Breakdown: Real-time visualization of OEE components – Availability, Performance, and Quality – with trend analysis.
+Shift & Line Analysis: Filters for production lines, shifts, and date ranges to track performance across different operational segments.
+Downtime Analysis: Interactive drill-down on downtime reasons categorized by type, frequency, and duration.
+Target vs. Actual: Visual comparison of OEE KPIs against predefined benchmarks with conditional formatting.
+Interactive Controls: Dynamic slicers, tooltips, and bookmarks for an intuitive and user-friendly experience.
+![image](https://github.com/user-attachments/assets/4749e692-8087-4969-b690-79252b9bf54b)
+
+#### MANAGED SERVICE PROVIDER(MSP)- USERS & DEVICES CROSS PROGRAM VALIDATION
+![image](https://github.com/user-attachments/assets/7fa20df2-b663-4305-ab6d-353e0e5872c5)
+![image](https://github.com/user-attachments/assets/b84c40af-909f-472e-a6a5-e5b59bb75398)
+
+
 
 ### POWER APPS
 #### REVENUE ANALYTICS-DRIVER COMMENTARRIES
+> Please click the link to see more details.
 [Revenue Analytics-Driver Commentarries](drivercommenting.md){:target="_blank"}
-
 
 <!--- [Revenue Analytics - Power BI](revanalytics.md){:target="_blank"}
 - [Real-time Commenting App - Power Apps](drivercommenting.md){:target="_blank"}-->
