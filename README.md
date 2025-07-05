@@ -38,7 +38,7 @@ This background sharpened my attention to detail and ability to work with comple
  - 🧩 **Data Associate Pathway**
    *Project SPARTA PH*
 
-### Domain Knowledge
+### 🧠 Domain Knowledge
  - 💰 **Finance & Accounting** – Familiar with financial reporting, revenue analysis, and budgeting workflows  
  - 🏗️ **Construction** – Experience with project tracking, cost management, and operational reporting  
  - 👛 **Personal Finance** – Budgeting, expense tracking, and financial planning dashboards  
