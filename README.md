@@ -12,8 +12,9 @@ Developed a strong foundation in electronics, instrumentation, and technical sys
   - 🔧 **Troubleshooting and diagnostics** of electronic circuits and control systems  
   - 🧠 **Problem-solving** using logical and analytical thinking in lab and field environments  
   - 💡 Practical knowledge of microcontrollers, sensors, and industrial automation  
-  - 🛠️ Hands-on experience in PCB design, soldering, and equipment calibration  
+  - 🛠️ Hands-on experience in PCB design, board repair, soldering, and equipment calibration  
   - 📐 Basic skills in CAD and electrical schematics interpretation
+
 This background sharpened my attention to detail and ability to work with complex systems—skills I now bring into data analytics and business intelligence.
 
 ### 📜Relevant Certifications
@@ -98,8 +99,8 @@ My current focus is on deepening my expertise in **Artificial Intelligence**, **
 
 ## 📌Key Projects
 While I have completed numerous projects, I selectively showcase only my best work.
-### 🧩POWER BI
-#### 📊REVENUE ANALYTICS
+### 🧩Power BI
+#### 📊Revenue Analytics
 #### Project Overview:
 Designed and developed a multi-layered Power BI dashboard to provide in-depth Revenue Analytics for business stakeholders. The solution offers both high-level and granular views of revenue performance, helping drive strategic decisions through clear, data-driven insights.
 #### 🔍Key Features:
@@ -123,10 +124,10 @@ Categorized revenue insights by products, services, or business units for focuse
 #### 📈Impact:
 This dashboard enabled **Finance** and **Sales** teams to monitor revenue performance in real time, detect variances early, and improve forecasting accuracy. It became a key reporting asset used in monthly business reviews and revenue strategy sessions.
 
-#### 📈Screenshots:
-##### 📋Summary Page  
+#### 📸 Dashboard Screenshots:
+##### 📋 Summary Page  
 ![image](https://github.com/user-attachments/assets/8ab74d4b-a631-4ea6-a101-7f7c9c2e0f38)
-##### 📂Revenue Bucket Specific Pages  
+##### 📂 Revenue Bucket Specific Pages  
 _Sub-Pages: Revenue Actuals, Revenue Volume, Revenue Calculations, Analytics_
 ![Revenue Actuals](https://github.com/user-attachments/assets/11b16ed2-5420-4fc6-94af-33d61d65907d)
 ![Revenue Volume](https://github.com/user-attachments/assets/d1c11f84-c3f3-419a-aebf-51000f8f94d1)
@@ -186,10 +187,26 @@ Built a data validation and monitoring dashboard for a Managed Service Provider 
 
 
 
-### POWER APPS
-#### REVENUE ANALYTICS-DRIVER COMMENTARRIES
-> Please click the link to see more details.
-[Revenue Analytics-Driver Commentarries](drivercommenting.md){:target="_blank"}
+### ⚙️ Power Apps  
+#### 📄 Revenue Analytics – Driver Commentaries
+Developed a **Power Apps interface** and automated **Power Automate workflow** to allow business users to input commentary directly linked to revenue data points. These commentaries are then captured and reflected in Power BI reports, enriching insights with qualitative context.
+
+> Please click the link to see more details:  
+[Revenue Analytics – Driver Commentaries](drivercommenting.md){:target="_blank"}
+
+### 🔁 Power Automate  
+#### 📊 RAR Data Validation Metrics
+
+Designed and implemented a Power Automate workflow to support **RAR (Revenue Accounting & Recognition)** data validation metrics. The solution integrates key components of the **Microsoft ecosystem** and **Power Platform** to automate validation and delivery processes for the Revenue Accounting team.
+
+**Technologies Used:**  
+SharePoint · Power Automate · Power BI · SAP 
+
+---
+
+### 📸 Workflow Screenshot  
+![RAR Power Automate Flow](https://github.com/user-attachments/assets/71cdedd5-63b3-4c66-b0f4-295aa7982c9a)
+
 
 <!--- [Revenue Analytics - Power BI](revanalytics.md){:target="_blank"}
 - [Real-time Commenting App - Power Apps](drivercommenting.md){:target="_blank"}-->
@@ -199,17 +216,22 @@ Built a data validation and monitoring dashboard for a Managed Service Provider 
 <!--### Best Practices
  - [Power BI Development](pbi best practices.md){:target="_blank"}-->
 
-### Python Knowledge Base
- - [Programs](Python programs.md){:target="_blank"}
- - [Sequences](Python sequence.md){:target="_blank"}
- - [Loops](Python loops.md){:target="_blank"}
- - [Functions](Python functions.md){:target="_blank"}
- - [Object-Oriented Programming](Python OOP.md){:target="_blank"}
- - [Exploratory Data Analysis](EDA.md){:target="_blank"}
+### 🐍 Python Knowledge Base
 
-### SQL Code Library
-- [Aggregation Functions](SQL Aggregation Functions.md){:target="_blank"}
-- [Nested Queries](SQL Subqueries.md){:target="_blank"}
+- [📄 Programs](Python%20programs.md){:target="_blank"}
+- [🔢 Sequences](Python%20sequence.md){:target="_blank"}
+- [🔁 Loops](Python%20loops.md){:target="_blank"}
+- [🧮 Functions](Python%20functions.md){:target="_blank"}
+- [🏗️ Object-Oriented Programming](Python%20OOP.md){:target="_blank"}
+- [📊 Exploratory Data Analysis](EDA.md){:target="_blank"}
+
+---
+
+### 🧠 SQL Code Library
+
+- [📈 Aggregation Functions](SQL%20Aggregation%20Functions.md){:target="_blank"}
+- [🧩 Nested Queries](SQL%20Subqueries.md){:target="_blank"}
+
 
 > "When nothing seems to help, I go and look at a stonecutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that blow that did it—but all that had gone before."
 > — *Jacob Riis*
