@@ -101,9 +101,9 @@ My current focus is on deepening my expertise in **Artificial Intelligence**, **
 While I have completed numerous projects, I selectively showcase only my best work.
 ### 🧩Power BI
 #### 📊Revenue Analytics
-#### Project Overview:
+##### Project Overview:
 Designed and developed a multi-layered Power BI dashboard to provide in-depth Revenue Analytics for business stakeholders. The solution offers both high-level and granular views of revenue performance, helping drive strategic decisions through clear, data-driven insights.
-#### 🔍Key Features:
+##### 🔍Key Features:
 **Executive Summary**
 
 A top-level snapshot of total revenue, trends, KPIs, and performance versus targets.
@@ -118,14 +118,14 @@ Categorized revenue insights by products, services, or business units for focuse
 - **Calculations**: Transparent logic and formulae behind revenue components, ensuring clarity and trust.
 - **Analytics:** Advanced visualizations highlighting growth patterns, seasonality, and anomalies.
 
-#### 🛠️Tools & Technologies:
+##### 🛠️Tools & Technologies:
 - Power BI Desktop & Power BI Service
 - Power Query for ETL
 - DAX for custom measures and time intelligence
 - SQL for data extraction and transformation
 - SAP
 
-#### 📈Impact:
+##### 📈Impact:
 This dashboard enabled **Finance** and **Sales** teams to monitor revenue performance in real time, detect variances early, and improve forecasting accuracy. It became a key reporting asset used in monthly business reviews and revenue strategy sessions.
 
 #### 📸 Dashboard Screenshots:
@@ -193,7 +193,7 @@ Built a data validation and monitoring dashboard for a Managed Service Provider 
 
 ### ⚙️ Power Apps  
 #### 📄 Revenue Analytics – Driver Commentaries
-Developed a **Power Apps interface** and automated **Power Automate workflow** to allow business users to input commentary directly linked to revenue data points. These commentaries are then captured and reflected in Power BI reports, enriching insights with qualitative context.
+Developed a **Power Apps interface** to allow business users to input commentary directly linked to revenue data points. These commentaries are then captured and reflected in Power BI reports, enriching insights with qualitative context.
 
 > Please click the link to see more details:  
 [Revenue Analytics – Driver Commentaries](drivercommenting.md){:target="_blank"}
@@ -201,7 +201,7 @@ Developed a **Power Apps interface** and automated **Power Automate workflow** t
 ### 🔁 Power Automate  
 #### 📊 RAR Data Validation Metrics
 
-Designed and implemented a Power Automate workflow to support **RAR (Revenue Accounting & Recognition)** data validation metrics. The solution integrates key components of the **Microsoft ecosystem** and **Power Platform** to automate validation and delivery processes for the Revenue Accounting team.
+Designed and implemented a **Power Automate** workflow to support **RAR (Revenue Accounting & Recognition)** data validation metrics. The solution integrates key components of the **Microsoft ecosystem** and **Power Platform** to automate validation and delivery processes for the Revenue Accounting team.
 
 **Technologies Used:**  
 SharePoint · Power Automate · Power BI · SAP 
