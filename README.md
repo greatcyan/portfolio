@@ -109,6 +109,7 @@ Designed and developed a multi-layered Power BI dashboard to provide in-depth Re
 A top-level snapshot of total revenue, trends, KPIs, and performance versus targets.
 
 **Revenue Buckets Page**
+
 Categorized revenue insights by products, services, or business units for focused analysis.
 
 **Drilldown Sub-Page**
