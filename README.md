@@ -2,6 +2,9 @@
 
 ## 🧠 About
 Hello! I’m **Cyrus Baruc**, a continuous learner with over a decade of experience in technology and a proven track record of delivering high-quality solutions to real-world business problems. I bring strong communication skills, sharp problem-solving abilities, and a deep passion for working with complex systems. Whether it's data analytics, process automation, or system optimization, I thrive in turning challenges into impactful results.
+## 🧘 Philosphy
+> "When nothing seems to help, I go and look at a stonecutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that blow that did it—but all that had gone before."
+> — *Jacob Riis*
 
 ### 🎓 Education
  - **Bachelor of Science in Industrial Technology**, Major in Electronics
@@ -222,23 +225,16 @@ SharePoint · Power Automate · Power BI · SAP
 
 ### 🐍 Python Knowledge Base
 
-- [📄 Programs](Python%20programs.md){:target="_blank"}
-- [🔢 Sequences](Python%20sequence.md){:target="_blank"}
-- [🔁 Loops](Python%20loops.md){:target="_blank"}
-- [🧮 Functions](Python%20functions.md){:target="_blank"}
-- [🏗️ Object-Oriented Programming](Python%20OOP.md){:target="_blank"}
+- [📄 Programs](Python programs.md){:target="_blank"}
+- [🔢 Sequences](Python sequence.md){:target="_blank"}
+- [🔁 Loops](Python loops.md){:target="_blank"}
+- [🧮 Functions](Python functions.md){:target="_blank"}
+- [🏗️ Object-Oriented Programming](Python OOP.md){:target="_blank"}
 - [📊 Exploratory Data Analysis](EDA.md){:target="_blank"}
 
 ---
 
 ### 🧠 SQL Code Library
 
-- [📈 Aggregation Functions](SQL%20Aggregation%20Functions.md){:target="_blank"}
-- [🧩 Nested Queries](SQL%20Subqueries.md){:target="_blank"}
-
-
-> "When nothing seems to help, I go and look at a stonecutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that blow that did it—but all that had gone before."
-> — *Jacob Riis*
-
-
-
+- [📈 Aggregation Functions](SQL Aggregation Functions.md){:target="_blank"}
+- [🧩 Nested Queries](SQL Subqueries.md){:target="_blank"}
