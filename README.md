@@ -2,9 +2,12 @@
 
 ## About Me
 Hello! I’m **Cyrus Baruc**, a continuous learner with over a decade of experience in technology and a proven track record of delivering high-quality solutions to real-world business problems. I bring strong communication skills, sharp problem-solving abilities, and a deep passion for working with complex systems. Whether it's data analytics, process automation, or system optimization, I thrive in turning challenges into impactful results.
-<!--## Philosphy
+
+<!--
+## Philosphy
 > "When nothing seems to help, I go and look at a stonecutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that blow that did it—but all that had gone before."
-> — *Jacob Riis*-->
+> — *Jacob Riis*
+-->
 
 ## Education
 **Bachelor of Science in Industrial Technology**, Major in Electronics
