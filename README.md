@@ -134,10 +134,6 @@ Categorized revenue insights by products, services, or business units for focuse
 ##### Impact:
 This dashboard enabled **Finance** and **Sales** teams to monitor revenue performance in real time, detect variances early, and improve forecasting accuracy. It became a key reporting asset used in monthly business reviews and revenue strategy sessions.
 
-
-<iframe title="Revenue Analytics" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=67dd589f-4aed-4e69-8e7e-fce9e4fa9b04&autoAuth=true&ctid=ba58f438-b6ab-4109-ba39-ea0abe06e40f" frameborder="0" allowFullScreen="true"></iframe>
-
-
 #### Dashboard Screenshots:
 ##### Summary Page  
 ![image](https://github.com/user-attachments/assets/8ab74d4b-a631-4ea6-a101-7f7c9c2e0f38)
