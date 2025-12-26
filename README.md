@@ -77,7 +77,7 @@ This dashboard enabled **Finance** and **Sales** teams to monitor revenue perfor
 ---
 
 
-### Driver Commentaries Power Apps
+### 2. Driver Commentaries Power Apps
 ![image](https://github.com/user-attachments/assets/24e79dc8-44c1-4dd7-8303-8590989a3767)
 Developed a **Power Apps interface** to allow business users to input commentary directly linked to revenue data points. These commentaries are then captured and reflected in Power BI reports, enriching insights with qualitative context.
 
@@ -86,7 +86,7 @@ Developed a **Power Apps interface** to allow business users to input commentary
 ---
 
 
-### RAR Data Validation Metrics Power Automate 
+### 3. RAR Data Validation Metrics Power Automate 
 ![RAR Power Automate Flow](https://github.com/user-attachments/assets/71cdedd5-63b3-4c66-b0f4-295aa7982c9a)
 Designed and implemented a **Power Automate** workflow to support **RAR (Revenue Accounting & Recognition)** data validation metrics. The solution integrates key components of the **Microsoft ecosystem** and **Power Platform** to automate validation and delivery processes for the Revenue Accounting team.
 
