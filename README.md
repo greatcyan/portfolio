@@ -30,14 +30,21 @@ Hi, I’m **Cyrus Baruc**, a Power BI Developer and Analytics Professional with 
  - **Managed Service Provider (MSP)** – Ticketing metrics, SLA monitoring, asset reporting, and support performance
 
 ## Key Skills & Technologies
-- **Data Analysis & Modeling** 
-- Power BI, Data Visualization, DAX, Semantic Model Architecture, Financial Modeling & Forecasting, Performance Tuning 
-- **Fabric & Data Engineering**
-- Microsoft Fabric, Lakehouse & Data Warehouse, Data Ingestion, CI/CD & Pipeline Orchestration 
-- **Languages & Tools**
-- Python, SQL, Power Query M, Azure DevOps, Visual Studio, Report Builder, Power Automate, Power Apps 
-- **Governance & Cloud**
-- Microsoft Entra ID, Row-Level Security (RLS) & OLS, Dataverse/Dynamics 365, Microsoft Office 365
+- **Data Analysis & Modeling** – Power BI, Data Visualization, DAX, Semantic Model Architecture, Financial Modeling & Forecasting, Performance Tuning 
+- **Fabric & Data Engineering** – Microsoft Fabric, Lakehouse & Data Warehouse, Data Ingestion, CI/CD & Pipeline Orchestration 
+- **Languages & Tools** – Python, SQL, Power Query M, Azure DevOps, Visual Studio, Report Builder, Power Automate, Power Apps 
+- **Governance & Cloud** – Microsoft Entra ID, Row-Level Security (RLS) & OLS, Dataverse/Dynamics 365, Microsoft Office 365
+
+## Integrated Systems
+I have extensive experience integrating **Power BI** with various enterprise systems and databases to deliver accurate, real-time insights:  
+
+- **SAP Business Warehouse (BW)** – Data extraction, modeling, and reporting for finance and revenue analytics  
+- **Autodesk Construction Cloud (ACC)** – Project tracking, cost management, and operational reporting dashboards  
+- **SQL Server** – Relational data extraction, transformation, and modeling  
+- **Dynamics 365** – Customer data, sales, and operations integration with Power BI and Dataverse  
+- **Dataverse** – Seamless integration with Power Platform, enabling automation, analytics, and secure data storage  
+- **SharePoint** – File and list data integration for reporting, workflows, and dashboards  
+- **Local Server / On-Premises Data Gateway** – Connect on-premises databases, Excel, and other local files securely to Power BI  
 
 ## Project Lifecycle & Delivery Approach
 I follow a structured and collaborative approach to ensure successful project execution from start to finish:
