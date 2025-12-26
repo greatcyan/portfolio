@@ -81,8 +81,7 @@ This dashboard enabled **Finance** and **Sales** teams to monitor revenue perfor
 ![image](https://github.com/user-attachments/assets/24e79dc8-44c1-4dd7-8303-8590989a3767)
 Developed a **Power Apps interface** to allow business users to input commentary directly linked to revenue data points. These commentaries are then captured and reflected in Power BI reports, enriching insights with qualitative context.
 
-> Please click the link to see more details:  
-[Revenue Analytics – Driver Commentaries](drivercommenting.md){:target="_blank"}
+[👉 Click here to see more..](drivercommenting.md){:target="_blank"}
 
 ---
 
