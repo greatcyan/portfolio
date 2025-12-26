@@ -1,27 +1,12 @@
 # Data Analytics Portfolio
 
 ## About Me
-Hello! I’m **Cyrus Baruc**, a continuous learner with over a decade of experience in technology and a proven track record of delivering high-quality solutions to real-world business problems. I bring strong communication skills, sharp problem-solving abilities, and a deep passion for working with complex systems. Whether it's data analytics, process automation, or system optimization, I thrive in turning challenges into impactful results.
-
-<!--
-## Philosphy
-> "When nothing seems to help, I go and look at a stonecutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that blow that did it—but all that had gone before."
-> — *Jacob Riis*
--->
+Hi, I’m **Cyrus Baruc**, a Power BI Developer and Analytics Professional with a strong engineering foundation and a passion for turning complex data into actionable business insights. I bring over 10 years of experience in Electronics and Automation Test Equipment (ATE), where I developed disciplined critical thinking, methodical troubleshooting, and root-cause analysis skills. That background continues to shape how I approach analytics—breaking down complex problems and delivering reliable, scalable data solutions. For the past 3 years, I’ve specialized in Power BI, Power Platform, and Microsoft Fabric, building semantic data models, optimized pipelines, and intuitive dashboards. I also support Dynamics 365 and Dataverse solutions and automate workflows to improve data accuracy, performance, and decision-making. I enjoy bridging technical solutions with business needs, continuously learning new technologies, and delivering analytics that drive real-world impact.
 
 ## Education
 **Bachelor of Science in Industrial Technology**, Major in Electronics
    *Cebu Technological University – Main Campus*  
    *Graduated: [2012]*
-   
-Developed a strong foundation in electronics, instrumentation, and technical systems, with emphasis on:
-  - **Troubleshooting and diagnostics** of electronic circuits and control systems  
-  - **Problem-solving** using logical and analytical thinking in lab and field environments  
-  - Practical knowledge of microcontrollers, sensors, and industrial automation  
-  - Hands-on experience in PCB design, board repair, soldering, and equipment calibration  
-  - Basic skills in CAD and electrical schematics interpretation
-
-This background sharpened my attention to detail and ability to work with complex systems—skills I now bring into data analytics and business intelligence.
 
 ## Certifications
  -  **PL300: Power BI Data Analyst Associate**
@@ -53,42 +38,22 @@ This background sharpened my attention to detail and ability to work with comple
  - **Manufacturing (OEE)** – Deep understanding of Overall Equipment Effectiveness, downtime tracking, and performance KPIs  
  - **Managed Service Provider (MSP)** – Ticketing metrics, SLA monitoring, asset reporting, and support performance
 
-## Key Skills & Expertise
-After over a decade in the **electronics industry**, I successfully transitioned into the world of **data**—bringing with me a strong foundation in **systems thinking** and **problem-solving**. Since then, I’ve been driving meaningful impact through data analytics by delivering innovative, user-centric solutions.
-My journey has been defined by the development of dynamic and insightful projects, including:
-- **Excel Dashboards**  
-  Crafting interactive and visually appealing dashboards to simplify complex data for decision-makers.
-- **Python Applications**  
-  Developing robust applications for data analysis, automation, and visualization.
-- **Power BI Dashboards**  
-  Designing comprehensive, interactive dashboards—such as the highly praised *Revenue Analytics Dashboard*—to support business intelligence needs.
-- **Paginated Reports (SSRS)**  
-  Creating print-ready, detail-rich reports tailored for operational tracking and compliance requirements.
-- **Process Automation**  
-  Streamlining workflows using **Power Apps** and **Power Automate**, improving team efficiency and reducing manual tasks.
-
-## Tech Stack
-- **Programming Languages**  
-  Python, SQL, Power Query M Language, DAX, R, VBA
-- **Cloud & Data Platforms**  
-  Power Platform, Dataverse, Microsoft Fabric, Microsoft SQL Server, SAP, Microsoft Entra ID, Azure Blob Storage
-- **Data Engineering & ETL**  
-  Data Modeling, Data Staging, Query Folding, Schema Implementation, Data Warehousing
-- **Data Analysis & Visualization**  
-  Excel, Power BI, Tableau, Pandas, Seaborn, Plotly, SSRS, Power BI Report Builder
-- **Optimization & Performance Tools**  
-  DAX Studio, Bravo for Power BI, Performance Analyzer, Tabular Editor
-- **Process Automation**  
-  Power Automate, Power Apps (Canvas & Model-Driven), Python, Office Scripts, Excel VBA
-- **Other Platforms & Tools**  
-  Microsoft 365 Suite, SharePoint, ServiceNow, Microsoft Planner, Visual Studio, VS Code, Jupyter Notebooks
+## Key Skills & Technologies
+- **Data Analysis & Modeling** 
+- Power BI, Data Visualization, DAX, Semantic Model Architecture, Financial Modeling & Forecasting, Performance Tuning 
+- **Fabric & Data Engineering**
+- Microsoft Fabric, Lakehouse & Data Warehouse, Data Ingestion, CI/CD & Pipeline Orchestration 
+- **Languages & Tools**
+- Python, SQL, Power Query M, Azure DevOps, Visual Studio, Report Builder, Power Automate, Power Apps 
+- **Governance & Cloud**
+- Microsoft Entra ID, Row-Level Security (RLS) & OLS, Dataverse/Dynamics 365, Microsoft Office 365
 
 ## Project Lifecycle & Delivery Approach
 I follow a structured and collaborative approach to ensure successful project execution from start to finish:
 - **Requirements Gathering**  
   Engage with stakeholders to understand objectives, pain points, and desired outcomes. Translate business needs into clear, actionable data requirements.
 - **Development**  
-  Leverage tools like **Power BI**, **Excel**, and **Python** to design and build scalable, intuitive solutions—prioritizing clarity, performance, and user engagement.
+  Leverage tools like **Power BI**, **Power Automate**, **Power Apps**, **SharePoint**, and **Microsoft Fabric** to design and build scalable, intuitive solutions—prioritizing clarity, performance, and user engagement.
 - **User Training**  
   Conduct hands-on training sessions and create user-friendly documentation to support seamless adoption and promote self-service analytics.
 - **Deployment**  
@@ -96,12 +61,6 @@ I follow a structured and collaborative approach to ensure successful project ex
 - **Maintenance & Support**  
   Provide ongoing support, performance optimization, and iterative improvements based on user feedback and evolving business requirements.
 
-<!--### Achievements
-I am proud to have received Kudos and appreciation from stakeholders for my work on the Revenue Analytics dashboard in Power BI, which has been instrumental in driving business decisions and strategies.-->
-
-## Career Goals
-I am committed to staying at the forefront of technology by continuously learning and expanding my skillset.
-My current focus is on deepening my expertise in **Artificial Intelligence**, **Machine Learning**, and **Predictive Analytics**—with the goal of delivering more intelligent, forward-looking solutions that drive business value in an ever-evolving data landscape.
 
 ## Key Projects
 While I have completed numerous projects, I selectively showcase only my best work.
