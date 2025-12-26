@@ -65,7 +65,9 @@ I follow a structured and collaborative approach to ensure successful project ex
 ## Key Projects
 While I have completed numerous projects, I selectively showcase only my best work.
 
-### Revenue Analytics
+---
+
+### 1. Revenue Analytics
 ![image](https://github.com/user-attachments/assets/a61cea35-3ef0-4da7-9838-98bdbecf3313)
 This project streamlines revenue analytics reporting to support P&L reviews and Corporate Consolidation requirements. It introduces a volume-weighted AUR metric to identify top customers, products, and company codes based on both revenue and unit volume, rather than revenue alone. This provides a more balanced and accurate view of performance across revenue streams. The solution also assists the Revenue Accounting team in investigating material variances against expected revenue. 
 
@@ -81,12 +83,18 @@ This project streamlines revenue analytics reporting to support P&L reviews and 
 #### Impact:
 This dashboard enabled **Finance** and **Sales** teams to monitor revenue performance in real time, detect variances early, and improve forecasting accuracy. It became a key reporting asset used in monthly business reviews and revenue strategy sessions.
 
+---
+
+
 ### Driver Commentaries Power Apps
 ![image](https://github.com/user-attachments/assets/24e79dc8-44c1-4dd7-8303-8590989a3767)
 Developed a **Power Apps interface** to allow business users to input commentary directly linked to revenue data points. These commentaries are then captured and reflected in Power BI reports, enriching insights with qualitative context.
 
 > Please click the link to see more details:  
 [Revenue Analytics – Driver Commentaries](drivercommenting.md){:target="_blank"}
+
+---
+
 
 ### RAR Data Validation Metrics Power Automate 
 ![RAR Power Automate Flow](https://github.com/user-attachments/assets/71cdedd5-63b3-4c66-b0f4-295aa7982c9a)
