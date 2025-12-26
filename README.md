@@ -50,7 +50,7 @@ I follow a structured and collaborative approach to ensure successful project ex
 - **Requirements Gathering**
   Engage with stakeholders to understand objectives, pain points, and desired outcomes. Translate business needs into clear, actionable data requirements.
 - **Development**
-  Leverage tools like **Power BI**, **Power Automate**, **Power Apps**, **SharePoint**, and **Microsoft Fabric** to design and build scalable, intuitive solutions—prioritizing clarity, performance, and user engagement.
+  Leverage tools like Power BI, Power Automate, Power Apps, SharePoint, and Microsoft Fabric to design and build scalable, intuitive solutions—prioritizing clarity, performance, and user engagement.
 - **User Training**
   Conduct hands-on training sessions and create user-friendly documentation to support seamless adoption and promote self-service analytics.
 - **Deployment**
