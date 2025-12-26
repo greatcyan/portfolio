@@ -58,7 +58,7 @@ While I have completed numerous projects, I selectively showcase only my best wo
 
 ---
 
-### 1. Revenue Analytics
+### 1. Revenue Analytics Power BI
 ![image](https://github.com/user-attachments/assets/a61cea35-3ef0-4da7-9838-98bdbecf3313)
 This project streamlines revenue analytics reporting to support P&L reviews and Corporate Consolidation requirements. It introduces a volume-weighted AUR metric to identify top customers, products, and company codes based on both revenue and unit volume, rather than revenue alone. This provides a more balanced and accurate view of performance across revenue streams. The solution also assists the Revenue Accounting team in investigating material variances against expected revenue. 
 
@@ -77,7 +77,7 @@ This dashboard enabled **Finance** and **Sales** teams to monitor revenue perfor
 ---
 
 
-### 2. Driver Commentaries Power Apps
+### 2. Revenue Driver Commentaries - Power Apps
 ![image](https://github.com/user-attachments/assets/24e79dc8-44c1-4dd7-8303-8590989a3767)
 Developed a **Power Apps interface** to allow business users to input commentary directly linked to revenue data points. These commentaries are then captured and reflected in Power BI reports, enriching insights with qualitative context.
 
@@ -86,7 +86,7 @@ Developed a **Power Apps interface** to allow business users to input commentary
 ---
 
 
-### 3. RAR Data Validation Metrics Power Automate 
+### 3. RAR Data Validation Metrics - Power BI + Power Automate 
 ![RAR Power Automate Flow](https://github.com/user-attachments/assets/71cdedd5-63b3-4c66-b0f4-295aa7982c9a)
 Designed and implemented a **Power Automate** workflow to support **RAR (Revenue Accounting & Recognition)** data validation metrics. The solution integrates key components of the **Microsoft ecosystem** and **Power Platform** to automate validation and delivery processes for the Revenue Accounting team.
 
