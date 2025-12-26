@@ -9,24 +9,15 @@ Hi, I’m **Cyrus Baruc**, a Power BI Developer and Analytics Professional with 
    *Graduated: [2012]*
 
 ## Certifications
- -  **PL300: Power BI Data Analyst Associate**
+ -  [**PL300: Power BI Data Analyst Associate**](https://learn.microsoft.com/en-us/users/cyruscuevabaruc-4658/credentials/e8f7eca8f6bab2b0?ref=https%3A%2F%2Fwww.linkedin.com%2F) 
    *Issued by Microsoft - 2024*
- -  **Data Science Certification Program**
-   *University of the Philippines Cebu*
-   *(Discontinued due to financial constraints)*
- -  **Power BI Data Analyst**
-   *Microsoft on Coursera*
- -  **Google Business Intelligence Certificate**
+ -  [**Google Business Intelligence Certificate**](https://www.credly.com/badges/783d501a-01f2-4398-bada-7657c21a0281)
    *Google on Coursera*
- -  **Google Data Analytics Certificate**
+ -  [**Google Data Analytics Certificate**](https://www.credly.com/badges/cf025b53-5775-4123-8da3-77bb869c4ace)
    *Google on Coursera*- 
- -  **Data Governance Specialization**
+ -  [**Data Visualization Specialization**](https://1drv.ms/b/c/4223e02ea1461ef3/IQDbysVb68y5SJokqu9egAGIASE8Kki8cEUyF2Andi1CE2g?e=LvbYrW)
    *Project SPARTA PH*
- -  **Computing Specialization**
-   *Project SPARTA PH*
- -  **Data Visualization Specialization**
-   *Project SPARTA PH*
- -  **Data Associate Pathway**
+ -  [**Data Associate Pathway**](https://1drv.ms/b/c/4223e02ea1461ef3/IQA4e0Egp9Z9S5ICCPTln1KzAV7u7UJIThYE06YeBxUvIKc?e=TJStAf)
    *Project SPARTA PH*
 
 ## Domain Knowledge
