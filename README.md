@@ -64,107 +64,30 @@ I follow a structured and collaborative approach to ensure successful project ex
 
 ## Key Projects
 While I have completed numerous projects, I selectively showcase only my best work.
-### Power BI
-#### Revenue Analytics
-##### Project Overview:
-Designed and developed a multi-layered Power BI dashboard to provide in-depth Revenue Analytics for business stakeholders. The solution offers both high-level and granular views of revenue performance, helping drive strategic decisions through clear, data-driven insights.
-##### Key Features:
-**Executive Summary**
 
-A top-level snapshot of total revenue, trends, KPIs, and performance versus targets.
+### Revenue Analytics
+![image](https://github.com/user-attachments/assets/a61cea35-3ef0-4da7-9838-98bdbecf3313)
+This project streamlines revenue analytics reporting to support P&L reviews and Corporate Consolidation requirements. It introduces a volume-weighted AUR metric to identify top customers, products, and company codes based on both revenue and unit volume, rather than revenue alone. This provides a more balanced and accurate view of performance across revenue streams. The solution also assists the Revenue Accounting team in investigating material variances against expected revenue. 
 
-**Revenue Buckets Page**
+[👉 Click here to explore the report](https://app.powerbi.com/view?r=eyJrIjoiY2JhYzk3NGItYmVhOC00NGQ4LWJiNTktMjY5ZmY1YTExY2E0IiwidCI6ImJhNThmNDM4LWI2YWItNDEwOS1iYTM5LWVhMGFiZTA2ZTQwZiIsImMiOjEwfQ%3D%3D&embedImagePlaceholder=true)
 
-Categorized revenue insights by products, services, or business units for focused analysis.
-
-**Drilldown Sub-Page**
-- **Revenue Actuals:** Month-over-month actuals with variance indicators.
-- **Revenue Volume**: Breakdown by quantity sold or delivered, correlated with revenue trends.
-- **Calculations**: Transparent logic and formulae behind revenue components, ensuring clarity and trust.
-- **Analytics:** Advanced visualizations highlighting growth patterns, seasonality, and anomalies.
-
-##### 🛠️Tools & Technologies:
+#### 🛠️Tools & Technologies:
 - Power BI Desktop & Power BI Service
 - Power Query for ETL
 - DAX for custom measures and time intelligence
 - SQL for data extraction and transformation
-- SAP
+- SAP Business Warehouse
 
-##### Impact:
+#### Impact:
 This dashboard enabled **Finance** and **Sales** teams to monitor revenue performance in real time, detect variances early, and improve forecasting accuracy. It became a key reporting asset used in monthly business reviews and revenue strategy sessions.
 
-#### Dashboard Screenshots:
-##### Summary Page  
-![image](https://github.com/user-attachments/assets/8ab74d4b-a631-4ea6-a101-7f7c9c2e0f38)
-##### Revenue Bucket Specific Pages  
-_Sub-Pages: Revenue Actuals, Revenue Volume, Revenue Calculations, Analytics_
-![Revenue Actuals](https://github.com/user-attachments/assets/11b16ed2-5420-4fc6-94af-33d61d65907d)
-![Revenue Volume](https://github.com/user-attachments/assets/d1c11f84-c3f3-419a-aebf-51000f8f94d1)
-![Revenue Calculations](https://github.com/user-attachments/assets/105977b7-9309-4e46-8a20-a3767a482c13)
-![Analytics](https://github.com/user-attachments/assets/e0d1e448-b32e-4897-b5b2-5f5cbb171272)
-
-#### Manufacturing Overall Equipment Effectiveness (OEE) Dashboard
-##### Project Overview  
-Developed a comprehensive **Power BI dashboard** to visualize and monitor **Overall Equipment Effectiveness (OEE)** for a manufacturing operation. This solution empowers production managers and engineers with actionable insights to optimize equipment performance, reduce downtime, and improve manufacturing efficiency.
-
----
-
-##### Key Features
-- **OEE Breakdown**  
-  Real-time visualization of OEE components – **Availability**, **Performance**, and **Quality** – with historical trend analysis.
-- **Shift & Line Analysis**  
-  Filters for production lines, shifts, and date ranges to track performance across different operational segments.
-- **Downtime Analysis**  
-  Interactive drill-down on downtime reasons categorized by type, frequency, and duration.
-- **Target vs. Actual**  
-  Visual comparison of OEE KPIs against predefined benchmarks with conditional formatting.
-- **Interactive Controls**  
-  Dynamic slicers, tooltips, and bookmarks for an intuitive and user-friendly experience.
-
----
-
-##### Dashboard Screenshot  
-![Manufacturing OEE Dashboard](https://github.com/user-attachments/assets/4749e692-8087-4969-b690-79252b9bf54b)
-
-
-#### Managed Service Provider (MSP) – Users & Devices Cross Program Validation
-
-##### Project Overview  
-Built a data validation and monitoring dashboard for a Managed Service Provider (MSP) to ensure data integrity across multiple systems managing users and devices. This solution helps identify mismatches, improve asset tracking, and support proactive remediation.
-
----
-
-##### Key Features
-
-- **Cross-Platform Data Matching**  
-  Validates consistency of user and device records across systems (e.g., Active Directory, Intune, endpoint management).
-
-- **Anomaly Detection**  
-  Highlights discrepancies in user/device status, assignment, and activity logs.
-
-- **License & Assignment Tracking**  
-  Monitors usage and compliance of software licenses and device assignments.
-
-- **Audit-Ready Outputs**  
-  Provides clean, exportable summaries to support IT audits and compliance checks.
-
----
-
-##### 📸 Dashboard Screenshots  
-![Validation Dashboard 1](https://github.com/user-attachments/assets/7fa20df2-b663-4305-ab6d-353e0e5872c5)  
-![Validation Dashboard 2](https://github.com/user-attachments/assets/b84c40af-909f-472e-a6a5-e5b59bb75398)
-
-
-
-### Power Apps  
-#### Revenue Analytics – Driver Commentaries
+### Driver Commentaries Power Apps
 Developed a **Power Apps interface** to allow business users to input commentary directly linked to revenue data points. These commentaries are then captured and reflected in Power BI reports, enriching insights with qualitative context.
 
 > Please click the link to see more details:  
 [Revenue Analytics – Driver Commentaries](drivercommenting.md){:target="_blank"}
 
-### Power Automate  
-#### RAR Data Validation Metrics
+#### RAR Data Validation Metrics Power Automate 
 
 Designed and implemented a **Power Automate** workflow to support **RAR (Revenue Accounting & Recognition)** data validation metrics. The solution integrates key components of the **Microsoft ecosystem** and **Power Platform** to automate validation and delivery processes for the Revenue Accounting team.
 
