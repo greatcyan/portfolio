@@ -52,11 +52,11 @@ I follow a structured and collaborative approach to ensure successful project ex
 - **Development**
   Leverage tools like **Power BI**, **Power Automate**, **Power Apps**, **SharePoint**, and **Microsoft Fabric** to design and build scalable, intuitive solutions—prioritizing clarity, performance, and user engagement.
 - **User Training**
-- Conduct hands-on training sessions and create user-friendly documentation to support seamless adoption and promote self-service analytics.
+  Conduct hands-on training sessions and create user-friendly documentation to support seamless adoption and promote self-service analytics.
 - **Deployment**
-- Manage smooth rollouts by integrating solutions into existing business environments with minimal disruption.
+  Manage smooth rollouts by integrating solutions into existing business environments with minimal disruption.
 - **Maintenance & Support**
-- Provide ongoing support, performance optimization, and iterative improvements based on user feedback and evolving business requirements.
+  Provide ongoing support, performance optimization, and iterative improvements based on user feedback and evolving business requirements.
 
 ## Key Projects
 While I have completed numerous projects, I selectively showcase only my best work.
