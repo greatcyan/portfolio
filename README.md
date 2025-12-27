@@ -3,7 +3,16 @@
 ---
 
 ## About Me
-Hi, I’m **Cyrus Baruc**, I help finance, operations, and project teams make smarter decisions by understanding business processes and delivering Power BI dashboards, analytics, and automated workflows that drive real impact. With a strong automated test equipment (ATE) and electronics background, I bring disciplined problem-solving, critical thinking, and methodical analysis to every project, ensuring data solutions are both reliable and business-ready.
+Hi, I’m **Cyrus Baruc**. I help operations, finance, and project teams make smarter decisions by integrating data from multiple systems, transforming it into actionable insights, and delivering intuitive Power BI dashboards, analytics, and automated workflows that drive real business impact. I have centralized multiple data sources into unified dashboards and automated reporting workflows, reducing manual effort and enabling faster, more reliable decision-making. With a strong background in automated test equipment (ATE) and electronics, I bring disciplined problem-solving, critical thinking, and methodical analysis to every project, ensuring data solutions are reliable, scalable, and business-ready. 
+
+### What I Deliver
+- Streamlined Reporting – faster, accurate, and consolidated reporting across operations and finance.
+- Dataflow Centralization / Data Warehousing – integrate multiple systems into unified, actionable datasets.
+- ETL & Workflow Automation – reduce manual effort and errors through automated data pipelines.
+- Dashboarding & Data Visualization – intuitive, actionable dashboards using best practices and visual hierarchy.
+- Data Governance & Security – RLS/OLS, data integrity, and compliance for trusted analytics.
+- Operational Efficiency – improve processes and enable smarter, faster business decisions.
+- Data-Driven Decision Making – empower stakeholders with timely insights and measurable impact.
 
 ---
 
@@ -113,7 +122,7 @@ SharePoint · Power Automate · Power BI · SAP
 ---
 
 
-## Python Knowledge Base
+<!--## Python Knowledge Base
 
 - [Programs](Python programs.md){:target="_blank"}
 - [Sequences](Python sequence.md){:target="_blank"}
@@ -127,6 +136,5 @@ SharePoint · Power Automate · Power BI · SAP
 ## SQL Code Library
 
 - [Aggregation Functions](SQL Aggregation Functions.md){:target="_blank"}
-- [Nested Queries](SQL Subqueries.md){:target="_blank"}
+- [Nested Queries](SQL Subqueries.md){:target="_blank"}-->
 
-<!--Hi, I’m **Cyrus Baruc**, a Power BI Developer and Analytics Professional with a strong engineering foundation and a passion for turning complex data into actionable business insights. I bring over 10 years of experience in Electronics and Automation Test Equipment (ATE), where I developed disciplined critical thinking, methodical troubleshooting, and root-cause analysis skills. That background continues to shape how I approach analytics—breaking down complex problems and delivering reliable, scalable data solutions. For the past 3 years, I’ve specialized in Power BI, Power Platform, and Microsoft Fabric, building semantic data models, optimized pipelines, and intuitive dashboards. I also support Dynamics 365 and Dataverse solutions and automate workflows to improve data accuracy, performance, and decision-making. I enjoy bridging technical solutions with business needs, continuously learning new technologies, and delivering analytics that drive real-world impact.-->
