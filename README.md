@@ -1,6 +1,6 @@
 # Welcome to My Data Portfolio 📈
 
---
+---
 
 ## About Me
 Hi, I’m **Cyrus Baruc**, I help finance, operations, and project teams make smarter decisions by understanding business processes and delivering Power BI dashboards, analytics, and automated workflows that drive real impact. With a strong automated test equipment (ATE) and electronics background, I bring disciplined problem-solving, critical thinking, and methodical analysis to every project, ensuring data solutions are both reliable and business-ready.
