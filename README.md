@@ -10,7 +10,7 @@ Hi, I’m **Cyrus Baruc**, I help finance, operations, and project teams make sm
    *Cebu Technological University – Main Campus*  
    *Graduated: [2012]*
 
-## Certifications
+### Certifications
  -  [**PL300: Power BI Data Analyst Associate**](https://learn.microsoft.com/en-us/users/cyruscuevabaruc-4658/credentials/e8f7eca8f6bab2b0?ref=https%3A%2F%2Fwww.linkedin.com%2F) 
    *Issued by Microsoft - 2024*
  -  [**Google Business Intelligence Certificate**](https://www.credly.com/badges/783d501a-01f2-4398-bada-7657c21a0281)
