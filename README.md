@@ -1,5 +1,7 @@
 # Welcome to My Data Portfolio 📈
 
+--
+
 ## About Me
 Hi, I’m **Cyrus Baruc**, I help finance, operations, and project teams make smarter decisions by understanding business processes and delivering Power BI dashboards, analytics, and automated workflows that drive real impact. With a strong automated test equipment (ATE) and electronics background, I bring disciplined problem-solving, critical thinking, and methodical analysis to every project, ensuring data solutions are both reliable and business-ready.
 
@@ -29,17 +31,17 @@ Hi, I’m **Cyrus Baruc**, I help finance, operations, and project teams make sm
  - **Construction** – Experience with project tracking, cost management, and operational reporting  
  - **Personal Finance** – Budgeting, expense tracking, and financial planning dashboards  
  - **Investment & Stocks** – Knowledge in portfolio performance, equity tracking, and returns analysis  
- - **Digital Marketing (Meta Ads)** – Campaign performance, ad spend analysis, and audience insights  
- - **Manufacturing (OEE)** – Deep understanding of Overall Equipment Effectiveness, downtime tracking, and performance KPIs  
+ - **Digital Marketing (Meta Ads)** – Knowledge of Campaign performance, ad spend analysis, and audience insights  
+ - **Manufacturing (OEE)** – Knowledge of Overall Equipment Effectiveness, downtime tracking, and performance KPIs  
  - **Managed Service Provider (MSP)** – Ticketing metrics, SLA monitoring, asset reporting, and support performance
 
 ---
 
 ## Key Skills & Technologies
-- **Data Analysis & Modeling** – Power BI, Data Visualization, DAX, Semantic Model Architecture, Financial Modeling & Forecasting, Performance Tuning 
+- **Data Analysis & Modeling** – Power BI, Data Visualization, DAX, Semantic Model Architecture, Dimensional Modeling, Hierarchies & Relationships, Data Normalization / Denormalization
 - **Fabric & Data Engineering** – Microsoft Fabric, Lakehouse & Data Warehouse, Data Ingestion, CI/CD & Pipeline Orchestration 
-- **Languages & Tools** – Python, SQL, Power Query M, Azure DevOps, Visual Studio, Report Builder, Power Automate, Power Apps 
-- **Governance & Cloud** – Microsoft Entra ID, Row-Level Security (RLS) & OLS, Dataverse/Dynamics 365, Microsoft Office 365
+- **Languages & Tools** – Python, T-SQL, Power Query M, Azure DevOps,  Visual Studio, Report Builder, Power Automate, Power Apps 
+- **Governance & Cloud** – Microsoft Entra ID, Row-Level Security (RLS) & Object-Level Security (OLS), Power BI Admin Portal & workspace management
 
 ---
 
