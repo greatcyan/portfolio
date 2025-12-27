@@ -3,7 +3,7 @@
 ---
 
 ## About Me
-Hi, I’m **Cyrus Baruc**. I help organizations and their operations, finance, and project teams make smarter decisions by integrating data from multiple systems, transforming it into actionable insights, and delivering intuitive Power BI dashboards, analytics, and automated workflows that drive real business impact. I integrated data from multiple sources into centralized dataflows and created unified dashboards with automated reporting, providing stakeholders with a single, reliable view for faster and smarter decision-making. 
+Hi, I’m **Cyrus Baruc**. I help organizations and their operations, finance, and project teams make smarter decisions by integrating data from multiple systems, transforming it into actionable insights, and delivering intuitive Power BI dashboards, analytics, and automated workflows that drive real business impact. I integrated data from multiple sources into centralized dataflows/pipelines and created unified semantic models and dashboards with automated reporting, providing stakeholders with a single, reliable view for faster and smarter decision-making. 
 
 With a strong background in automated test equipment (ATE) and electronics, I bring disciplined problem-solving, critical thinking, and methodical approach to every project, ensuring data solutions are reliable, scalable, and business-ready. 
 
