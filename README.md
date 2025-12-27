@@ -3,6 +3,8 @@
 ## About Me
 Hi, I’m **Cyrus Baruc**, I help finance, operations, and project teams make smarter decisions by understanding business processes and delivering Power BI dashboards, analytics, and automated workflows that drive real impact. With a strong automated test equipment (ATE) and electronics background, I bring disciplined problem-solving, critical thinking, and methodical analysis to every project, ensuring data solutions are both reliable and business-ready.
 
+---
+
 ## Education
 **Bachelor of Science in Industrial Technology**, Major in Electronics
    *Cebu Technological University – Main Campus*  
@@ -20,6 +22,8 @@ Hi, I’m **Cyrus Baruc**, I help finance, operations, and project teams make sm
  -  [**Data Associate Pathway**](https://1drv.ms/b/c/4223e02ea1461ef3/IQA4e0Egp9Z9S5ICCPTln1KzAV7u7UJIThYE06YeBxUvIKc?e=TJStAf)
    *Project SPARTA PH*
 
+---
+
 ## Domain Knowledge
  - **Finance & Accounting** – Familiar with financial reporting, revenue analysis, and budgeting workflows  
  - **Construction** – Experience with project tracking, cost management, and operational reporting  
@@ -29,11 +33,15 @@ Hi, I’m **Cyrus Baruc**, I help finance, operations, and project teams make sm
  - **Manufacturing (OEE)** – Deep understanding of Overall Equipment Effectiveness, downtime tracking, and performance KPIs  
  - **Managed Service Provider (MSP)** – Ticketing metrics, SLA monitoring, asset reporting, and support performance
 
+---
+
 ## Key Skills & Technologies
 - **Data Analysis & Modeling** – Power BI, Data Visualization, DAX, Semantic Model Architecture, Financial Modeling & Forecasting, Performance Tuning 
 - **Fabric & Data Engineering** – Microsoft Fabric, Lakehouse & Data Warehouse, Data Ingestion, CI/CD & Pipeline Orchestration 
 - **Languages & Tools** – Python, SQL, Power Query M, Azure DevOps, Visual Studio, Report Builder, Power Automate, Power Apps 
 - **Governance & Cloud** – Microsoft Entra ID, Row-Level Security (RLS) & OLS, Dataverse/Dynamics 365, Microsoft Office 365
+
+---
 
 ## Integrated Systems
 - **SAP Business Warehouse (BW)** – Data extraction, modeling, and reporting for finance and revenue analytics  
@@ -45,6 +53,8 @@ Hi, I’m **Cyrus Baruc**, I help finance, operations, and project teams make sm
 - **Local Server / On-Premises Data Gateway** – Connect on-premises databases, Excel, and other local files securely to Power BI
 - **Azure Blob Storage** – Access and analyze large datasets stored in cloud storage for scalable reporting and analytics
 
+---
+
 ## Delivery Approach
 I follow a structured and collaborative approach to ensure successful project execution from start to finish:
 - **Requirements Gathering**
@@ -55,6 +65,8 @@ I follow a structured and collaborative approach to ensure successful project ex
   Train users and provide documentation to promote self-service analytics and adoption.
 - **Deployment & Support**
   Ensure smooth rollouts, maintain solution performance, and implement iterative improvements based on feedback.
+
+---
 
 ## Key Projects
 While I have completed numerous projects, I selectively showcase only my best work.
