@@ -1,7 +1,7 @@
 # Welcome to My Data Portfolio 📈
 
 ## About Me
-Hi, I’m **Cyrus Baruc**, I help **finance**, **operations**, and **project teams** make smarter decisions by understanding business processes and delivering **Power BI dashboards**, **analytics**, and **automated workflows** that drive real impact. With a strong **engineering and electronics background**, I bring disciplined problem-solving, critical thinking, and methodical analysis to every project, ensuring data solutions are both **reliable and business-ready**.
+Hi, I’m **Cyrus Baruc**, I help **finance**, **operations**, and **project teams** make smarter decisions by understanding business processes and delivering **Power BI dashboards**, **analytics**, and **automated workflows** that drive real impact. With a strong **automated test equipment (ATE) and electronics background**, I bring disciplined problem-solving, critical thinking, and methodical analysis to every project, ensuring data solutions are both **reliable and business-ready**.
 
 ## Education
 **Bachelor of Science in Industrial Technology**, Major in Electronics
@@ -45,18 +45,16 @@ Hi, I’m **Cyrus Baruc**, I help **finance**, **operations**, and **project tea
 - **Local Server / On-Premises Data Gateway** – Connect on-premises databases, Excel, and other local files securely to Power BI
 - **Azure Blob Storage** – Access and analyze large datasets stored in cloud storage for scalable reporting and analytics
 
-## Project Lifecycle & Delivery Approach
+## Delivery Approach
 I follow a structured and collaborative approach to ensure successful project execution from start to finish:
 - **Requirements Gathering**
-  Engage with stakeholders to understand objectives, pain points, and desired outcomes. Translate business needs into clear, actionable data requirements.
+  Collaborate with stakeholders to capture objectives and translate them into actionable data solutions.
 - **Development**
-  Leverage tools like Power BI, Power Automate, Power Apps, SharePoint, and Microsoft Fabric to design and build scalable, intuitive solutions—prioritizing clarity, performance, and user engagement.
-- **User Training**
-  Conduct hands-on training sessions and create user-friendly documentation to support seamless adoption and promote self-service analytics.
-- **Deployment**
-  Manage smooth rollouts by integrating solutions into existing business environments with minimal disruption.
-- **Maintenance & Support**
-  Provide ongoing support, performance optimization, and iterative improvements based on user feedback and evolving business requirements.
+  Design and build scalable dashboards and end-to-end data workflows (ETL, pipelines, and reporting) using Power BI, Power Platform, and Microsoft Fabric.
+- **User Enablement**
+  Train users and provide documentation to promote self-service analytics and adoption.
+- **Deployment & Support**
+  Ensure smooth rollouts, maintain solution performance, and implement iterative improvements based on feedback.
 
 ## Key Projects
 While I have completed numerous projects, I selectively showcase only my best work.
