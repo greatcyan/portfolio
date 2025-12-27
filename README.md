@@ -1,7 +1,7 @@
 # Welcome to My Data Portfolio 📈
 
 ## About Me
-Hi, I’m **Cyrus Baruc**, a Power BI Developer and Analytics Professional with a strong engineering foundation and a passion for turning complex data into actionable business insights. I bring over 10 years of experience in Electronics and Automation Test Equipment (ATE), where I developed disciplined critical thinking, methodical troubleshooting, and root-cause analysis skills. That background continues to shape how I approach analytics—breaking down complex problems and delivering reliable, scalable data solutions. For the past 3 years, I’ve specialized in Power BI, Power Platform, and Microsoft Fabric, building semantic data models, optimized pipelines, and intuitive dashboards. I also support Dynamics 365 and Dataverse solutions and automate workflows to improve data accuracy, performance, and decision-making. I enjoy bridging technical solutions with business needs, continuously learning new technologies, and delivering analytics that drive real-world impact.
+Hi, I’m **Cyrus Baruc**, I help **finance**, **operations**, and **project teams** make smarter decisions by understanding business processes and delivering **Power BI dashboards**, **analytics**, and **automated workflows** that drive real impact. With a strong **engineering and electronics background**, I bring disciplined problem-solving, critical thinking, and methodical analysis to every project, ensuring data solutions are both **reliable and business-ready**.
 
 ## Education
 **Bachelor of Science in Industrial Technology**, Major in Electronics
@@ -116,3 +116,5 @@ SharePoint · Power Automate · Power BI · SAP
 
 - [Aggregation Functions](SQL Aggregation Functions.md){:target="_blank"}
 - [Nested Queries](SQL Subqueries.md){:target="_blank"}
+
+<!--Hi, I’m **Cyrus Baruc**, a Power BI Developer and Analytics Professional with a strong engineering foundation and a passion for turning complex data into actionable business insights. I bring over 10 years of experience in Electronics and Automation Test Equipment (ATE), where I developed disciplined critical thinking, methodical troubleshooting, and root-cause analysis skills. That background continues to shape how I approach analytics—breaking down complex problems and delivering reliable, scalable data solutions. For the past 3 years, I’ve specialized in Power BI, Power Platform, and Microsoft Fabric, building semantic data models, optimized pipelines, and intuitive dashboards. I also support Dynamics 365 and Dataverse solutions and automate workflows to improve data accuracy, performance, and decision-making. I enjoy bridging technical solutions with business needs, continuously learning new technologies, and delivering analytics that drive real-world impact.-->
