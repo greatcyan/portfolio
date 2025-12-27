@@ -1,4 +1,4 @@
-# Welcome to My Data Portfolio 📊📈
+# Welcome to My Data Portfolio 📈
 
 ## About Me
 Hi, I’m **Cyrus Baruc**, a Power BI Developer and Analytics Professional with a strong engineering foundation and a passion for turning complex data into actionable business insights. I bring over 10 years of experience in Electronics and Automation Test Equipment (ATE), where I developed disciplined critical thinking, methodical troubleshooting, and root-cause analysis skills. That background continues to shape how I approach analytics—breaking down complex problems and delivering reliable, scalable data solutions. For the past 3 years, I’ve specialized in Power BI, Power Platform, and Microsoft Fabric, building semantic data models, optimized pipelines, and intuitive dashboards. I also support Dynamics 365 and Dataverse solutions and automate workflows to improve data accuracy, performance, and decision-making. I enjoy bridging technical solutions with business needs, continuously learning new technologies, and delivering analytics that drive real-world impact.
