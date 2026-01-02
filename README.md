@@ -111,7 +111,7 @@ Designed and implemented a Power Automate workflow to support RAR (Revenue Accou
 
 
 ## Kudos & Recognition
-<img width="1365" height="358" alt="image" src="https://github.com/user-attachments/assets/fcb33344-8292-47e3-87e3-4c9d5219bcee" />
+[Kudos](https://github.com/user-attachments/assets/fcb33344-8292-47e3-87e3-4c9d5219bcee)
 
 
 
