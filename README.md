@@ -109,6 +109,13 @@ Developed a Power Apps interface to collect business commentary linked to revenu
 ![RAR Power Automate Flow](https://github.com/user-attachments/assets/71cdedd5-63b3-4c66-b0f4-295aa7982c9a)
 Designed and implemented a Power Automate workflow to support RAR (Revenue Accounting & Recognition) data validation metrics. By integrating Microsoft ecosystem and Power Platform components, the solution automated validation checks and reporting workflows, reduced manual validation time, improved data consistency, and provided timely, reliable insights to the Revenue Accounting team for faster and more confident decision-making.
 
+
+## Kudos & Recognition
+<img width="1365" height="358" alt="image" src="https://github.com/user-attachments/assets/fcb33344-8292-47e3-87e3-4c9d5219bcee" />
+
+
+
+
 <!--**Technologies Used:**  
 SharePoint · Power Automate · Power BI · SAP -->
 
