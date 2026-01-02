@@ -13,9 +13,8 @@ Hi, I’m **Cyrus Baruc**. I am a results-driven Power BI Developer/Fabric Analy
 - Data Governance & Quality – Implementing RLS, item-level and workspace permissions, and standardized metrics to ensure secure, consistent, and trusted reporting.
 - Business Impact – Delivering actionable insights through Power BI to support informed decision-making, cost control, and performance improvement.
 
-### Kudos from Previous Team
-*“Cyrus was always proactive, quickly attending to any issues and politely answering any questions from our team. His willingness to work with us and share insightful information has been crucial to improving our reporting and analysis. On behalf of the team, we really appreciate his efforts and his support during this project.”*  
-— **Revenue Accounting Manager, Lexmark**
+### What Others Say
+*“Cyrus was always proactive, quickly attending to any issues and politely answering any questions from our team. His willingness to work with us and share insightful information has been crucial to improving our reporting and analysis. On behalf of the team, we really appreciate his efforts and his support during this project.”*  — **Revenue Accounting Manager, Lexmark**
 ![Kudos](https://github.com/user-attachments/assets/fcb33344-8292-47e3-87e3-4c9d5219bcee)
 
 ---
