@@ -49,8 +49,11 @@ Hi, I’m **Cyrus Baruc**. I am a results-driven Power BI Developer/Fabric Analy
 - **Fabric & Data Engineering:** – Microsoft Fabric (Lakehouse & Data Warehouse), Data Ingestion, CI/CD & Pipeline Orchestration
 - **Languages & Tools:** – T-SQL, KQL, Python (Pandas, PySpark), Azure DevOps, Visual Studio, Report Builder (Paginated Reports), Power Automate, Power Apps
 - **Governance & Cloud:** – Microsoft Entra ID, Row-Level Security (RLS), Column-Level Security (CLS), Object-Level Security (OLS), Power BI Admin Portal & Workspace management
-- **Integrated Systems & Data Sources:** ERP: SAP HANA, SAP BW, SAP Business Objects, SAP AFO | Databases & Platforms: SQL Server, Azure Blob Storage, Dataverse, Autodesk Construction Cloud (ACC), SharePoint (Folders & Lists) | On-Prem & Files: Local servers and shared drives (Excel, CSV, text files)
-- 
+- **Integrated Systems & Data Sources:**
+  - **ERP:** SAP HANA, SAP BW, SAP Business Objects, SAP AFO
+  - **Databases & Platforms:** SQL Server, Azure Blob Storage, Dataverse, Autodesk Construction Cloud (ACC), SharePoint (Folders & Lists)
+  - **On-Prem & Files:** Local servers and shared drives (Excel, CSV, text files)
+  
 ---
 
 ## Delivery Approach
