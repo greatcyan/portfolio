@@ -99,7 +99,6 @@ This dashboard enabled **Finance** and **Sales** teams to monitor revenue perfor
 
 ---
 
-
 ### 2. Revenue Driver Commentaries - Power Apps
 ![image](https://github.com/user-attachments/assets/24e79dc8-44c1-4dd7-8303-8590989a3767)
 Developed a Power Apps interface to collect business commentary linked to revenue data points and surface them in Power BI reports, reducing ad hoc clarification emails, accelerating insight consumption, and improving decision-making during revenue reviews.
@@ -108,15 +107,9 @@ Developed a Power Apps interface to collect business commentary linked to revenu
 
 ---
 
-
 ### 3. RAR Data Validation Metrics - Power BI + Power Automate 
 ![RAR Power Automate Flow](https://github.com/user-attachments/assets/71cdedd5-63b3-4c66-b0f4-295aa7982c9a)
 Designed and implemented a Power Automate workflow to support RAR (Revenue Accounting & Recognition) data validation metrics. By integrating Microsoft ecosystem and Power Platform components, the solution automated validation checks and reporting workflows, reduced manual validation time, improved data consistency, and provided timely, reliable insights to the Revenue Accounting team for faster and more confident decision-making.
-
-
-
-
-
 
 <!--**Technologies Used:**  
 SharePoint · Power Automate · Power BI · SAP -->
@@ -124,7 +117,7 @@ SharePoint · Power Automate · Power BI · SAP -->
 ---
 
 
-<!--## Python Knowledge Base
+## Python Programs
 
 - [Programs](Python programs.md){:target="_blank"}
 - [Sequences](Python sequence.md){:target="_blank"}
@@ -135,8 +128,11 @@ SharePoint · Power Automate · Power BI · SAP -->
 
 ---
 
-## SQL Code Library
+## SQL Queries
 
 - [Aggregation Functions](SQL Aggregation Functions.md){:target="_blank"}
-- [Nested Queries](SQL Subqueries.md){:target="_blank"}-->
+- [Nested Queries](SQL Subqueries.md){:target="_blank"}
 
+---
+
+> *More queries will be added soon, including DAX, Power Query M, KQL, PySpark, and T-SQL.*
