@@ -57,7 +57,8 @@ Hi, I’m **Cyrus Baruc**. I am a results-driven Power BI Developer/Fabric Analy
 ---
 
 ## Delivery Approach
-I follow a structured and collaborative approach to ensure successful project execution from start to finish:
+I follow a structured and collaborative approach to ensure successful project execution from start to finish.
+
 [👉 Click here to view requirements gathering template](https://forms.office.com/r/whN3NV3XBD)
 
 - **Requirements Gathering**
