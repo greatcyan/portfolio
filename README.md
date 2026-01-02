@@ -1,4 +1,4 @@
-# Welcome to My Data Portfolio 📈
+# Welcome, to My Data Portfolio!
 
 ---
 
@@ -133,6 +133,6 @@ SharePoint · Power Automate · Power BI · SAP -->
 - [Aggregation Functions](SQL Aggregation Functions.md){:target="_blank"}
 - [Nested Queries](SQL Subqueries.md){:target="_blank"}
 
----
+> *More content will be added soon, including Power BI projects and sample code using DAX, Power Query M, KQL, PySpark, and T-SQL, all utilizing Power BI, Power Platform, and the Microsoft Fabric.*
 
-> *More queries will be added soon, including DAX, Power Query M, KQL, PySpark, and T-SQL.*
+---
