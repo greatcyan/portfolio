@@ -6,6 +6,7 @@
 Hi, I’m **Cyrus Baruc**. I am a results-driven Power BI Developer/Fabric Analytics Engineer with 13 years of overall experience in problem solving and analytical thinking, now specializing in Data Analytics and Business Intelligence. My background in electronics, which trained me in logical thinking and system-level analysis, combined with my experience in stock trading, where I analyze charts and patterns to guide decisions gives me a strong analytical edge and a business-oriented mindset. I approach Power BI solutions from the perspective of the end user, ensuring the insights I deliver create real business value, not just visually appealing dashboards.
 
 ### What I Deliver
+[👉 Click here for the demonstration](https://youtu.be/7mUTfV3iECI)
 - Streamlined Reporting – Automated, consistent, and up-to-date reports using Power BI data models, scheduled refreshes, and interactive dashboards.
 - Data Integration & Modeling – Integrating data from sources like SQL Server, SAP, and SharePoint into unified, scalable Power BI models for consistent insights.
 - ETL & Automation – Developing and automating dataflows and pipelines in Power BI, integrating data from Lakehouse/warehouse and on-premises sources via gateways for consistent and reliable processing.
